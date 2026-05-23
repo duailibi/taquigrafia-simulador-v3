@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "classificacao",
+    "titulo": "Classificação",
+    "grupo": "Elementos técnicos",
+    "descricao": "Questões sobre classificação de sinais, sons, métodos, famílias e critérios de agrupamento.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "classificacao-001",
+      "assunto": "Classificação",
+      "subtema": "Critério",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Em relação ao tema agrupamento técnico, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "B": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico.",
+        "C": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "D": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "E": "Classificação é o agrupamento técnico de sinais, sons ou métodos por critérios reconhecíveis."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Classificação é o agrupamento técnico de sinais, sons ou métodos por critérios reconhecíveis. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-002",
+      "assunto": "Classificação",
+      "subtema": "Famílias",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "No estudo de Classificação, a compreensão do tema três famílias de sinais exige reconhecer que:",
+      "alternativas": {
+        "A": "No método estudado, os dezessete sinais pertencem a famílias como curvos, retos e anelados.",
+        "B": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "C": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "D": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "E": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. No método estudado, os dezessete sinais pertencem a famílias como curvos, retos e anelados. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-003",
+      "assunto": "Classificação",
+      "subtema": "Curvos",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema família dos sinais curvos. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "B": "A família dos sinais curvos reúne traços de formato curvo, como séries CA/KA, VA, NA, JA/GA, RRA e RA.",
+        "C": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado.",
+        "D": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "E": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A família dos sinais curvos reúne traços de formato curvo, como séries CA/KA, VA, NA, JA/GA, RRA e RA. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-004",
+      "assunto": "Classificação",
+      "subtema": "Retos",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema família dos sinais retos, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "B": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias.",
+        "C": "A família dos sinais retos agrupa sinais de traçado retilíneo, como TA, DA, FA e SA/ZA.",
+        "D": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "E": "A classificação deve impedir a comparação entre sinais semelhantes."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A família dos sinais retos agrupa sinais de traçado retilíneo, como TA, DA, FA e SA/ZA. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-005",
+      "assunto": "Classificação",
+      "subtema": "Anelados",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema família dos sinais anelados deve ser compreendido como:",
+      "alternativas": {
+        "A": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "B": "A classificação deve impedir a comparação entre sinais semelhantes.",
+        "C": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "D": "A família dos sinais anelados reúne sinais com forma de anel ou laço, como PA, BA, MA, LA, NHA e LHA.",
+        "E": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A família dos sinais anelados reúne sinais com forma de anel ou laço, como PA, BA, MA, LA, NHA e LHA. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-006",
+      "assunto": "Classificação",
+      "subtema": "Didática",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "A respeito do tema facilitação do estudo, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "B": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico.",
+        "C": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "D": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "E": "Classificar facilita o estudo porque permite aprender blocos de sinais por semelhança de forma e uso."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Classificar facilita o estudo porque permite aprender blocos de sinais por semelhança de forma e uso. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-007",
+      "assunto": "Classificação",
+      "subtema": "Sons",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema classificação de sons indica que:",
+      "alternativas": {
+        "A": "Classificar sons ajuda a perceber quais fonemas compartilham tratamento semelhante no sistema.",
+        "B": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "C": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "D": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "E": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Classificar sons ajuda a perceber quais fonemas compartilham tratamento semelhante no sistema. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-008",
+      "assunto": "Classificação",
+      "subtema": "Métodos",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Em uma prova objetiva sobre Classificação, quando o foco é classificação dos métodos, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "B": "Métodos podem ser comparados por critérios como base fonética, uso de geometria, letras comuns ou organização silábica.",
+        "C": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado.",
+        "D": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "E": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Métodos podem ser comparados por critérios como base fonética, uso de geometria, letras comuns ou organização silábica. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-009",
+      "assunto": "Classificação",
+      "subtema": "Forma",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Em relação ao tema critério visual, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "B": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias.",
+        "C": "A forma visual do traço é critério relevante para separar sinais curvos, retos e anelados.",
+        "D": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "E": "A classificação deve impedir a comparação entre sinais semelhantes."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A forma visual do traço é critério relevante para separar sinais curvos, retos e anelados. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-010",
+      "assunto": "Classificação",
+      "subtema": "Função",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "No estudo de Classificação, a compreensão do tema critério funcional exige reconhecer que:",
+      "alternativas": {
+        "A": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "B": "A classificação deve impedir a comparação entre sinais semelhantes.",
+        "C": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "D": "A função sonora do sinal também é critério de classificação, pois cada família representa grupos fonéticos.",
+        "E": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A função sonora do sinal também é critério de classificação, pois cada família representa grupos fonéticos. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-011",
+      "assunto": "Classificação",
+      "subtema": "Memória",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema memória por famílias. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "B": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico.",
+        "C": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "D": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "E": "Aprender famílias reduz a carga de memorização, já que o estudante identifica padrões recorrentes."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Aprender famílias reduz a carga de memorização, já que o estudante identifica padrões recorrentes. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-012",
+      "assunto": "Classificação",
+      "subtema": "Leitura",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema distinção entre sinais, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A classificação ajuda a distinguir sinais parecidos e evita confusão na leitura posterior.",
+        "B": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "C": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "D": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "E": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A classificação ajuda a distinguir sinais parecidos e evita confusão na leitura posterior. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-013",
+      "assunto": "Classificação",
+      "subtema": "Aplicação",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema estudo antes da velocidade deve ser compreendido como:",
+      "alternativas": {
+        "A": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "B": "Antes de buscar velocidade, o estudante deve reconhecer a classe e o valor dos sinais que escreve.",
+        "C": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado.",
+        "D": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "E": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Antes de buscar velocidade, o estudante deve reconhecer a classe e o valor dos sinais que escreve. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-014",
+      "assunto": "Classificação",
+      "subtema": "Sistema",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "A respeito do tema coerência interna, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "B": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias.",
+        "C": "A classificação mostra que o método possui coerência interna, e não apenas lista de desenhos soltos.",
+        "D": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "E": "A classificação deve impedir a comparação entre sinais semelhantes."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A classificação mostra que o método possui coerência interna, e não apenas lista de desenhos soltos. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-015",
+      "assunto": "Classificação",
+      "subtema": "Comparativo",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema diferença entre sistemas indica que:",
+      "alternativas": {
+        "A": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "B": "A classificação deve impedir a comparação entre sinais semelhantes.",
+        "C": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "D": "Comparar classificações permite perceber diferenças entre sistemas geométricos, silábicos e fonéticos.",
+        "E": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Comparar classificações permite perceber diferenças entre sistemas geométricos, silábicos e fonéticos. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-016",
+      "assunto": "Classificação",
+      "subtema": "Fonemas",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Em uma prova objetiva sobre Classificação, quando o foco é sons como objeto de classificação, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "B": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico.",
+        "C": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "D": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "E": "Como a taquigrafia é fonética, sons e fonemas são objetos naturais de classificação."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Como a taquigrafia é fonética, sons e fonemas são objetos naturais de classificação. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-017",
+      "assunto": "Classificação",
+      "subtema": "Sílaba",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Em relação ao tema classificação por famílias silábicas, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Séries PA, PE, PI, PO e PU mostram classificação por famílias silábicas relacionadas.",
+        "B": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "C": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "D": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "E": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Séries PA, PE, PI, PO e PU mostram classificação por famílias silábicas relacionadas. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-018",
+      "assunto": "Classificação",
+      "subtema": "Início de palavra",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo de Classificação, a compreensão do tema vogais iniciais exige reconhecer que:",
+      "alternativas": {
+        "A": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "B": "O alfabeto com vogais no início indica classificação específica para posição inicial da vogal.",
+        "C": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado.",
+        "D": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "E": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O alfabeto com vogais no início indica classificação específica para posição inicial da vogal. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-019",
+      "assunto": "Classificação",
+      "subtema": "Posição",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema início, meio e final. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "B": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias.",
+        "C": "O estudo dos sons considera posição na palavra: início, meio e final, o que também organiza a aprendizagem.",
+        "D": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "E": "A classificação deve impedir a comparação entre sinais semelhantes."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O estudo dos sons considera posição na palavra: início, meio e final, o que também organiza a aprendizagem. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-020",
+      "assunto": "Classificação",
+      "subtema": "Ch/X",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema agrupamento por som, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "B": "A classificação deve impedir a comparação entre sinais semelhantes.",
+        "C": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "D": "Agrupar CHA e XA faz sentido quando o critério é som, não aparência ortográfica.",
+        "E": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Agrupar CHA e XA faz sentido quando o critério é som, não aparência ortográfica. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-021",
+      "assunto": "Classificação",
+      "subtema": "G/J",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema variação sonora deve ser compreendido como:",
+      "alternativas": {
+        "A": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "B": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico.",
+        "C": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "D": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "E": "Classificar sons de g e j exige atenção ao valor fonético, especialmente em palavras como gato e gelo."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Classificar sons de g e j exige atenção ao valor fonético, especialmente em palavras como gato e gelo. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-022",
+      "assunto": "Classificação",
+      "subtema": "S/SS/SC",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "A respeito do tema equivalências sonoras, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "S, SS e SC podem representar sons semelhantes, o que justifica classificação fonética em vez de apenas gráfica.",
+        "B": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "C": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "D": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "E": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. S, SS e SC podem representar sons semelhantes, o que justifica classificação fonética em vez de apenas gráfica. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-023",
+      "assunto": "Classificação",
+      "subtema": "X",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema múltiplos sons indica que:",
+      "alternativas": {
+        "A": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "B": "A letra x exige classificação cuidadosa porque pode representar sons como ch, cs, z, ss ou s.",
+        "C": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado.",
+        "D": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "E": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A letra x exige classificação cuidadosa porque pode representar sons como ch, cs, z, ss ou s. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-024",
+      "assunto": "Classificação",
+      "subtema": "Treino",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Em uma prova objetiva sobre Classificação, quando o foco é exercícios por grupo, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "B": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias.",
+        "C": "Exercícios por grupos de sinais consolidam classe, forma e valor sonoro ao mesmo tempo.",
+        "D": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "E": "A classificação deve impedir a comparação entre sinais semelhantes."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Exercícios por grupos de sinais consolidam classe, forma e valor sonoro ao mesmo tempo. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-025",
+      "assunto": "Classificação",
+      "subtema": "Erro",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Em relação ao tema classificação mal aplicada, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "B": "A classificação deve impedir a comparação entre sinais semelhantes.",
+        "C": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "D": "Classificação mal aplicada leva a trocar famílias de sinais e compromete a tradução dos taquigramas.",
+        "E": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Classificação mal aplicada leva a trocar famílias de sinais e compromete a tradução dos taquigramas. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-026",
+      "assunto": "Classificação",
+      "subtema": "Objetivo",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "No estudo de Classificação, a compreensão do tema organizar conhecimento exige reconhecer que:",
+      "alternativas": {
+        "A": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "B": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico.",
+        "C": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "D": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "E": "O objetivo da classificação é organizar conhecimento para acelerar aprendizagem e reduzir ambiguidades."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O objetivo da classificação é organizar conhecimento para acelerar aprendizagem e reduzir ambiguidades. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-027",
+      "assunto": "Classificação",
+      "subtema": "Limite",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema não substitui prática. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Classificar não substitui prática, mas orienta a prática para que ela seja mais racional.",
+        "B": "As famílias de sinais não ajudam no estudo, pois todos os traços têm a mesma forma.",
+        "C": "Sinais curvos, retos e anelados são categorias de acentuação, não de traçado.",
+        "D": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "E": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Classificar não substitui prática, mas orienta a prática para que ela seja mais racional. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-028",
+      "assunto": "Classificação",
+      "subtema": "Documento",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema classificação e revisão, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A classificação elimina a necessidade de praticar os sinais em palavras.",
+        "B": "Ao revisar, reconhecer a classe do sinal ajuda a confirmar qual som ou sílaba foi registrado.",
+        "C": "Os métodos taquigráficos são classificados apenas pela cor do papel utilizado.",
+        "D": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "E": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Ao revisar, reconhecer a classe do sinal ajuda a confirmar qual som ou sílaba foi registrado. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-029",
+      "assunto": "Classificação",
+      "subtema": "Método Taylor",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema classificação no método deve ser compreendido como:",
+      "alternativas": {
+        "A": "Classificar sons é inútil em escrita fonética, porque o som não interfere no sinal.",
+        "B": "Todos os sistemas de taquigrafia usam exatamente os mesmos sinais e famílias.",
+        "C": "No método Taylor do PDF, classificação aparece após alfabeto e significados, como etapa de consolidação.",
+        "D": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "E": "A classificação deve impedir a comparação entre sinais semelhantes."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. No método Taylor do PDF, classificação aparece após alfabeto e significados, como etapa de consolidação. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "classificacao-030",
+      "assunto": "Classificação",
+      "subtema": "Síntese",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "A respeito do tema ponte entre forma e som, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A família dos sinais retos inclui exclusivamente sinais circulares.",
+        "B": "A classificação deve impedir a comparação entre sinais semelhantes.",
+        "C": "O estudante só deve estudar classificação depois de dominar transcrição automática.",
+        "D": "A classificação funciona como ponte entre forma gráfica do sinal e som que ele representa.",
+        "E": "Classificar sinais significa ordená-los por preferência pessoal, sem critério técnico."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A classificação funciona como ponte entre forma gráfica do sinal e som que ele representa. As demais alternativas trocam os critérios de classificação, negam as famílias de sinais ou tratam agrupamentos didáticos como irrelevantes. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}

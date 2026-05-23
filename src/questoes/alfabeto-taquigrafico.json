@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "alfabeto-taquigrafico",
+    "titulo": "Alfabeto Taquigráfico",
+    "grupo": "Elementos técnicos",
+    "descricao": "Questões sobre sinais básicos, organização do sistema, fonemas, famílias e memorização.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "alfabeto-taquigrafico-001",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Estrutura",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "Em relação ao tema dezessete sinais, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "B": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais.",
+        "C": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "D": "O material informa que a taquigrafia é feita com dezessete sinais taquigráficos básicos no método estudado.",
+        "E": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. O material informa que a taquigrafia é feita com dezessete sinais taquigráficos básicos no método estudado. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-002",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Valor",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "No estudo de Alfabeto taquigráfico, a compreensão do tema cada sinal significa uma sílaba exige reconhecer que:",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "B": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra.",
+        "C": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "D": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "E": "Cada sinal básico significa uma sílaba ou família silábica, o que explica a economia gráfica do sistema."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Cada sinal básico significa uma sílaba ou família silábica, o que explica a economia gráfica do sistema. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-003",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Alfabetos",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema sem vogais no início. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O método apresenta um alfabeto para formas sem vogais no início da palavra.",
+        "B": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "C": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "D": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "E": "A organização dos sinais prejudica a leitura posterior e deve ser evitada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O método apresenta um alfabeto para formas sem vogais no início da palavra. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-004",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Alfabetos",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema com vogais no início, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "B": "O método também apresenta alfabeto com vogais no início da palavra, tratando séries como ACA, AKA e AQUI.",
+        "C": "A organização dos sinais prejudica a leitura posterior e deve ser evitada.",
+        "D": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "E": "A relação com fonemas é irrelevante para a escolha do taquigrama."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O método também apresenta alfabeto com vogais no início da palavra, tratando séries como ACA, AKA e AQUI. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-005",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Fonemas",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema sinais para fonemas deve ser compreendido como:",
+      "alternativas": {
+        "A": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "B": "A relação com fonemas é irrelevante para a escolha do taquigrama.",
+        "C": "O alfabeto organiza sinais que representam fonemas ou combinações sonoras, e não simples letras comuns.",
+        "D": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "E": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O alfabeto organiza sinais que representam fonemas ou combinações sonoras, e não simples letras comuns. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-006",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Memorização",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "A respeito do tema domínio dos sinais, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "B": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais.",
+        "C": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "D": "Memorizar os sinais básicos é condição para escrever sem hesitação e ler os taquigramas depois.",
+        "E": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Memorizar os sinais básicos é condição para escrever sem hesitação e ler os taquigramas depois. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-007",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Organização",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema sistema de aprendizagem indica que:",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "B": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra.",
+        "C": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "D": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "E": "A organização do alfabeto facilita estudo progressivo, prática e conferência de sinais semelhantes."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A organização do alfabeto facilita estudo progressivo, prática e conferência de sinais semelhantes. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-008",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Famílias",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Em uma prova objetiva sobre Alfabeto taquigráfico, quando o foco é curvos, retos e anelados, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Os sinais do alfabeto podem ser classificados em famílias curvadas, retas e aneladas.",
+        "B": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "C": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "D": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "E": "A organização dos sinais prejudica a leitura posterior e deve ser evitada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Os sinais do alfabeto podem ser classificados em famílias curvadas, retas e aneladas. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-009",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Curvos",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "Em relação ao tema sinais curvos, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "B": "Famílias como CA/KA, VA, NA, JA/GA, RRA e RA aparecem entre os sinais curvos no material.",
+        "C": "A organização dos sinais prejudica a leitura posterior e deve ser evitada.",
+        "D": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "E": "A relação com fonemas é irrelevante para a escolha do taquigrama."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Famílias como CA/KA, VA, NA, JA/GA, RRA e RA aparecem entre os sinais curvos no material. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-010",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Retos",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "No estudo de Alfabeto taquigráfico, a compreensão do tema sinais retos exige reconhecer que:",
+      "alternativas": {
+        "A": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "B": "A relação com fonemas é irrelevante para a escolha do taquigrama.",
+        "C": "TA, DA, FA e SA/ZA estão associados à família dos sinais retos.",
+        "D": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "E": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. TA, DA, FA e SA/ZA estão associados à família dos sinais retos. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-011",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Anelados",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema sinais anelados. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "B": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais.",
+        "C": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "D": "PA, BA, CHA/XA, MA, LA, NHA e LHA aparecem na família dos sinais anelados.",
+        "E": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. PA, BA, CHA/XA, MA, LA, NHA e LHA aparecem na família dos sinais anelados. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-012",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Sílaba",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema família silábica, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "B": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra.",
+        "C": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "D": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "E": "Um mesmo sinal pode abrir uma família de sílabas, como PA, PE, PI, PO e PU."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Um mesmo sinal pode abrir uma família de sílabas, como PA, PE, PI, PO e PU. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-013",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Exemplos",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema CA, KA e QUA deve ser compreendido como:",
+      "alternativas": {
+        "A": "O alfabeto agrupa sons próximos, como CA, KA e QUA, conforme a relação fonética do método.",
+        "B": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "C": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "D": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "E": "A organização dos sinais prejudica a leitura posterior e deve ser evitada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O alfabeto agrupa sons próximos, como CA, KA e QUA, conforme a relação fonética do método. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-014",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Vogais",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "A respeito do tema vogal inicial marcada, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "B": "A existência de séries com A inicial mostra que o método trata de modo específico palavras iniciadas por vogal.",
+        "C": "A organização dos sinais prejudica a leitura posterior e deve ser evitada.",
+        "D": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "E": "A relação com fonemas é irrelevante para a escolha do taquigrama."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A existência de séries com A inicial mostra que o método trata de modo específico palavras iniciadas por vogal. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-015",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Leitura",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema reconhecimento posterior indica que:",
+      "alternativas": {
+        "A": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "B": "A relação com fonemas é irrelevante para a escolha do taquigrama.",
+        "C": "O alfabeto deve ser aprendido para que o taquígrafo reconheça depois o que escreveu em velocidade.",
+        "D": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "E": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O alfabeto deve ser aprendido para que o taquígrafo reconheça depois o que escreveu em velocidade. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-016",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Traçado",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Em uma prova objetiva sobre Alfabeto taquigráfico, quando o foco é economia do sinal, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "B": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais.",
+        "C": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "D": "Os sinais básicos são desenhados para favorecer rapidez e economia de movimento.",
+        "E": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Os sinais básicos são desenhados para favorecer rapidez e economia de movimento. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-017",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Diferença",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Em relação ao tema não é alfabeto comum, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "B": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra.",
+        "C": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "D": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "E": "Embora se chame alfabeto, o alfabeto taquigráfico não se confunde com a sequência de letras ordinárias."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Embora se chame alfabeto, o alfabeto taquigráfico não se confunde com a sequência de letras ordinárias. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-018",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Som",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "No estudo de Alfabeto taquigráfico, a compreensão do tema base sonora exige reconhecer que:",
+      "alternativas": {
+        "A": "A base sonora explica por que grafias diferentes podem receber tratamento semelhante no alfabeto taquigráfico.",
+        "B": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "C": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "D": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "E": "A organização dos sinais prejudica a leitura posterior e deve ser evitada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A base sonora explica por que grafias diferentes podem receber tratamento semelhante no alfabeto taquigráfico. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-019",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Método",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema parte do método Taylor. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "B": "O alfabeto taquigráfico é parte do método e precisa ser estudado junto com regras e sons dos fonemas.",
+        "C": "A organização dos sinais prejudica a leitura posterior e deve ser evitada.",
+        "D": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "E": "A relação com fonemas é irrelevante para a escolha do taquigrama."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O alfabeto taquigráfico é parte do método e precisa ser estudado junto com regras e sons dos fonemas. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-020",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Aplicação",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema formação de palavras, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "B": "A relação com fonemas é irrelevante para a escolha do taquigrama.",
+        "C": "A partir dos sinais do alfabeto, o estudante forma palavras, expressões e frases em exercícios práticos.",
+        "D": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "E": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A partir dos sinais do alfabeto, o estudante forma palavras, expressões e frases em exercícios práticos. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-021",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Prática",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema exercícios por famílias deve ser compreendido como:",
+      "alternativas": {
+        "A": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "B": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais.",
+        "C": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "D": "Exercícios com taquigramas curvos, retos e anelados consolidam o uso das famílias do alfabeto.",
+        "E": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Exercícios com taquigramas curvos, retos e anelados consolidam o uso das famílias do alfabeto. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-022",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Consistência",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "A respeito do tema mesmo tamanho e forma, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "B": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra.",
+        "C": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "D": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "E": "Ao aplicar o alfabeto, os sinais devem manter tamanho e forma consistentes para evitar confusão."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Ao aplicar o alfabeto, os sinais devem manter tamanho e forma consistentes para evitar confusão. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-023",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Sequência",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema do sinal à palavra indica que:",
+      "alternativas": {
+        "A": "O processo vai do sinal básico à combinação em palavra, e depois à tradução para a escrita comum.",
+        "B": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "C": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "D": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "E": "A organização dos sinais prejudica a leitura posterior e deve ser evitada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O processo vai do sinal básico à combinação em palavra, e depois à tradução para a escrita comum. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-024",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Nomes",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "Em uma prova objetiva sobre Alfabeto taquigráfico, quando o foco é séries silábicas, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "B": "Séries como NA, NE, NI, NO e NU indicam que o alfabeto opera por séries silábicas.",
+        "C": "A organização dos sinais prejudica a leitura posterior e deve ser evitada.",
+        "D": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "E": "A relação com fonemas é irrelevante para a escolha do taquigrama."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Séries como NA, NE, NI, NO e NU indicam que o alfabeto opera por séries silábicas. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-025",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Ch e x",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "Em relação ao tema agrupamento sonoro, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "B": "A relação com fonemas é irrelevante para a escolha do taquigrama.",
+        "C": "O agrupamento CHA/XA mostra atenção à equivalência sonora, não à grafia isolada.",
+        "D": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "E": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O agrupamento CHA/XA mostra atenção à equivalência sonora, não à grafia isolada. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-026",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "G e j",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "No estudo de Alfabeto taquigráfico, a compreensão do tema sons próximos exige reconhecer que:",
+      "alternativas": {
+        "A": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "B": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais.",
+        "C": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "D": "Séries como JA/GA/GUA exigem perceber sons e contextos para escolher o sinal adequado.",
+        "E": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Séries como JA/GA/GUA exigem perceber sons e contextos para escolher o sinal adequado. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-027",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Treino",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema fluência no alfabeto. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico é uma cópia integral do alfabeto comum, sem sinais próprios.",
+        "B": "Os sinais básicos não precisam ser memorizados, pois são deduzidos livremente em cada palavra.",
+        "C": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "D": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "E": "Sem fluência no alfabeto, o estudante perde tempo escolhendo sinais e não acompanha a fala."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Sem fluência no alfabeto, o estudante perde tempo escolhendo sinais e não acompanha a fala. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-028",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Revisão",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema alfabeto como chave de tradução, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O alfabeto funciona como chave de tradução dos taquigramas para o texto comum.",
+        "B": "Cada sinal representa sempre uma letra isolada, nunca sílabas ou famílias sonoras.",
+        "C": "O método Taylor usa apenas um alfabeto e não distingue situações com vogal inicial.",
+        "D": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "E": "A organização dos sinais prejudica a leitura posterior e deve ser evitada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O alfabeto funciona como chave de tradução dos taquigramas para o texto comum. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-029",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Limite",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema não basta decorar lista deve ser compreendido como:",
+      "alternativas": {
+        "A": "O alfabeto taquigráfico serve para pontuar textos, não para representar sons.",
+        "B": "Decorar a lista não basta; é preciso aplicar os sinais em palavras reais e frases.",
+        "C": "A organização dos sinais prejudica a leitura posterior e deve ser evitada.",
+        "D": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "E": "A relação com fonemas é irrelevante para a escolha do taquigrama."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Decorar a lista não basta; é preciso aplicar os sinais em palavras reais e frases. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "alfabeto-taquigrafico-030",
+      "assunto": "Alfabeto taquigráfico",
+      "subtema": "Integração",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "A respeito do tema alfabeto e fonética, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Sinais curvos, retos e anelados pertencem exclusivamente à pontuação.",
+        "B": "A relação com fonemas é irrelevante para a escolha do taquigrama.",
+        "C": "O alfabeto taquigráfico integra forma gráfica e som, por isso se liga diretamente ao estudo dos fonemas.",
+        "D": "Aprender o alfabeto é etapa final, feita somente depois da transcrição avançada.",
+        "E": "O alfabeto taquigráfico dispensa qualquer classificação ou família de sinais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O alfabeto taquigráfico integra forma gráfica e som, por isso se liga diretamente ao estudo dos fonemas. As demais alternativas negam o papel dos sinais básicos, confundem alfabeto taquigráfico com alfabeto comum ou abandonam a lógica fonética. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}

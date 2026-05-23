@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "historia-da-taquigrafia",
+    "titulo": "História da Taquigrafia",
+    "grupo": "Conceitos básicos",
+    "descricao": "Questões sobre Notas Tironianas, Roma, Igreja, redescoberta e introdução parlamentar no Brasil.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "historia-da-taquigrafia-001",
+      "assunto": "História da taquigrafia",
+      "subtema": "Notas Tironianas",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Em relação ao tema primeiro sistema organizado, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "B": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum.",
+        "C": "As Notas Tironianas são apresentadas como o primeiro sistema organizado de taquigrafia aceito pelos historiadores no material estudado.",
+        "D": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "E": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. As Notas Tironianas são apresentadas como o primeiro sistema organizado de taquigrafia aceito pelos historiadores no material estudado. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-002",
+      "assunto": "História da taquigrafia",
+      "subtema": "Marco Túlio Tiro",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo de História da taquigrafia, a compreensão do tema secretário de Cícero exige reconhecer que:",
+      "alternativas": {
+        "A": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "B": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais.",
+        "C": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "D": "Marco Túlio Tiro, escravo e secretário de Cícero, é associado à criação das Notas Tironianas.",
+        "E": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Marco Túlio Tiro, escravo e secretário de Cícero, é associado à criação das Notas Tironianas. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-003",
+      "assunto": "História da taquigrafia",
+      "subtema": "Cícero",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema orador romano. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "B": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia.",
+        "C": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "D": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "E": "Cícero aparece como personagem central porque seus discursos e sua atuação no Senado Romano impulsionaram o uso de escreventes rápidos."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Cícero aparece como personagem central porque seus discursos e sua atuação no Senado Romano impulsionaram o uso de escreventes rápidos. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-004",
+      "assunto": "História da taquigrafia",
+      "subtema": "Senado Romano",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema registro de discursos, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O Senado Romano é lembrado como espaço de registro de discursos por meio de sinais breves em tabuletas enceradas.",
+        "B": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "C": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "D": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "E": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O Senado Romano é lembrado como espaço de registro de discursos por meio de sinais breves em tabuletas enceradas. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-005",
+      "assunto": "História da taquigrafia",
+      "subtema": "Catilinárias",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema tomada estenográfica deve ser compreendido como:",
+      "alternativas": {
+        "A": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "B": "O episódio das Catilinárias é citado como marco histórico de registro rápido de discurso na tradição romana.",
+        "C": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga.",
+        "D": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "E": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O episódio das Catilinárias é citado como marco histórico de registro rápido de discurso na tradição romana. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-006",
+      "assunto": "História da taquigrafia",
+      "subtema": "Verres",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "A respeito do tema discurso contra Verres, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "B": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum.",
+        "C": "O material menciona apanhamento estenográfico relacionado a discurso de Cícero contra Verres, datado de 70 a.C. por historiadores.",
+        "D": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "E": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O material menciona apanhamento estenográfico relacionado a discurso de Cícero contra Verres, datado de 70 a.C. por historiadores. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-007",
+      "assunto": "História da taquigrafia",
+      "subtema": "Plutarco",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema serviço de notários indica que:",
+      "alternativas": {
+        "A": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "B": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais.",
+        "C": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "D": "Plutarco é usado como fonte antiga para a notícia de escreventes instruídos a registrar discursos com sinais pequenos e breves.",
+        "E": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Plutarco é usado como fonte antiga para a notícia de escreventes instruídos a registrar discursos com sinais pequenos e breves. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-008",
+      "assunto": "História da taquigrafia",
+      "subtema": "Departamento parlamentar",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Em uma prova objetiva sobre História da taquigrafia, quando o foco é primeiro serviço organizado, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "B": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia.",
+        "C": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "D": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "E": "O serviço mobilizado por Cícero é tratado como antecedente de um departamento taquigráfico parlamentar."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O serviço mobilizado por Cícero é tratado como antecedente de um departamento taquigráfico parlamentar. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-009",
+      "assunto": "História da taquigrafia",
+      "subtema": "Igreja",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Em relação ao tema preservação e uso, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A Igreja e autores cristãos aparecem na história porque sermões e textos religiosos também foram conservados com auxílio de taquígrafos.",
+        "B": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "C": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "D": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "E": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A Igreja e autores cristãos aparecem na história porque sermões e textos religiosos também foram conservados com auxílio de taquígrafos. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-010",
+      "assunto": "História da taquigrafia",
+      "subtema": "São Jerônimo",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "No estudo de História da taquigrafia, a compreensão do tema uso das notas exige reconhecer que:",
+      "alternativas": {
+        "A": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "B": "São Jerônimo é citado no material como figura vinculada ao aprendizado e uso das Notas Tironianas.",
+        "C": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga.",
+        "D": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "E": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. São Jerônimo é citado no material como figura vinculada ao aprendizado e uso das Notas Tironianas. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-011",
+      "assunto": "História da taquigrafia",
+      "subtema": "Corte Papal",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema uso especial. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "B": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum.",
+        "C": "As Notas Tironianas tiveram uso especial na Corte Papal, o que mostra sua permanência para além da Roma republicana.",
+        "D": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "E": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. As Notas Tironianas tiveram uso especial na Corte Papal, o que mostra sua permanência para além da Roma republicana. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-012",
+      "assunto": "História da taquigrafia",
+      "subtema": "Redescoberta",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema obscuridade e estudos, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "B": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais.",
+        "C": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "D": "A redescoberta das Notas Tironianas envolveu estudos de manuscritos e tentativas de decifração após período de abandono.",
+        "E": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A redescoberta das Notas Tironianas envolveu estudos de manuscritos e tentativas de decifração após período de abandono. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-013",
+      "assunto": "História da taquigrafia",
+      "subtema": "Kopp",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema estudo comparativo deve ser compreendido como:",
+      "alternativas": {
+        "A": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "B": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia.",
+        "C": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "D": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "E": "Ulrich Friedrich Kopp é lembrado como estudioso importante da taquigrafia romana e de sua origem."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Ulrich Friedrich Kopp é lembrado como estudioso importante da taquigrafia romana e de sua origem. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-014",
+      "assunto": "História da taquigrafia",
+      "subtema": "Brasil",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "A respeito do tema introdução no Parlamento, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A introdução da taquigrafia no Parlamento brasileiro é atribuída no PDF à iniciativa de José Bonifácio de Andrada e Silva.",
+        "B": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "C": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "D": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "E": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A introdução da taquigrafia no Parlamento brasileiro é atribuída no PDF à iniciativa de José Bonifácio de Andrada e Silva. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-015",
+      "assunto": "História da taquigrafia",
+      "subtema": "Ofício de 1822",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema primeira aula oficial indica que:",
+      "alternativas": {
+        "A": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "B": "O ofício de 16 de agosto de 1822 nomeou Isidoro da Costa e Oliveira Júnior para reger uma aula de taquigrafia.",
+        "C": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga.",
+        "D": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "E": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O ofício de 16 de agosto de 1822 nomeou Isidoro da Costa e Oliveira Júnior para reger uma aula de taquigrafia. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-016",
+      "assunto": "História da taquigrafia",
+      "subtema": "Constituinte de 1823",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Em uma prova objetiva sobre História da taquigrafia, quando o foco é serviço parlamentar, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "B": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum.",
+        "C": "Em 3 de maio de 1823, a taquigrafia parlamentar passou a funcionar na primeira Assembleia Constituinte brasileira.",
+        "D": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "E": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Em 3 de maio de 1823, a taquigrafia parlamentar passou a funcionar na primeira Assembleia Constituinte brasileira. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-017",
+      "assunto": "História da taquigrafia",
+      "subtema": "Isidoro da Costa",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "Em relação ao tema ensino do método Taylor, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "B": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais.",
+        "C": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "D": "Isidoro da Costa e Oliveira Júnior foi encarregado de preparar taquígrafos e ensinou o método Taylor.",
+        "E": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Isidoro da Costa e Oliveira Júnior foi encarregado de preparar taquígrafos e ensinou o método Taylor. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-018",
+      "assunto": "História da taquigrafia",
+      "subtema": "Primeiros taquígrafos",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "No estudo de História da taquigrafia, a compreensão do tema condições adversas exige reconhecer que:",
+      "alternativas": {
+        "A": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "B": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia.",
+        "C": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "D": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "E": "Os primeiros taquígrafos parlamentares brasileiros trabalharam em condições adversas, sem recursos de som modernos."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Os primeiros taquígrafos parlamentares brasileiros trabalharam em condições adversas, sem recursos de som modernos. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-019",
+      "assunto": "História da taquigrafia",
+      "subtema": "Valor histórico",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema preservação dos debates. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A taquigrafia preservou debates legislativos que, sem registro rápido, poderiam ter sido perdidos para a história.",
+        "B": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "C": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "D": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "E": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A taquigrafia preservou debates legislativos que, sem registro rápido, poderiam ter sido perdidos para a história. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-020",
+      "assunto": "História da taquigrafia",
+      "subtema": "José Bonifácio",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema visão institucional, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "B": "José Bonifácio viu utilidade da taquigrafia em parlamentos estrangeiros e defendeu sua implantação no Brasil.",
+        "C": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga.",
+        "D": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "E": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. José Bonifácio viu utilidade da taquigrafia em parlamentos estrangeiros e defendeu sua implantação no Brasil. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-021",
+      "assunto": "História da taquigrafia",
+      "subtema": "Jaci Monteiro",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema personalidades brasileiras deve ser compreendido como:",
+      "alternativas": {
+        "A": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "B": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum.",
+        "C": "Jaci Monteiro é citado como destaque da taquigrafia brasileira, reconhecido por capacidade técnica e velocidade.",
+        "D": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "E": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Jaci Monteiro é citado como destaque da taquigrafia brasileira, reconhecido por capacidade técnica e velocidade. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-022",
+      "assunto": "História da taquigrafia",
+      "subtema": "Leonardo Mota",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "A respeito do tema folclore e registro, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "B": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais.",
+        "C": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "D": "Leonardo Mota usou a taquigrafia para recolher manifestações orais do folclore, mostrando aplicação cultural da técnica.",
+        "E": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Leonardo Mota usou a taquigrafia para recolher manifestações orais do folclore, mostrando aplicação cultural da técnica. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-023",
+      "assunto": "História da taquigrafia",
+      "subtema": "Personalidades",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema uso intelectual indica que:",
+      "alternativas": {
+        "A": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "B": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia.",
+        "C": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "D": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "E": "O PDF enumera escritores, cientistas e políticos que usaram ou valorizaram a estenografia, ampliando sua relevância histórica."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O PDF enumera escritores, cientistas e políticos que usaram ou valorizaram a estenografia, ampliando sua relevância histórica. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-024",
+      "assunto": "História da taquigrafia",
+      "subtema": "Augusto",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Em uma prova objetiva sobre História da taquigrafia, quando o foco é arte liberal, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "O imperador Augusto é citado como pessoa que valorizou e ensinou as Notas Tironianas, elevando o prestígio da técnica.",
+        "B": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "C": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "D": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "E": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O imperador Augusto é citado como pessoa que valorizou e ensinou as Notas Tironianas, elevando o prestígio da técnica. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-025",
+      "assunto": "História da taquigrafia",
+      "subtema": "Antiguidade",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Em relação ao tema tabuleta e estilo, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "B": "Na representação antiga, o taquígrafo registrava em tabuleta encerada com estilo, usando sinais breves.",
+        "C": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga.",
+        "D": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "E": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Na representação antiga, o taquígrafo registrava em tabuleta encerada com estilo, usando sinais breves. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-026",
+      "assunto": "História da taquigrafia",
+      "subtema": "Documentação",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "No estudo de História da taquigrafia, a compreensão do tema não apenas velocidade exige reconhecer que:",
+      "alternativas": {
+        "A": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "B": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum.",
+        "C": "Historicamente, a taquigrafia não serviu apenas à velocidade, mas à formação de memória documental de discursos.",
+        "D": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "E": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Historicamente, a taquigrafia não serviu apenas à velocidade, mas à formação de memória documental de discursos. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-027",
+      "assunto": "História da taquigrafia",
+      "subtema": "Parlamento",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema continuidade institucional. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O uso histórico pela Igreja é irrelevante, pois as notas desapareceram definitivamente logo após Roma.",
+        "B": "A redescoberta das Notas Tironianas ocorreu por gravações sonoras preservadas em arquivos medievais.",
+        "C": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "D": "A história parlamentar mostra continuidade entre registro oral, revisão e publicação de debates oficiais.",
+        "E": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A história parlamentar mostra continuidade entre registro oral, revisão e publicação de debates oficiais. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-028",
+      "assunto": "História da taquigrafia",
+      "subtema": "Fontes",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema historiadores da estenografia, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "José Bonifácio se opôs à implantação da taquigrafia no Parlamento brasileiro.",
+        "B": "Isidoro da Costa e Oliveira Júnior foi citado apenas como orador, sem relação com ensino de taquigrafia.",
+        "C": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "D": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "E": "O material recorre a autores como Sarpe, Faulmann, Kopp e Anderson para fundamentar a história da estenografia."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O material recorre a autores como Sarpe, Faulmann, Kopp e Anderson para fundamentar a história da estenografia. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-029",
+      "assunto": "História da taquigrafia",
+      "subtema": "Cronologia",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema Roma antes do Brasil deve ser compreendido como:",
+      "alternativas": {
+        "A": "A cronologia correta distingue a origem romana antiga das Notas Tironianas e a implantação brasileira no século XIX.",
+        "B": "A história da taquigrafia parlamentar brasileira começa apenas com a internet.",
+        "C": "Os registros taquigráficos antigos tinham finalidade estética, sem função documental.",
+        "D": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "E": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A cronologia correta distingue a origem romana antiga das Notas Tironianas e a implantação brasileira no século XIX. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "historia-da-taquigrafia-030",
+      "assunto": "História da taquigrafia",
+      "subtema": "Tradição",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "A respeito do tema taquigrafia como prática duradoura, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O primeiro sistema organizado reconhecido pelo material foi criado no século XX para uso exclusivo de máquinas de escrever.",
+        "B": "A história evidencia que a taquigrafia atravessou contextos políticos, religiosos e culturais antes de chegar aos usos modernos.",
+        "C": "As Notas Tironianas surgiram no Parlamento brasileiro, sem vínculo com Roma antiga.",
+        "D": "Cícero rejeitou o uso de escreventes rápidos e impediu o registro de discursos no Senado Romano.",
+        "E": "Marco Túlio Tiro ficou conhecido por abolir sinais abreviados e defender apenas a escrita comum."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A história evidencia que a taquigrafia atravessou contextos políticos, religiosos e culturais antes de chegar aos usos modernos. As demais alternativas deslocam datas, personagens e instituições, atribuindo a origem a atores que não correspondem ao núcleo histórico estudado. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}

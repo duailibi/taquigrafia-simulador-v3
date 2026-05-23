@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "sons-dos-fonemas",
+    "titulo": "Sons dos Fonemas",
+    "grupo": "Elementos técnicos",
+    "descricao": "Questões sobre fonema, letra e som, equivalências sonoras e escrita fonética.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "sons-dos-fonemas-001",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Conceito",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Em relação ao tema fonema como som, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Fonema é unidade sonora percebida na fala; por isso se distingue da letra usada na escrita comum.",
+        "B": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "C": "A letra x possui um único som em português, independentemente da palavra.",
+        "D": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "E": "S, ss e sc representam sons impossíveis de comparar em taquigrafia."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Fonema é unidade sonora percebida na fala; por isso se distingue da letra usada na escrita comum. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-002",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Fonologia",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No estudo de Sons dos fonemas, a compreensão do tema estudo dos sons exige reconhecer que:",
+      "alternativas": {
+        "A": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "B": "Fonologia vem de elementos ligados a som e estudo, referindo-se ao conhecimento dos sons da voz.",
+        "C": "S, ss e sc representam sons impossíveis de comparar em taquigrafia.",
+        "D": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "E": "A posição do som na palavra não interfere no estudo dos fonemas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Fonologia vem de elementos ligados a som e estudo, referindo-se ao conhecimento dos sons da voz. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-003",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Fonética",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema pronúncia individual. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "B": "A posição do som na palavra não interfere no estudo dos fonemas.",
+        "C": "A fonética observa particularidades da pronúncia dos falantes no ato da fala.",
+        "D": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "E": "Fonologia trata exclusivamente de pontuação e acentuação."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A fonética observa particularidades da pronúncia dos falantes no ato da fala. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-004",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Base",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema taquigrafar como se ouve, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "B": "Fonologia trata exclusivamente de pontuação e acentuação.",
+        "C": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "D": "A escrita taquigráfica baseia-se na fonética: deve-se taquigrafar a palavra do modo como é ouvida.",
+        "E": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A escrita taquigráfica baseia-se na fonética: deve-se taquigrafar a palavra do modo como é ouvida. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-005",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Transcrição",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema gramática depois deve ser compreendido como:",
+      "alternativas": {
+        "A": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "B": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes.",
+        "C": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "D": "A letra x possui um único som em português, independentemente da palavra.",
+        "E": "Ao transcrever os taquigramas, usam-se as regras gramaticais e ortográficas da escrita comum."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Ao transcrever os taquigramas, usam-se as regras gramaticais e ortográficas da escrita comum. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-006",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Posição",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "A respeito do tema início, meio e final, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O estudo dos sons considera sua ocorrência no início, no meio e no final da palavra.",
+        "B": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "C": "A letra x possui um único som em português, independentemente da palavra.",
+        "D": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "E": "S, ss e sc representam sons impossíveis de comparar em taquigrafia."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O estudo dos sons considera sua ocorrência no início, no meio e no final da palavra. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-007",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Letra e som",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema diferença essencial indica que:",
+      "alternativas": {
+        "A": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "B": "Uma mesma letra pode representar sons diferentes, e um mesmo som pode aparecer com letras diferentes.",
+        "C": "S, ss e sc representam sons impossíveis de comparar em taquigrafia.",
+        "D": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "E": "A posição do som na palavra não interfere no estudo dos fonemas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Uma mesma letra pode representar sons diferentes, e um mesmo som pode aparecer com letras diferentes. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-008",
+      "assunto": "Sons dos fonemas",
+      "subtema": "G",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Em uma prova objetiva sobre Sons dos fonemas, quando o foco é gato e gelo, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "B": "A posição do som na palavra não interfere no estudo dos fonemas.",
+        "C": "A letra g pode ter som de g em gato e som próximo de j em gelo, exigindo atenção fonética.",
+        "D": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "E": "Fonologia trata exclusivamente de pontuação e acentuação."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A letra g pode ter som de g em gato e som próximo de j em gelo, exigindo atenção fonética. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-009",
+      "assunto": "Sons dos fonemas",
+      "subtema": "S",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Em relação às palavras sabe e casa, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "B": "Fonologia trata exclusivamente de pontuação e acentuação.",
+        "C": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "D": "A letra s pode mudar de som conforme a posição, como em sabe e casa.",
+        "E": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A letra s pode mudar de som conforme a posição, como em sabe e casa. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-010",
+      "assunto": "Sons dos fonemas",
+      "subtema": "SS",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "No estudo de Sons dos fonemas, a compreensão do tema massa exige reconhecer que:",
+      "alternativas": {
+        "A": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "B": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes.",
+        "C": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "D": "A letra x possui um único som em português, independentemente da palavra.",
+        "E": "O s dobrado em palavras como massa tem som associado a ç, o que mostra diferença entre grafia e fonema."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O s dobrado em palavras como massa tem som associado a ç, o que mostra diferença entre grafia e fonema. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-011",
+      "assunto": "Sons dos fonemas",
+      "subtema": "SC",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema nascer. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O grupo sc pode ter som de ç em palavras como nascer, reforçando a primazia do som.",
+        "B": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "C": "A letra x possui um único som em português, independentemente da palavra.",
+        "D": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "E": "S, ss e sc representam sons impossíveis de comparar em taquigrafia."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O grupo sc pode ter som de ç em palavras como nascer, reforçando a primazia do som. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-012",
+      "assunto": "Sons dos fonemas",
+      "subtema": "X",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema cinco pronúncias, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "B": "O PDF exemplifica que x pode ter sons como ch, cs, z, ss e s, conforme a palavra.",
+        "C": "S, ss e sc representam sons impossíveis de comparar em taquigrafia.",
+        "D": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "E": "A posição do som na palavra não interfere no estudo dos fonemas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O PDF exemplifica que x pode ter sons como ch, cs, z, ss e s, conforme a palavra. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-013",
+      "assunto": "Sons dos fonemas",
+      "subtema": "X como ch",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema xícara e peixe deve ser compreendido como:",
+      "alternativas": {
+        "A": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "B": "A posição do som na palavra não interfere no estudo dos fonemas.",
+        "C": "Em xícara, enxoval ou peixe, o x pode representar som de ch.",
+        "D": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "E": "Fonologia trata exclusivamente de pontuação e acentuação."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Em xícara, enxoval ou peixe, o x pode representar som de ch. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-014",
+      "assunto": "Sons dos fonemas",
+      "subtema": "X como cs",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "A respeito do tema anexo e látex, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "B": "Fonologia trata exclusivamente de pontuação e acentuação.",
+        "C": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "D": "Em anexo, complexidade ou látex, o x pode representar som aproximado de cs.",
+        "E": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Em anexo, complexidade ou látex, o x pode representar som aproximado de cs. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-015",
+      "assunto": "Sons dos fonemas",
+      "subtema": "X como z",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema êxodo e exame indica que:",
+      "alternativas": {
+        "A": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "B": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes.",
+        "C": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "D": "A letra x possui um único som em português, independentemente da palavra.",
+        "E": "Em êxodo, exame ou êxito, o x pode representar som de z."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Em êxodo, exame ou êxito, o x pode representar som de z. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-016",
+      "assunto": "Sons dos fonemas",
+      "subtema": "X como ss",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Em uma prova objetiva sobre Sons dos fonemas, quando o foco é aproximar e máximo, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Em aproximar, máximo ou auxiliar, o x pode representar som semelhante a ss.",
+        "B": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "C": "A letra x possui um único som em português, independentemente da palavra.",
+        "D": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "E": "S, ss e sc representam sons impossíveis de comparar em taquigrafia."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Em aproximar, máximo ou auxiliar, o x pode representar som semelhante a ss. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-017",
+      "assunto": "Sons dos fonemas",
+      "subtema": "X como s",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "Em relação às palavras fênix e contexto, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "B": "Em fênix, sexto ou contexto, o x pode representar som de s.",
+        "C": "S, ss e sc representam sons impossíveis de comparar em taquigrafia.",
+        "D": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "E": "A posição do som na palavra não interfere no estudo dos fonemas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Em fênix, sexto ou contexto, o x pode representar som de s. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-018",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Sa e ça",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "No estudo de Sons dos fonemas, a compreensão do tema sons equivalentes exige reconhecer que:",
+      "alternativas": {
+        "A": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "B": "A posição do som na palavra não interfere no estudo dos fonemas.",
+        "C": "Sa e ça têm o mesmo som em muitos contextos, ainda que usem grafias diferentes.",
+        "D": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "E": "Fonologia trata exclusivamente de pontuação e acentuação."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Sa e ça têm o mesmo som em muitos contextos, ainda que usem grafias diferentes. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-019",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Método",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema eliminação de dificuldades ortográficas. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "B": "Fonologia trata exclusivamente de pontuação e acentuação.",
+        "C": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "D": "Taylor reduziu dificuldades ortográficas ao criar relação entre sinal e som.",
+        "E": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Taylor reduziu dificuldades ortográficas ao criar relação entre sinal e som. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-020",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Audição",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema ouvido treinado, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "B": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes.",
+        "C": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "D": "A letra x possui um único som em português, independentemente da palavra.",
+        "E": "O taquígrafo precisa ouvido treinado para distinguir sons, inclusive em dicções difíceis."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O taquígrafo precisa ouvido treinado para distinguir sons, inclusive em dicções difíceis. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-021",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Idioma",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema fonemas de cada língua deve ser compreendido como:",
+      "alternativas": {
+        "A": "Cada idioma possui fonemas próprios, por isso um sistema de sinais deve respeitar a língua usada.",
+        "B": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "C": "A letra x possui um único som em português, independentemente da palavra.",
+        "D": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "E": "S, ss e sc representam sons impossíveis de comparar em taquigrafia."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Cada idioma possui fonemas próprios, por isso um sistema de sinais deve respeitar a língua usada. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-022",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Grafia",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "A respeito do tema não escrever como se vê, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "B": "Na tomada, não se deve priorizar como a palavra é escrita, mas como ela soa.",
+        "C": "S, ss e sc representam sons impossíveis de comparar em taquigrafia.",
+        "D": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "E": "A posição do som na palavra não interfere no estudo dos fonemas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Na tomada, não se deve priorizar como a palavra é escrita, mas como ela soa. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-023",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Sinal",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema sinal para som indica que:",
+      "alternativas": {
+        "A": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "B": "A posição do som na palavra não interfere no estudo dos fonemas.",
+        "C": "O sinal taquigráfico deve representar um som ou grupo de sons, não a aparência gráfica da palavra.",
+        "D": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "E": "Fonologia trata exclusivamente de pontuação e acentuação."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O sinal taquigráfico deve representar um som ou grupo de sons, não a aparência gráfica da palavra. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-024",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Contexto",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Em uma prova objetiva sobre Sons dos fonemas, quando o foco é contexto para decidir grafia, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "B": "Fonologia trata exclusivamente de pontuação e acentuação.",
+        "C": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "D": "Na transcrição, o contexto ajuda a escolher a grafia correta para o som registrado.",
+        "E": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Na transcrição, o contexto ajuda a escolher a grafia correta para o som registrado. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-025",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Erro",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Em relação às palavras confundir letra e fonema, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "B": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes.",
+        "C": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "D": "A letra x possui um único som em português, independentemente da palavra.",
+        "E": "Confundir letra e fonema leva a escolher sinais inadequados e enfraquece a escrita fonética."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Confundir letra e fonema leva a escolher sinais inadequados e enfraquece a escrita fonética. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-026",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Consoantes",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No estudo de Sons dos fonemas, a compreensão do tema sons estáveis exige reconhecer que:",
+      "alternativas": {
+        "A": "Algumas letras têm som mais estável, como v, p, b, f, d e t, segundo o material.",
+        "B": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "C": "A letra x possui um único som em português, independentemente da palavra.",
+        "D": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "E": "S, ss e sc representam sons impossíveis de comparar em taquigrafia."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Algumas letras têm som mais estável, como v, p, b, f, d e t, segundo o material. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-027",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Variáveis",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema sons dependentes da posição. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A letra g nunca varia de som e deve ser tratada sempre como em gato.",
+        "B": "Letras como s, l, m e n podem variar conforme posição na sílaba, exigindo atenção ao som.",
+        "C": "S, ss e sc representam sons impossíveis de comparar em taquigrafia.",
+        "D": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "E": "A posição do som na palavra não interfere no estudo dos fonemas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Letras como s, l, m e n podem variar conforme posição na sílaba, exigindo atenção ao som. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-028",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Prática",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema exercícios de palavras, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A escrita fonética deve seguir a grafia oficial antes de considerar o som ouvido.",
+        "B": "A posição do som na palavra não interfere no estudo dos fonemas.",
+        "C": "Exercícios com palavras treinam a associação entre fonema ouvido e taquigrama adequado.",
+        "D": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "E": "Fonologia trata exclusivamente de pontuação e acentuação."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Exercícios com palavras treinam a associação entre fonema ouvido e taquigrama adequado. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-029",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Finalidade",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema captar o pronunciado deve ser compreendido como:",
+      "alternativas": {
+        "A": "A audição correta é dispensável porque o sinal depende apenas da aparência da palavra.",
+        "B": "Fonologia trata exclusivamente de pontuação e acentuação.",
+        "C": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "D": "Se a finalidade é captar o pronunciado, a análise dos fonemas é indispensável à taquigrafia.",
+        "E": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Se a finalidade é captar o pronunciado, a análise dos fonemas é indispensável à taquigrafia. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "sons-dos-fonemas-030",
+      "assunto": "Sons dos fonemas",
+      "subtema": "Síntese",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "A respeito do tema fonema como base do sistema, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O taquígrafo deve registrar todas as letras mudas para preservar a forma impressa.",
+        "B": "Sons equivalentes devem receber sinais diferentes apenas porque têm grafias diferentes.",
+        "C": "Fonema é sempre a mesma coisa que letra, sem qualquer diferença entre som e grafia.",
+        "D": "A letra x possui um único som em português, independentemente da palavra.",
+        "E": "O fonema é a base que liga audição, sinal, método e posterior transcrição em texto comum."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O fonema é a base que liga audição, sinal, método e posterior transcrição em texto comum. As demais alternativas confundem letra com fonema, ignoram variação sonora ou obrigam a escrita taquigráfica a seguir a ortografia comum. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}

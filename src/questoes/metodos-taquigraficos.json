@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "metodos-taquigraficos",
+    "titulo": "Métodos Taquigráficos",
+    "grupo": "Métodos e técnicas",
+    "descricao": "Questões sobre método Taylor, escrita fonética, métodos geométricos e relação sinal-som.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "metodos-taquigraficos-001",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Método Taylor",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Em relação ao tema Samuel Taylor e 1786, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "B": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização.",
+        "C": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "D": "Samuel Taylor publicou em 1786 um sistema de estenografia que influenciou profundamente a taquigrafia moderna.",
+        "E": "Um método baseado em sons impede que o texto seja transcrito em língua comum."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Samuel Taylor publicou em 1786 um sistema de estenografia que influenciou profundamente a taquigrafia moderna. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-002",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Pai da taquigrafia moderna",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "No estudo de Métodos taquigráficos, a compreensão do tema influência do método Taylor exige reconhecer que:",
+      "alternativas": {
+        "A": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "B": "Um método baseado em sons impede que o texto seja transcrito em língua comum.",
+        "C": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "D": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "E": "Taylor ficou conhecido como referência da taquigrafia moderna porque consolidou a escrita fonética como princípio de sistema."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Taylor ficou conhecido como referência da taquigrafia moderna porque consolidou a escrita fonética como princípio de sistema. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-003",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Som",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema parâmetro único. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O traço revolucionário do método Taylor foi estabelecer o som como parâmetro central dos sinais taquigráficos.",
+        "B": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "C": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "D": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "E": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O traço revolucionário do método Taylor foi estabelecer o som como parâmetro central dos sinais taquigráficos. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-004",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Ortografia",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema superação da grafia comum, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "B": "Taylor reduziu a dependência da ortografia ordinária, privilegiando o que o taquígrafo ouve.",
+        "C": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora.",
+        "D": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "E": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Taylor reduziu a dependência da ortografia ordinária, privilegiando o que o taquígrafo ouve. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-005",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Sistema fonético",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema escrita baseada em sons deve ser compreendido como:",
+      "alternativas": {
+        "A": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "B": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos.",
+        "C": "Métodos fonéticos representam sons, o que permite lidar com letras de grafias diferentes que produzem fonemas iguais.",
+        "D": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "E": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Métodos fonéticos representam sons, o que permite lidar com letras de grafias diferentes que produzem fonemas iguais. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-006",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Geometria",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "A respeito do tema formas geométricas, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "B": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização.",
+        "C": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "D": "Muitos sistemas usam retas, círculos e partes de círculos porque essas formas favorecem economia e rapidez do traço.",
+        "E": "Um método baseado em sons impede que o texto seja transcrito em língua comum."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Muitos sistemas usam retas, círculos e partes de círculos porque essas formas favorecem economia e rapidez do traço. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-007",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Métodos silábicos",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema sinais por sílabas indica que:",
+      "alternativas": {
+        "A": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "B": "Um método baseado em sons impede que o texto seja transcrito em língua comum.",
+        "C": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "D": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "E": "No método estudado, sinais podem representar famílias silábicas, facilitando a combinação rápida de fonemas."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. No método estudado, sinais podem representar famílias silábicas, facilitando a combinação rápida de fonemas. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-008",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Comparação",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Em uma prova objetiva sobre Métodos taquigráficos, quando o foco é métodos não são apenas abreviações, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Um método taquigráfico não é simples lista de abreviações; ele organiza sinais, sons, regras e leitura posterior.",
+        "B": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "C": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "D": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "E": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Um método taquigráfico não é simples lista de abreviações; ele organiza sinais, sons, regras e leitura posterior. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-009",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Universalidade",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Em relação ao tema pretensão de sistema universal, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "B": "O título da obra de Taylor expressava a intenção de estabelecer um padrão amplo para a escrita abreviada.",
+        "C": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora.",
+        "D": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "E": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O título da obra de Taylor expressava a intenção de estabelecer um padrão amplo para a escrita abreviada. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-010",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Praticidade",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "No estudo de Métodos taquigráficos, a compreensão do tema simplificação máxima exige reconhecer que:",
+      "alternativas": {
+        "A": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "B": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos.",
+        "C": "A força prática de um método está em simplificar problemas de grafia e permitir execução veloz dos sinais.",
+        "D": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "E": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A força prática de um método está em simplificar problemas de grafia e permitir execução veloz dos sinais. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-011",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Relação sinal-som",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema base de aprendizagem. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "B": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização.",
+        "C": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "D": "A relação sinal-som orienta a aprendizagem, a escolha do traçado e a tradução dos taquigramas.",
+        "E": "Um método baseado em sons impede que o texto seja transcrito em língua comum."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A relação sinal-som orienta a aprendizagem, a escolha do traçado e a tradução dos taquigramas. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-012",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Diferenças",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema sistemas com letras comuns, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "B": "Um método baseado em sons impede que o texto seja transcrito em língua comum.",
+        "C": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "D": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "E": "Há sistemas que aproveitam letras comuns, mas o PDF destaca métodos com sinais especiais e base fonética."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Há sistemas que aproveitam letras comuns, mas o PDF destaca métodos com sinais especiais e base fonética. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-013",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Idioma",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema adaptação aos fonemas deve ser compreendido como:",
+      "alternativas": {
+        "A": "Um método precisa adaptar-se aos fonemas da língua em que será usado, pois a escrita é guiada pelo som.",
+        "B": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "C": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "D": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "E": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Um método precisa adaptar-se aos fonemas da língua em que será usado, pois a escrita é guiada pelo som. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-014",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Vogais",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "A respeito do tema tratamento das vogais, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "B": "O método Taylor apresentado trabalha com alfabetos que tratam de modo distinto palavras com ou sem vogal inicial.",
+        "C": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora.",
+        "D": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "E": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O método Taylor apresentado trabalha com alfabetos que tratam de modo distinto palavras com ou sem vogal inicial. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-015",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Consoantes",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema sons estáveis e variáveis indica que:",
+      "alternativas": {
+        "A": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "B": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos.",
+        "C": "O método lida com letras de som estável e letras de som variável, como s, g e x, pela lógica do fonema.",
+        "D": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "E": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O método lida com letras de som estável e letras de som variável, como s, g e x, pela lógica do fonema. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-016",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Treino",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Em uma prova objetiva sobre Métodos taquigráficos, quando o foco é domínio do método, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "B": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização.",
+        "C": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "D": "Dominar um método exige treino dos sinais, leitura posterior e aplicação constante em contextos de fala.",
+        "E": "Um método baseado em sons impede que o texto seja transcrito em língua comum."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Dominar um método exige treino dos sinais, leitura posterior e aplicação constante em contextos de fala. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-017",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Velocidade",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Em relação ao tema método a serviço da rapidez, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "B": "Um método baseado em sons impede que o texto seja transcrito em língua comum.",
+        "C": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "D": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "E": "A finalidade prática do método é permitir que o taquígrafo acompanhe falas rápidas com sinais econômicos."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A finalidade prática do método é permitir que o taquígrafo acompanhe falas rápidas com sinais econômicos. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-018",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Legibilidade",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo de Métodos taquigráficos, a compreensão do tema não basta escrever rápido exige reconhecer que:",
+      "alternativas": {
+        "A": "Um método eficiente equilibra velocidade e legibilidade, pois o registro precisa ser transcrito depois.",
+        "B": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "C": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "D": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "E": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Um método eficiente equilibra velocidade e legibilidade, pois o registro precisa ser transcrito depois. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-019",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Fonética",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema captar o pronunciado. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "B": "Na lógica de Taylor, se a finalidade é captar o que é pronunciado, o sistema deve captar os sons ouvidos.",
+        "C": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora.",
+        "D": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "E": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Na lógica de Taylor, se a finalidade é captar o que é pronunciado, o sistema deve captar os sons ouvidos. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-020",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Sinais especiais",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema grafia especial, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "B": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos.",
+        "C": "A taquigrafia usa grafia especial por sinais próprios, distinguindo-se do alfabeto ordinário.",
+        "D": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "E": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A taquigrafia usa grafia especial por sinais próprios, distinguindo-se do alfabeto ordinário. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-021",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Abreviação",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema sistema abreviado deve ser compreendido como:",
+      "alternativas": {
+        "A": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "B": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização.",
+        "C": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "D": "A abreviação no método não é aleatória: decorre de sinais curtos e regras que comprimem sequências sonoras.",
+        "E": "Um método baseado em sons impede que o texto seja transcrito em língua comum."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A abreviação no método não é aleatória: decorre de sinais curtos e regras que comprimem sequências sonoras. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-022",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Comparativo",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "A respeito do tema Taylor frente a métodos anteriores, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "B": "Um método baseado em sons impede que o texto seja transcrito em língua comum.",
+        "C": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "D": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "E": "Taylor diferenciou-se de autores anteriores ao abandonar comparações excessivas com signos da grafia comum."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Taylor diferenciou-se de autores anteriores ao abandonar comparações excessivas com signos da grafia comum. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-023",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Aprimoramento",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema métodos posteriores indica que:",
+      "alternativas": {
+        "A": "Métodos posteriores herdaram de Taylor a ênfase na fonética, ainda que adotassem alfabetos e sinais próprios.",
+        "B": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "C": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "D": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "E": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Métodos posteriores herdaram de Taylor a ênfase na fonética, ainda que adotassem alfabetos e sinais próprios. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-024",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Aplicação",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Em uma prova objetiva sobre Métodos taquigráficos, quando o foco é registro parlamentar, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "B": "Métodos taquigráficos tornam-se úteis no Parlamento porque organizam a tomada veloz de discursos e debates.",
+        "C": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora.",
+        "D": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "E": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Métodos taquigráficos tornam-se úteis no Parlamento porque organizam a tomada veloz de discursos e debates. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-025",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Coerência",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Em relação ao tema sistema completo, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "B": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos.",
+        "C": "Um método deve manter coerência entre alfabeto, classificação dos sinais, regras básicas e exercícios práticos.",
+        "D": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "E": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Um método deve manter coerência entre alfabeto, classificação dos sinais, regras básicas e exercícios práticos. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-026",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Sons equivalentes",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "No estudo de Métodos taquigráficos, a compreensão do tema mesmo sinal para som equivalente exige reconhecer que:",
+      "alternativas": {
+        "A": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "B": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização.",
+        "C": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "D": "Quando duas grafias representam o mesmo som, um método fonético tende a tratá-las de forma equivalente.",
+        "E": "Um método baseado em sons impede que o texto seja transcrito em língua comum."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Quando duas grafias representam o mesmo som, um método fonético tende a tratá-las de forma equivalente. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-027",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Método e tecnologia",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema tecnologia não substitui método. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A finalidade prática de um método é tornar o registro mais lento para facilitar a revisão.",
+        "B": "Um método baseado em sons impede que o texto seja transcrito em língua comum.",
+        "C": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "D": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "E": "Recursos tecnológicos podem auxiliar, mas não substituem o domínio do método, da escuta e da transcrição."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Recursos tecnológicos podem auxiliar, mas não substituem o domínio do método, da escuta e da transcrição. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-028",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Aprendizagem",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema ordem dos conteúdos, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A sequência didática passa por alfabeto, significados, classificação, sons e exemplos de aplicação.",
+        "B": "O uso de fonemas significa ignorar completamente o contexto e a compreensão do discurso.",
+        "C": "O método Taylor foi criado para substituir a fala por pontuação, e não para registrar sons.",
+        "D": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "E": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A sequência didática passa por alfabeto, significados, classificação, sons e exemplos de aplicação. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-029",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Critério",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema escolha racional de sinais deve ser compreendido como:",
+      "alternativas": {
+        "A": "A escolha de sinais deve ocorrer no momento da prova, sem treino prévio ou padronização.",
+        "B": "A escolha de sinais em um método deve obedecer a critério racional de som, economia e leitura posterior.",
+        "C": "Um método taquigráfico eficaz deve conservar todas as letras da ortografia comum para evitar qualquer adaptação sonora.",
+        "D": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "E": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A escolha de sinais em um método deve obedecer a critério racional de som, economia e leitura posterior. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "metodos-taquigraficos-030",
+      "assunto": "Métodos taquigráficos",
+      "subtema": "Limite",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "A respeito do tema método não é decoreba isolada, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O método Taylor é definido pela prioridade da etimologia e da gramática sobre o som pronunciado.",
+        "B": "Métodos geométricos recusam formas simples e preferem desenhos longos, complexos e lentos.",
+        "C": "Aprender método taquigráfico não se limita a decorar sinais: é preciso aplicá-los em fala real e traduzi-los com precisão.",
+        "D": "A relação sinal-som é acessória e pode ser abandonada sem prejuízo para o sistema.",
+        "E": "Todos os métodos taquigráficos são idênticos, sem diferenças de princípios ou organização."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Aprender método taquigráfico não se limita a decorar sinais: é preciso aplicá-los em fala real e traduzi-los com precisão. As demais alternativas descrevem métodos como cópia ortográfica, códigos sem som ou listas arbitrárias, contrariando a lógica fonética do material. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}

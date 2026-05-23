@@ -1,0 +1,107 @@
+{
+  "titulo": "Banco de Questões de Taquigrafia",
+  "versao": "1.1.0",
+  
+  "total_arquivos": 14,
+  "total_questoes_esperado": 420,
+  "questoes": [
+    {
+      "id": "definicao-de-taquigrafia",
+      "titulo": "Definição de Taquigrafia",
+      "arquivo": "definicao-de-taquigrafia.json",
+      "grupo": "Conceitos básicos",
+      "quantidade": 30
+    },
+    {
+      "id": "linguagem-dos-sinais",
+      "titulo": "Linguagem dos Sinais",
+      "arquivo": "linguagem-dos-sinais.json",
+      "grupo": "Conceitos básicos",
+      "quantidade": 30
+    },
+    {
+      "id": "historia-da-taquigrafia",
+      "titulo": "História da Taquigrafia",
+      "arquivo": "historia-da-taquigrafia.json",
+      "grupo": "Conceitos básicos",
+      "quantidade": 30
+    },
+    {
+      "id": "taquigrafia-e-seus-significados",
+      "titulo": "Taquigrafia e seus significados",
+      "arquivo": "taquigrafia-e-seus-significados.json",
+      "grupo": "Conceitos básicos",
+      "quantidade": 30
+    },
+    {
+      "id": "metodos-taquigraficos",
+      "titulo": "Métodos Taquigráficos",
+      "arquivo": "metodos-taquigraficos.json",
+      "grupo": "Métodos e técnicas",
+      "quantidade": 30
+    },
+    {
+      "id": "regras-basicas",
+      "titulo": "Regras Básicas",
+      "arquivo": "regras-basicas.json",
+      "grupo": "Métodos e técnicas",
+      "quantidade": 30
+    },
+    {
+      "id": "automatizacao",
+      "titulo": "Automatização",
+      "arquivo": "automatizacao.json",
+      "grupo": "Métodos e técnicas",
+      "quantidade": 30
+    },
+    {
+      "id": "pontuacao",
+      "titulo": "Pontuação",
+      "arquivo": "pontuacao.json",
+      "grupo": "Elementos técnicos",
+      "quantidade": 30
+    },
+    {
+      "id": "acentuacao",
+      "titulo": "Acentuação",
+      "arquivo": "acentuacao.json",
+      "grupo": "Elementos técnicos",
+      "quantidade": 30
+    },
+    {
+      "id": "alfabeto-taquigrafico",
+      "titulo": "Alfabeto Taquigráfico",
+      "arquivo": "alfabeto-taquigrafico.json",
+      "grupo": "Elementos técnicos",
+      "quantidade": 30
+    },
+    {
+      "id": "classificacao",
+      "titulo": "Classificação",
+      "arquivo": "classificacao.json",
+      "grupo": "Elementos técnicos",
+      "quantidade": 30
+    },
+    {
+      "id": "sons-dos-fonemas",
+      "titulo": "Sons dos Fonemas",
+      "arquivo": "sons-dos-fonemas.json",
+      "grupo": "Elementos técnicos",
+      "quantidade": 30
+    },
+    {
+      "id": "novas-tecnologias",
+      "titulo": "Novas Tecnologias",
+      "arquivo": "novas-tecnologias.json",
+      "grupo": "Taquigrafia e tecnologia",
+      "quantidade": 30
+    },
+    {
+      "id": "aplicacoes-modernas",
+      "titulo": "Aplicações Modernas",
+      "arquivo": "aplicacoes-modernas.json",
+      "grupo": "Taquigrafia e tecnologia",
+      "quantidade": 30
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "metadata": {
+    "id": "taquigrafia-e-seus-significados",
+    "titulo": "Taquigrafia e seus significados",
+    "grupo": "Conceitos básicos",
+    "descricao": "Questões sobre significado técnico, social, documental e profissional da taquigrafia.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf"
+  },
+  "questoes": [
+    {
+      "id": "taquigrafia-e-seus-significados-001",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Significado técnico",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Em relação a Significado técnico, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A taquigrafia significa uma escrita rápida, abreviada e sistemática, destinada a acompanhar a palavra falada com sinais convencionais.",
+        "B": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "C": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "D": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "E": "O sinal taquigráfico não possui relação com som, método ou leitura posterior."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A taquigrafia significa uma escrita rápida, abreviada e sistemática, destinada a acompanhar a palavra falada com sinais convencionais. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-002",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Função documental",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo dos significados da taquigrafia, o tema Função documental deve ser entendido da seguinte forma:",
+      "alternativas": {
+        "A": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "B": "O significado documental da taquigrafia está em transformar a fala passageira em registro consultável, revisável e preservável.",
+        "C": "O sinal taquigráfico não possui relação com som, método ou leitura posterior.",
+        "D": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "E": "A escrita fonética exige ignorar completamente o que foi pronunciado."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O significado documental da taquigrafia está em transformar a fala passageira em registro consultável, revisável e preservável. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-003",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Escrita fonética",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Considerando a passagem da fala para o documento, é correto afirmar sobre Escrita fonética:",
+      "alternativas": {
+        "A": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "B": "A escrita fonética exige ignorar completamente o que foi pronunciado.",
+        "C": "Como escrita fonética, a taquigrafia significa representar sons percebidos, e não copiar mecanicamente a ortografia comum.",
+        "D": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "E": "O uso parlamentar da taquigrafia impede transparência e consulta pública."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Como escrita fonética, a taquigrafia significa representar sons percebidos, e não copiar mecanicamente a ortografia comum. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-004",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Registro da palavra falada",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Quanto ao papel da taquigrafia, a alternativa correta sobre Registro da palavra falada é:",
+      "alternativas": {
+        "A": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "B": "O uso parlamentar da taquigrafia impede transparência e consulta pública.",
+        "C": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "D": "Seu significado prático é captar discursos, debates e falas contínuas no momento em que ocorrem.",
+        "E": "Taquigrafia significa resumo livre, sem compromisso com o discurso original."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Seu significado prático é captar discursos, debates e falas contínuas no momento em que ocorrem. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-005",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Profissão",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No contexto do método Taylor e da prática parlamentar, Profissão indica que:",
+      "alternativas": {
+        "A": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "B": "Taquigrafia significa resumo livre, sem compromisso com o discurso original.",
+        "C": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "D": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "E": "No plano profissional, a taquigrafia representa técnica especializada, ouvido treinado, responsabilidade e domínio de transcrição."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. No plano profissional, a taquigrafia representa técnica especializada, ouvido treinado, responsabilidade e domínio de transcrição. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-006",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Parlamento",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Em relação a Parlamento, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "No Parlamento, a taquigrafia significa instrumento de memória institucional, transparência e documentação dos debates.",
+        "B": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "C": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "D": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "E": "O sinal taquigráfico não possui relação com som, método ou leitura posterior."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. No Parlamento, a taquigrafia significa instrumento de memória institucional, transparência e documentação dos debates. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-007",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Sinal",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo dos significados da taquigrafia, o tema Sinal deve ser entendido da seguinte forma:",
+      "alternativas": {
+        "A": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "B": "O sinal taquigráfico significa uma unidade gráfica associada a som, sílaba ou família fonética dentro de um método.",
+        "C": "O sinal taquigráfico não possui relação com som, método ou leitura posterior.",
+        "D": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "E": "A escrita fonética exige ignorar completamente o que foi pronunciado."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O sinal taquigráfico significa uma unidade gráfica associada a som, sílaba ou família fonética dentro de um método. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-008",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Som",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Considerando a passagem da fala para o documento, é correto afirmar sobre Som:",
+      "alternativas": {
+        "A": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "B": "A escrita fonética exige ignorar completamente o que foi pronunciado.",
+        "C": "O som é o ponto de partida do registro taquigráfico, pois a escrita se orienta pelo que o taquígrafo ouve.",
+        "D": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "E": "O uso parlamentar da taquigrafia impede transparência e consulta pública."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O som é o ponto de partida do registro taquigráfico, pois a escrita se orienta pelo que o taquígrafo ouve. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-009",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Fonema",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Quanto ao papel da taquigrafia, a alternativa correta sobre Fonema é:",
+      "alternativas": {
+        "A": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "B": "O uso parlamentar da taquigrafia impede transparência e consulta pública.",
+        "C": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "D": "Fonema significa unidade sonora distintiva; por isso é mais relevante para a tomada taquigráfica do que a letra isolada.",
+        "E": "Taquigrafia significa resumo livre, sem compromisso com o discurso original."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Fonema significa unidade sonora distintiva; por isso é mais relevante para a tomada taquigráfica do que a letra isolada. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-010",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Texto final",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No contexto do método Taylor e da prática parlamentar, Texto final indica que:",
+      "alternativas": {
+        "A": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "B": "Taquigrafia significa resumo livre, sem compromisso com o discurso original.",
+        "C": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "D": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "E": "O texto final significa a reconstrução em escrita comum, com pontuação, acentuação, gramática e clareza."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O texto final significa a reconstrução em escrita comum, com pontuação, acentuação, gramática e clareza. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-011",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Memória",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Em relação a Memória, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A taquigrafia tem significado intelectual porque exercita memória, atenção, coordenação e rapidez de raciocínio.",
+        "B": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "C": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "D": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "E": "O sinal taquigráfico não possui relação com som, método ou leitura posterior."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A taquigrafia tem significado intelectual porque exercita memória, atenção, coordenação e rapidez de raciocínio. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-012",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Atenção",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo dos significados da taquigrafia, o tema Atenção deve ser entendido da seguinte forma:",
+      "alternativas": {
+        "A": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "B": "A atenção é parte do significado da técnica, pois ouvir, compreender e escrever precisam ocorrer de modo coordenado.",
+        "C": "O sinal taquigráfico não possui relação com som, método ou leitura posterior.",
+        "D": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "E": "A escrita fonética exige ignorar completamente o que foi pronunciado."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A atenção é parte do significado da técnica, pois ouvir, compreender e escrever precisam ocorrer de modo coordenado. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-013",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Preservação",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Considerando a passagem da fala para o documento, é correto afirmar sobre Preservação:",
+      "alternativas": {
+        "A": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "B": "A escrita fonética exige ignorar completamente o que foi pronunciado.",
+        "C": "Preservar o discurso significa conservar conteúdo oral que poderia se perder sem registro rápido e posterior transcrição.",
+        "D": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "E": "O uso parlamentar da taquigrafia impede transparência e consulta pública."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Preservar o discurso significa conservar conteúdo oral que poderia se perder sem registro rápido e posterior transcrição. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-014",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Fidelidade",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Quanto ao papel da taquigrafia, a alternativa correta sobre Fidelidade é:",
+      "alternativas": {
+        "A": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "B": "O uso parlamentar da taquigrafia impede transparência e consulta pública.",
+        "C": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "D": "Fidelidade significa manter o conteúdo essencial do que foi dito, sem transformar a transcrição em resumo livre.",
+        "E": "Taquigrafia significa resumo livre, sem compromisso com o discurso original."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Fidelidade significa manter o conteúdo essencial do que foi dito, sem transformar a transcrição em resumo livre. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-015",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Sistematização",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No contexto do método Taylor e da prática parlamentar, Sistematização indica que:",
+      "alternativas": {
+        "A": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "B": "Taquigrafia significa resumo livre, sem compromisso com o discurso original.",
+        "C": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "D": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "E": "A taquigrafia só tem significado técnico quando seus sinais obedecem a sistema, regras e prática contínua."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A taquigrafia só tem significado técnico quando seus sinais obedecem a sistema, regras e prática contínua. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-016",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Economia gráfica",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Em relação a Economia gráfica, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Economia gráfica significa usar menos traços para registrar mais informação, favorecendo velocidade e legibilidade.",
+        "B": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "C": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "D": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "E": "O sinal taquigráfico não possui relação com som, método ou leitura posterior."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Economia gráfica significa usar menos traços para registrar mais informação, favorecendo velocidade e legibilidade. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-017",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Leitura posterior",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo dos significados da taquigrafia, o tema Leitura posterior deve ser entendido da seguinte forma:",
+      "alternativas": {
+        "A": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "B": "O registro só tem significado completo quando pode ser lido e traduzido depois com segurança.",
+        "C": "O sinal taquigráfico não possui relação com som, método ou leitura posterior.",
+        "D": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "E": "A escrita fonética exige ignorar completamente o que foi pronunciado."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O registro só tem significado completo quando pode ser lido e traduzido depois com segurança. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-018",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Valor social",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Considerando a passagem da fala para o documento, é correto afirmar sobre Valor social:",
+      "alternativas": {
+        "A": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "B": "A escrita fonética exige ignorar completamente o que foi pronunciado.",
+        "C": "A função social da taquigrafia aparece quando ela amplia acesso a debates, aulas, audiências e documentos públicos.",
+        "D": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "E": "O uso parlamentar da taquigrafia impede transparência e consulta pública."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A função social da taquigrafia aparece quando ela amplia acesso a debates, aulas, audiências e documentos públicos. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-019",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "História",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Quanto ao papel da taquigrafia, a alternativa correta sobre História é:",
+      "alternativas": {
+        "A": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "B": "O uso parlamentar da taquigrafia impede transparência e consulta pública.",
+        "C": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "D": "Historicamente, a taquigrafia significa resposta técnica à necessidade de registrar a palavra oral em contextos formais.",
+        "E": "Taquigrafia significa resumo livre, sem compromisso com o discurso original."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Historicamente, a taquigrafia significa resposta técnica à necessidade de registrar a palavra oral em contextos formais. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-020",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Tecnologia",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No contexto do método Taylor e da prática parlamentar, Tecnologia indica que:",
+      "alternativas": {
+        "A": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "B": "Taquigrafia significa resumo livre, sem compromisso com o discurso original.",
+        "C": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "D": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "E": "Com tecnologia, seu significado moderno é complementar gravações, áudio, vídeo e sistemas digitais, não desaparecer."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Com tecnologia, seu significado moderno é complementar gravações, áudio, vídeo e sistemas digitais, não desaparecer. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-021",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Método Taylor",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Em relação a Método Taylor, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "No método Taylor, o significado central é a relação sinal-som como critério para simplificar a escrita.",
+        "B": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "C": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "D": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "E": "O sinal taquigráfico não possui relação com som, método ou leitura posterior."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. No método Taylor, o significado central é a relação sinal-som como critério para simplificar a escrita. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-022",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Taquigrama",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo dos significados da taquigrafia, o tema Taquigrama deve ser entendido da seguinte forma:",
+      "alternativas": {
+        "A": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "B": "Taquigrama significa o traço ou conjunto de traços que registra uma unidade sonora no sistema taquigráfico.",
+        "C": "O sinal taquigráfico não possui relação com som, método ou leitura posterior.",
+        "D": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "E": "A escrita fonética exige ignorar completamente o que foi pronunciado."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Taquigrama significa o traço ou conjunto de traços que registra uma unidade sonora no sistema taquigráfico. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-023",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Transcrição",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Considerando a passagem da fala para o documento, é correto afirmar sobre Transcrição:",
+      "alternativas": {
+        "A": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "B": "A escrita fonética exige ignorar completamente o que foi pronunciado.",
+        "C": "Transcrição significa converter taquigramas em texto comum, interpretando sons e contexto com responsabilidade.",
+        "D": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "E": "O uso parlamentar da taquigrafia impede transparência e consulta pública."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Transcrição significa converter taquigramas em texto comum, interpretando sons e contexto com responsabilidade. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-024",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Resumo",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Quanto ao papel da taquigrafia, a alternativa correta sobre Resumo é:",
+      "alternativas": {
+        "A": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "B": "O uso parlamentar da taquigrafia impede transparência e consulta pública.",
+        "C": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "D": "Taquigrafia não significa resumo pessoal; seu objetivo é basear uma reprodução fiel da fala.",
+        "E": "Taquigrafia significa resumo livre, sem compromisso com o discurso original."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Taquigrafia não significa resumo pessoal; seu objetivo é basear uma reprodução fiel da fala. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-025",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Aplicação parlamentar",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No contexto do método Taylor e da prática parlamentar, Aplicação parlamentar indica que:",
+      "alternativas": {
+        "A": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "B": "Taquigrafia significa resumo livre, sem compromisso com o discurso original.",
+        "C": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "D": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "E": "Em sessões parlamentares, seu significado é garantir que discursos e apartes sejam preservados para consulta."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Em sessões parlamentares, seu significado é garantir que discursos e apartes sejam preservados para consulta. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-026",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Aprendizagem",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Em relação a Aprendizagem, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Aprender taquigrafia significa automatizar sinais por treino, sem abandonar compreensão do conteúdo.",
+        "B": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "C": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "D": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "E": "O sinal taquigráfico não possui relação com som, método ou leitura posterior."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Aprender taquigrafia significa automatizar sinais por treino, sem abandonar compreensão do conteúdo. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-027",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Diferença entre letra e som",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo dos significados da taquigrafia, o tema Diferença entre letra e som deve ser entendido da seguinte forma:",
+      "alternativas": {
+        "A": "Taquigrafia significa dispensar transcrição, revisão e compreensão do contexto.",
+        "B": "A diferença entre letra e som significa que grafias distintas podem receber tratamento igual quando soam do mesmo modo.",
+        "C": "O sinal taquigráfico não possui relação com som, método ou leitura posterior.",
+        "D": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "E": "A escrita fonética exige ignorar completamente o que foi pronunciado."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A diferença entre letra e som significa que grafias distintas podem receber tratamento igual quando soam do mesmo modo. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-028",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Responsabilidade",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Considerando a passagem da fala para o documento, é correto afirmar sobre Responsabilidade:",
+      "alternativas": {
+        "A": "A técnica serve somente para anotações privadas sem valor documental ou social.",
+        "B": "A escrita fonética exige ignorar completamente o que foi pronunciado.",
+        "C": "A responsabilidade do taquígrafo significa cuidado técnico e ético na passagem da fala ao documento.",
+        "D": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "E": "O uso parlamentar da taquigrafia impede transparência e consulta pública."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A responsabilidade do taquígrafo significa cuidado técnico e ético na passagem da fala ao documento. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-029",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Utilidade",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Quanto ao papel da taquigrafia, a alternativa correta sobre Utilidade é:",
+      "alternativas": {
+        "A": "O texto final deve manter sinais incompreensíveis e não aplicar normas da escrita comum.",
+        "B": "O uso parlamentar da taquigrafia impede transparência e consulta pública.",
+        "C": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "D": "A utilidade da taquigrafia está em situações nas quais a fala é mais rápida do que a escrita comum consegue acompanhar.",
+        "E": "Taquigrafia significa resumo livre, sem compromisso com o discurso original."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A utilidade da taquigrafia está em situações nas quais a fala é mais rápida do que a escrita comum consegue acompanhar. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    },
+    {
+      "id": "taquigrafia-e-seus-significados-030",
+      "assunto": "Taquigrafia e seus significados",
+      "subtema": "Síntese",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No contexto do método Taylor e da prática parlamentar, Síntese indica que:",
+      "alternativas": {
+        "A": "A tecnologia torna sem sentido qualquer escuta humana ou revisão de transcrição.",
+        "B": "Taquigrafia significa resumo livre, sem compromisso com o discurso original.",
+        "C": "A taquigrafia significa apenas uma caligrafia decorativa sem finalidade de registro.",
+        "D": "O significado principal da técnica é copiar todas as letras da escrita comum em velocidade lenta.",
+        "E": "A síntese taquigráfica significa condensar a fala em sinais sem perder a possibilidade de reconstruir o sentido."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A síntese taquigráfica significa condensar a fala em sinais sem perder a possibilidade de reconstruir o sentido. As demais alternativas reduzem a taquigrafia a ornamento, cópia ortográfica, resumo livre ou tecnologia sem revisão, ideias incompatíveis com A Taquigrafia e seus Fundamentos, que apresenta a técnica como escrita rápida, fonética, sistemática e documental."
+    }
+  ]
+}

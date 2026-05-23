@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "pontuacao",
+    "titulo": "Pontuação",
+    "grupo": "Elementos técnicos",
+    "descricao": "Questões sobre função da pontuação na transcrição, pausas, clareza e organização do discurso.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "pontuacao-001",
+      "assunto": "Pontuação",
+      "subtema": "Regra do método",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Em relação ao tema ausência de pontuação na tomada, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "B": "O PDF informa que não existe pontuação em taquigrafia, apenas um pequeno x para simbolizar o ponto final.",
+        "C": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão.",
+        "D": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "E": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O PDF informa que não existe pontuação em taquigrafia, apenas um pequeno x para simbolizar o ponto final. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-002",
+      "assunto": "Pontuação",
+      "subtema": "Ponto final",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "No estudo de Pontuação, a compreensão do tema pequeno x exige reconhecer que:",
+      "alternativas": {
+        "A": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "B": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara.",
+        "C": "No método estudado, o pequeno x é o recurso indicado para marcar ponto final durante a tomada.",
+        "D": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "E": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. No método estudado, o pequeno x é o recurso indicado para marcar ponto final durante a tomada. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-003",
+      "assunto": "Pontuação",
+      "subtema": "Transcrição",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema pontuação no texto final. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "B": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada.",
+        "C": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "D": "A pontuação completa é recuperada na transcrição para organizar o texto comum.",
+        "E": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A pontuação completa é recuperada na transcrição para organizar o texto comum. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-004",
+      "assunto": "Pontuação",
+      "subtema": "Clareza",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema função de clareza, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "B": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível.",
+        "C": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "D": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "E": "Pontuar corretamente ajuda o leitor a compreender relações entre ideias, pausas e encadeamento do discurso."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Pontuar corretamente ajuda o leitor a compreender relações entre ideias, pausas e encadeamento do discurso. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-005",
+      "assunto": "Pontuação",
+      "subtema": "Fala e escrita",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema diferença entre oral e final deve ser compreendido como:",
+      "alternativas": {
+        "A": "A fala registrada pode ser truncada; o texto final precisa de pontuação que preserve sentido e legibilidade.",
+        "B": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "C": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "D": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "E": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A fala registrada pode ser truncada; o texto final precisa de pontuação que preserve sentido e legibilidade. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-006",
+      "assunto": "Pontuação",
+      "subtema": "Pausas",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "A respeito do tema interpretação de pausas, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "B": "Pausas da fala podem orientar pontuação, mas devem ser avaliadas pelo sentido e não aplicadas mecanicamente.",
+        "C": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão.",
+        "D": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "E": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Pausas da fala podem orientar pontuação, mas devem ser avaliadas pelo sentido e não aplicadas mecanicamente. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-007",
+      "assunto": "Pontuação",
+      "subtema": "Revisão",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema papel do revisor indica que:",
+      "alternativas": {
+        "A": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "B": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara.",
+        "C": "Na revisão, a pontuação organiza a redação final sem alterar indevidamente o conteúdo do orador.",
+        "D": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "E": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Na revisão, a pontuação organiza a redação final sem alterar indevidamente o conteúdo do orador. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-008",
+      "assunto": "Pontuação",
+      "subtema": "Discursos",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Em uma prova objetiva sobre Pontuação, quando o foco é organização de períodos, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "B": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada.",
+        "C": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "D": "Em discursos longos, a pontuação permite dividir períodos e tornar a leitura menos ambígua.",
+        "E": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Em discursos longos, a pontuação permite dividir períodos e tornar a leitura menos ambígua. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-009",
+      "assunto": "Pontuação",
+      "subtema": "Fidelidade",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Em relação ao tema pontuação e fidelidade, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "B": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível.",
+        "C": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "D": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "E": "Fidelidade não significa ausência de pontuação; significa pontuar de modo compatível com o que foi dito."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Fidelidade não significa ausência de pontuação; significa pontuar de modo compatível com o que foi dito. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-010",
+      "assunto": "Pontuação",
+      "subtema": "Vírgula",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "No estudo de Pontuação, a compreensão do tema uso criterioso da vírgula exige reconhecer que:",
+      "alternativas": {
+        "A": "Vírgulas devem decorrer de estrutura sintática e sentido, não de cada pequena pausa respiratória.",
+        "B": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "C": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "D": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "E": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Vírgulas devem decorrer de estrutura sintática e sentido, não de cada pequena pausa respiratória. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-011",
+      "assunto": "Pontuação",
+      "subtema": "Interrogação",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema perguntas no texto. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "B": "Perguntas precisam ser reconhecidas na transcrição para receber pontuação adequada e preservar a intenção comunicativa.",
+        "C": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão.",
+        "D": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "E": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Perguntas precisam ser reconhecidas na transcrição para receber pontuação adequada e preservar a intenção comunicativa. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-012",
+      "assunto": "Pontuação",
+      "subtema": "Exclamação",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema ênfase com moderação, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "B": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara.",
+        "C": "Sinais de exclamação podem registrar ênfase, mas devem ser usados com sobriedade em textos oficiais.",
+        "D": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "E": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Sinais de exclamação podem registrar ênfase, mas devem ser usados com sobriedade em textos oficiais. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-013",
+      "assunto": "Pontuação",
+      "subtema": "Dois-pontos",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema introdução de enumeração deve ser compreendido como:",
+      "alternativas": {
+        "A": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "B": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada.",
+        "C": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "D": "Dois-pontos podem organizar enumerações, explicações ou citações reconstruídas na redação final.",
+        "E": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Dois-pontos podem organizar enumerações, explicações ou citações reconstruídas na redação final. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-014",
+      "assunto": "Pontuação",
+      "subtema": "Ponto e vírgula",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "A respeito do tema separação de segmentos, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "B": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível.",
+        "C": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "D": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "E": "Ponto e vírgula pode separar segmentos relacionados quando a vírgula é fraca e o ponto final é excessivo."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Ponto e vírgula pode separar segmentos relacionados quando a vírgula é fraca e o ponto final é excessivo. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-015",
+      "assunto": "Pontuação",
+      "subtema": "Citação",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema falas e apartes indica que:",
+      "alternativas": {
+        "A": "A pontuação ajuda a distinguir fala principal, apartes, citações e intervenções em registros parlamentares.",
+        "B": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "C": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "D": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "E": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A pontuação ajuda a distinguir fala principal, apartes, citações e intervenções em registros parlamentares. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-016",
+      "assunto": "Pontuação",
+      "subtema": "Ambiguidade",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Em uma prova objetiva sobre Pontuação, quando o foco é redução de ambiguidades, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "B": "Pontuação mal colocada pode alterar sentido; por isso deve ser tratada como etapa técnica da transcrição.",
+        "C": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão.",
+        "D": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "E": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Pontuação mal colocada pode alterar sentido; por isso deve ser tratada como etapa técnica da transcrição. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-017",
+      "assunto": "Pontuação",
+      "subtema": "Tempo real",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Em relação ao tema limite da tomada, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "B": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara.",
+        "C": "Durante a tomada, tentar pontuar tudo como na escrita comum comprometeria velocidade e foco no som.",
+        "D": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "E": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Durante a tomada, tentar pontuar tudo como na escrita comum comprometeria velocidade e foco no som. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-018",
+      "assunto": "Pontuação",
+      "subtema": "Reconstrução",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "No estudo de Pontuação, a compreensão do tema texto compreensível exige reconhecer que:",
+      "alternativas": {
+        "A": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "B": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada.",
+        "C": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "D": "A reconstrução textual transforma sinais rápidos em texto que o leitor consegue acompanhar sem ouvir a sessão.",
+        "E": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A reconstrução textual transforma sinais rápidos em texto que o leitor consegue acompanhar sem ouvir a sessão. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-019",
+      "assunto": "Pontuação",
+      "subtema": "Norma",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema norma escrita. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "B": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível.",
+        "C": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "D": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "E": "A pontuação final deve observar a norma escrita compatível com o registro formal produzido."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A pontuação final deve observar a norma escrita compatível com o registro formal produzido. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-020",
+      "assunto": "Pontuação",
+      "subtema": "Contexto",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema dependência do contexto, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O sentido do contexto é decisivo para escolher entre ponto, vírgula ou outra marca de pontuação.",
+        "B": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "C": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "D": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "E": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O sentido do contexto é decisivo para escolher entre ponto, vírgula ou outra marca de pontuação. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-021",
+      "assunto": "Pontuação",
+      "subtema": "Trechos truncados",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema fala oral irregular deve ser compreendido como:",
+      "alternativas": {
+        "A": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "B": "Falas truncadas exigem cuidado: a pontuação deve tornar o trecho compreensível sem inventar conteúdo.",
+        "C": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão.",
+        "D": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "E": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Falas truncadas exigem cuidado: a pontuação deve tornar o trecho compreensível sem inventar conteúdo. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-022",
+      "assunto": "Pontuação",
+      "subtema": "Ata",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "A respeito do tema registro oficial, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "B": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara.",
+        "C": "Em atas e notas oficiais, pontuação adequada sustenta consulta posterior e valor documental.",
+        "D": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "E": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Em atas e notas oficiais, pontuação adequada sustenta consulta posterior e valor documental. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-023",
+      "assunto": "Pontuação",
+      "subtema": "Tecnologia",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema sincronização com áudio indica que:",
+      "alternativas": {
+        "A": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "B": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada.",
+        "C": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "D": "Quando há áudio ou vídeo associado, a pontuação ainda precisa de revisão humana para formar texto legível.",
+        "E": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Quando há áudio ou vídeo associado, a pontuação ainda precisa de revisão humana para formar texto legível. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-024",
+      "assunto": "Pontuação",
+      "subtema": "Estudo",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Em uma prova objetiva sobre Pontuação, quando o foco é tema técnico separado, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "B": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível.",
+        "C": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "D": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "E": "Pontuação aparece como tema próprio porque a tomada fonética e a redação final obedecem a exigências distintas."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Pontuação aparece como tema próprio porque a tomada fonética e a redação final obedecem a exigências distintas. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-025",
+      "assunto": "Pontuação",
+      "subtema": "Orador",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Em relação ao tema respeito ao estilo, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A pontuação deve respeitar o estilo do orador tanto quanto possível, sem tornar a leitura obscura.",
+        "B": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "C": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "D": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "E": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A pontuação deve respeitar o estilo do orador tanto quanto possível, sem tornar a leitura obscura. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-026",
+      "assunto": "Pontuação",
+      "subtema": "Ritmo",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "No estudo de Pontuação, a compreensão do tema ritmo do discurso exige reconhecer que:",
+      "alternativas": {
+        "A": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "B": "O ritmo da fala ajuda a perceber blocos de sentido, mas a pontuação final deve priorizar a estrutura textual.",
+        "C": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão.",
+        "D": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "E": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O ritmo da fala ajuda a perceber blocos de sentido, mas a pontuação final deve priorizar a estrutura textual. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-027",
+      "assunto": "Pontuação",
+      "subtema": "Conectores",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema relações lógicas. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Texto final de nota taquigráfica deve manter a fragmentação oral sem qualquer organização.",
+        "B": "A função da pontuação é esconder trechos duvidosos, não tornar a leitura clara.",
+        "C": "Conectores como porém, portanto e porque orientam a pontuação por indicarem relações lógicas entre segmentos.",
+        "D": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "E": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Conectores como porém, portanto e porque orientam a pontuação por indicarem relações lógicas entre segmentos. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-028",
+      "assunto": "Pontuação",
+      "subtema": "Erro",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema pontuação automática inadequada, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A tomada taquigráfica deve registrar todos os sinais de pontuação da escrita comum em tempo real.",
+        "B": "A pontuação é inútil na transcrição, pois a fala oral já é sempre perfeitamente organizada.",
+        "C": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "D": "Pontuação automática ou mecânica pode falhar diante de apartes, hesitações e fala sobreposta.",
+        "E": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Pontuação automática ou mecânica pode falhar diante de apartes, hesitações e fala sobreposta. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-029",
+      "assunto": "Pontuação",
+      "subtema": "Revisão final",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema última camada de legibilidade deve ser compreendido como:",
+      "alternativas": {
+        "A": "O ponto final deve ser substituído por acentos gráficos durante a tomada.",
+        "B": "A revisão não pode alterar pontuação, ainda que o texto fique incompreensível.",
+        "C": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "D": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "E": "A revisão final da pontuação é uma camada de legibilidade indispensável ao texto transcrito."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A revisão final da pontuação é uma camada de legibilidade indispensável ao texto transcrito. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "pontuacao-030",
+      "assunto": "Pontuação",
+      "subtema": "Limite",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "A respeito do tema não altera substância, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Pontuar bem organiza o discurso, mas não autoriza modificar a substância da manifestação registrada.",
+        "B": "Pausas, mudanças de ideia e encadeamento argumentativo não influenciam a pontuação final.",
+        "C": "Pontuar significa modificar livremente o conteúdo falado, sem compromisso com fidelidade.",
+        "D": "O pequeno x citado no método representa vírgula, ponto de interrogação e todos os demais sinais indistintamente.",
+        "E": "A pontuação deve ser decidida antes de ouvir o discurso, com base apenas no tema da sessão."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Pontuar bem organiza o discurso, mas não autoriza modificar a substância da manifestação registrada. As demais alternativas confundem tomada taquigráfica com texto final, ignoram revisão ou atribuem à pontuação função que ela não tem no método. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}

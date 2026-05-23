@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "automatizacao",
+    "titulo": "Automatização",
+    "grupo": "Métodos e técnicas",
+    "descricao": "Questões sobre treino repetitivo, memorização, reflexo gráfico, automatização motora e velocidade.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "automatizacao-001",
+      "assunto": "Automatização",
+      "subtema": "Conceito",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Em relação ao tema mínima intervenção consciente, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Automatização é a execução de uma ação com mínima intervenção das faculdades conscientes, após treino suficiente.",
+        "B": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "C": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "D": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "E": "O esforço muscular crescente é sinal de automatização adequada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Automatização é a execução de uma ação com mínima intervenção das faculdades conscientes, após treino suficiente. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-002",
+      "assunto": "Automatização",
+      "subtema": "Biologia",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "No estudo de Automatização, a compreensão do tema função sem aparente vontade exige reconhecer que:",
+      "alternativas": {
+        "A": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "B": "No sentido biológico citado no PDF, automatismo é executar uma função sem aparente intervenção da vontade.",
+        "C": "O esforço muscular crescente é sinal de automatização adequada.",
+        "D": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "E": "Automatizar significa escrever sem nunca ter estudado sinais ou regras."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. No sentido biológico citado no PDF, automatismo é executar uma função sem aparente intervenção da vontade. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-003",
+      "assunto": "Automatização",
+      "subtema": "Psicologia",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema ação habitual. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "B": "Automatizar significa escrever sem nunca ter estudado sinais ou regras.",
+        "C": "No sentido psicológico, o automatismo aparece quando a ação se torna habitual e quase reflexa.",
+        "D": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "E": "O automatismo elimina a necessidade de atenção ao conteúdo falado."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. No sentido psicológico, o automatismo aparece quando a ação se torna habitual e quase reflexa. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-004",
+      "assunto": "Automatização",
+      "subtema": "Repetição",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema movimento repetido, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "B": "O automatismo elimina a necessidade de atenção ao conteúdo falado.",
+        "C": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "D": "A repetição do movimento adapta os órgãos à função e reduz a sensação de esforço.",
+        "E": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A repetição do movimento adapta os órgãos à função e reduz a sensação de esforço. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-005",
+      "assunto": "Automatização",
+      "subtema": "Exercício",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema ato que se torna natural deve ser compreendido como:",
+      "alternativas": {
+        "A": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "B": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta.",
+        "C": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "D": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "E": "O exercício determina atitude especial pela qual o estímulo recebe resposta precisa e imediata."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O exercício determina atitude especial pela qual o estímulo recebe resposta precisa e imediata. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-006",
+      "assunto": "Automatização",
+      "subtema": "Hábito",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "A respeito do tema ato habitual, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Quando o ato se torna habitual, o trabalho pode ser executado de modo automático.",
+        "B": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "C": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "D": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "E": "O esforço muscular crescente é sinal de automatização adequada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Quando o ato se torna habitual, o trabalho pode ser executado de modo automático. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-007",
+      "assunto": "Automatização",
+      "subtema": "Consciência",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema liberação da atenção indica que:",
+      "alternativas": {
+        "A": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "B": "Com a automatização, a consciência pode concentrar-se em compreender a fala e o contexto, não apenas no traço.",
+        "C": "O esforço muscular crescente é sinal de automatização adequada.",
+        "D": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "E": "Automatizar significa escrever sem nunca ter estudado sinais ou regras."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Com a automatização, a consciência pode concentrar-se em compreender a fala e o contexto, não apenas no traço. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-008",
+      "assunto": "Automatização",
+      "subtema": "Sinais",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Em uma prova objetiva sobre Automatização, quando o foco é memorização dos sinais, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "B": "Automatizar significa escrever sem nunca ter estudado sinais ou regras.",
+        "C": "Memorizar sinais é condição para que a mão responda rapidamente ao som percebido.",
+        "D": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "E": "O automatismo elimina a necessidade de atenção ao conteúdo falado."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Memorizar sinais é condição para que a mão responda rapidamente ao som percebido. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-009",
+      "assunto": "Automatização",
+      "subtema": "Reflexo gráfico",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "Em relação ao tema resposta imediata, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "B": "O automatismo elimina a necessidade de atenção ao conteúdo falado.",
+        "C": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "D": "O reflexo gráfico é a resposta rápida e precisa do traçado diante do som ou estímulo treinado.",
+        "E": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. O reflexo gráfico é a resposta rápida e precisa do traçado diante do som ou estímulo treinado. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-010",
+      "assunto": "Automatização",
+      "subtema": "Velocidade",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo de Automatização, a compreensão do tema ganho de velocidade exige reconhecer que:",
+      "alternativas": {
+        "A": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "B": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta.",
+        "C": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "D": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "E": "A automatização aumenta velocidade porque reduz hesitação entre ouvir, reconhecer o sinal e escrevê-lo."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A automatização aumenta velocidade porque reduz hesitação entre ouvir, reconhecer o sinal e escrevê-lo. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-011",
+      "assunto": "Automatização",
+      "subtema": "Precisão",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema automatização com controle. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Automatizar não é perder controle; é tornar a execução mais precisa por hábito técnico.",
+        "B": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "C": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "D": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "E": "O esforço muscular crescente é sinal de automatização adequada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Automatizar não é perder controle; é tornar a execução mais precisa por hábito técnico. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-012",
+      "assunto": "Automatização",
+      "subtema": "Treino diário",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema prática constante, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "B": "Treino constante, especialmente de velocidade, é indispensável para manter reflexos taquigráficos.",
+        "C": "O esforço muscular crescente é sinal de automatização adequada.",
+        "D": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "E": "Automatizar significa escrever sem nunca ter estudado sinais ou regras."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Treino constante, especialmente de velocidade, é indispensável para manter reflexos taquigráficos. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-013",
+      "assunto": "Automatização",
+      "subtema": "Esforço",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema desaparecimento do esforço deve ser compreendido como:",
+      "alternativas": {
+        "A": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "B": "Automatizar significa escrever sem nunca ter estudado sinais ou regras.",
+        "C": "O desaparecimento gradual do esforço indica adaptação motora, não descuido com a qualidade.",
+        "D": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "E": "O automatismo elimina a necessidade de atenção ao conteúdo falado."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O desaparecimento gradual do esforço indica adaptação motora, não descuido com a qualidade. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-014",
+      "assunto": "Automatização",
+      "subtema": "Multiplicidade",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "A respeito do tema facilita outras tarefas, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "B": "O automatismo elimina a necessidade de atenção ao conteúdo falado.",
+        "C": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "D": "A aquisição de hábito facilita executar tarefas simultâneas, como ouvir, interpretar e escrever.",
+        "E": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A aquisição de hábito facilita executar tarefas simultâneas, como ouvir, interpretar e escrever. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-015",
+      "assunto": "Automatização",
+      "subtema": "Fluência",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema sem hesitação indica que:",
+      "alternativas": {
+        "A": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "B": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta.",
+        "C": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "D": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "E": "A fluência surge quando os sinais são taquigrafados espontaneamente e sem hesitação."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A fluência surge quando os sinais são taquigrafados espontaneamente e sem hesitação. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-016",
+      "assunto": "Automatização",
+      "subtema": "Atenção",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "Em uma prova objetiva sobre Automatização, quando o foco é atenção ao discurso, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Ao automatizar o traço, o taquígrafo pode dedicar mais atenção ao conteúdo e à estrutura da fala.",
+        "B": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "C": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "D": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "E": "O esforço muscular crescente é sinal de automatização adequada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Ao automatizar o traço, o taquígrafo pode dedicar mais atenção ao conteúdo e à estrutura da fala. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-017",
+      "assunto": "Automatização",
+      "subtema": "Limite",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Em relação ao tema não substitui revisão, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "B": "Automatização melhora a tomada, mas não substitui a etapa de tradução e revisão do texto.",
+        "C": "O esforço muscular crescente é sinal de automatização adequada.",
+        "D": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "E": "Automatizar significa escrever sem nunca ter estudado sinais ou regras."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Automatização melhora a tomada, mas não substitui a etapa de tradução e revisão do texto. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-018",
+      "assunto": "Automatização",
+      "subtema": "Postura",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "No estudo de Automatização, a compreensão do tema relaxamento e hábito exige reconhecer que:",
+      "alternativas": {
+        "A": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "B": "Automatizar significa escrever sem nunca ter estudado sinais ou regras.",
+        "C": "Relaxamento muscular favorece automatização porque evita que tensão bloqueie movimentos repetidos.",
+        "D": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "E": "O automatismo elimina a necessidade de atenção ao conteúdo falado."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Relaxamento muscular favorece automatização porque evita que tensão bloqueie movimentos repetidos. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-019",
+      "assunto": "Automatização",
+      "subtema": "Erro",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema automatizar erro. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "B": "O automatismo elimina a necessidade de atenção ao conteúdo falado.",
+        "C": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "D": "Se o estudante repete sinais incorretos, pode automatizar erros; por isso a prática deve ser orientada.",
+        "E": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Se o estudante repete sinais incorretos, pode automatizar erros; por isso a prática deve ser orientada. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-020",
+      "assunto": "Automatização",
+      "subtema": "Aprendizagem",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema da consciência ao hábito, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "B": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta.",
+        "C": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "D": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "E": "A aprendizagem passa da execução consciente e lenta para o hábito gráfico mais rápido."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A aprendizagem passa da execução consciente e lenta para o hábito gráfico mais rápido. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-021",
+      "assunto": "Automatização",
+      "subtema": "Contexto",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema prática contextualizada deve ser compreendido como:",
+      "alternativas": {
+        "A": "Praticar sinais em contextos reais ajuda a automatizar não só a forma, mas a decisão de uso.",
+        "B": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "C": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "D": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "E": "O esforço muscular crescente é sinal de automatização adequada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Praticar sinais em contextos reais ajuda a automatizar não só a forma, mas a decisão de uso. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-022",
+      "assunto": "Automatização",
+      "subtema": "Memória",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "A respeito do tema memória gráfica, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "B": "A memória gráfica permite reconhecer e produzir sinais sem reconstruir teoricamente cada traço.",
+        "C": "O esforço muscular crescente é sinal de automatização adequada.",
+        "D": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "E": "Automatizar significa escrever sem nunca ter estudado sinais ou regras."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A memória gráfica permite reconhecer e produzir sinais sem reconstruir teoricamente cada traço. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-023",
+      "assunto": "Automatização",
+      "subtema": "Coordenação",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema ouvir e escrever indica que:",
+      "alternativas": {
+        "A": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "B": "Automatizar significa escrever sem nunca ter estudado sinais ou regras.",
+        "C": "Automatização melhora a coordenação entre ouvir a fala e escrever o taquigrama correspondente.",
+        "D": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "E": "O automatismo elimina a necessidade de atenção ao conteúdo falado."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Automatização melhora a coordenação entre ouvir a fala e escrever o taquigrama correspondente. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-024",
+      "assunto": "Automatização",
+      "subtema": "Rendimento",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "Em uma prova objetiva sobre Automatização, quando o foco é menos esforço consciente, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "B": "O automatismo elimina a necessidade de atenção ao conteúdo falado.",
+        "C": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "D": "Quanto menor o esforço consciente para traçar, maior a disponibilidade mental para acompanhar o orador.",
+        "E": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Quanto menor o esforço consciente para traçar, maior a disponibilidade mental para acompanhar o orador. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-025",
+      "assunto": "Automatização",
+      "subtema": "Qualidade",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Em relação ao tema velocidade com legibilidade, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "B": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta.",
+        "C": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "D": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "E": "A automatização desejável preserva legibilidade, pois um traço rápido ilegível não cumpre a função documental."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A automatização desejável preserva legibilidade, pois um traço rápido ilegível não cumpre a função documental. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-026",
+      "assunto": "Automatização",
+      "subtema": "Treino inicial",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "No estudo de Automatização, a compreensão do tema repetição correta exige reconhecer que:",
+      "alternativas": {
+        "A": "No início, repetir lentamente e corretamente é mais importante do que buscar velocidade prematura.",
+        "B": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "C": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "D": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "E": "O esforço muscular crescente é sinal de automatização adequada."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. No início, repetir lentamente e corretamente é mais importante do que buscar velocidade prematura. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-027",
+      "assunto": "Automatização",
+      "subtema": "Alta velocidade",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema manutenção técnica. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A consciência deve ficar ocupada com a forma de cada traço para impedir qualquer fluência.",
+        "B": "Em velocidades altas, a técnica automatizada evita colapsos de traçado e perda de sequência.",
+        "C": "O esforço muscular crescente é sinal de automatização adequada.",
+        "D": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "E": "Automatizar significa escrever sem nunca ter estudado sinais ou regras."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Em velocidades altas, a técnica automatizada evita colapsos de traçado e perda de sequência. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-028",
+      "assunto": "Automatização",
+      "subtema": "Fala rápida",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema resposta a estímulos sonoros, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A memorização dos sinais é incompatível com compreensão do discurso.",
+        "B": "Automatizar significa escrever sem nunca ter estudado sinais ou regras.",
+        "C": "O estímulo sonoro da fala deve acionar rapidamente o sinal correspondente, o que depende de treino.",
+        "D": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "E": "O automatismo elimina a necessidade de atenção ao conteúdo falado."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O estímulo sonoro da fala deve acionar rapidamente o sinal correspondente, o que depende de treino. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-029",
+      "assunto": "Automatização",
+      "subtema": "Profissional",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema responsabilidade do taquígrafo deve ser compreendido como:",
+      "alternativas": {
+        "A": "A repetição deve ser evitada, pois impede que os órgãos se adaptem à função.",
+        "B": "O automatismo elimina a necessidade de atenção ao conteúdo falado.",
+        "C": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "D": "O profissional responsável treina velocidade taquigráfica diariamente para manter precisão e prontidão.",
+        "E": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. O profissional responsável treina velocidade taquigráfica diariamente para manter precisão e prontidão. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "automatizacao-030",
+      "assunto": "Automatização",
+      "subtema": "Resultado",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "A respeito do tema naturalidade técnica, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A prática motora só importa depois que o taquígrafo já alcançou velocidade máxima.",
+        "B": "Hábito e fluência são prejudiciais porque tornam a escrita sempre mais lenta.",
+        "C": "Automatização é sinônimo de usar gravador em vez de taquigrafar.",
+        "D": "O ato automatizado não precisa continuar legível para tradução posterior.",
+        "E": "O resultado esperado da automatização é uma escrita que parece natural, mas foi construída por estudo e repetição."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O resultado esperado da automatização é uma escrita que parece natural, mas foi construída por estudo e repetição. As demais alternativas tratam automatização como pressa sem treino, abandono da consciência técnica ou substituição da leitura posterior. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}

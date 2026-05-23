@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "definicao-de-taquigrafia",
+    "titulo": "Definição de Taquigrafia",
+    "grupo": "Conceitos básicos",
+    "descricao": "Questões sobre conceito, finalidade e natureza fonética da taquigrafia.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "definicao-de-taquigrafia-001",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Conceito",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Em relação ao tema escrita rápida, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Taquigrafia é a arte da escrita rápida, abreviada e simplificada, feita por sinais capazes de acompanhar a fala.",
+        "B": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "C": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "D": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "E": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Taquigrafia é a arte da escrita rápida, abreviada e simplificada, feita por sinais capazes de acompanhar a fala. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-002",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Conceito",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "No estudo de Definição de taquigrafia, a compreensão do tema escrita abreviada exige reconhecer que:",
+      "alternativas": {
+        "A": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "B": "A escrita taquigráfica reduz traços e formas para registrar mais conteúdo em menos tempo, sem perder a possibilidade de leitura posterior.",
+        "C": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem.",
+        "D": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "E": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A escrita taquigráfica reduz traços e formas para registrar mais conteúdo em menos tempo, sem perder a possibilidade de leitura posterior. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-003",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Natureza fonética",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema escrita fonética. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "B": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas.",
+        "C": "O fundamento técnico da taquigrafia é fonético: o sinal representa sons ou grupos de sons, e não a ortografia ordinária.",
+        "D": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "E": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O fundamento técnico da taquigrafia é fonético: o sinal representa sons ou grupos de sons, e não a ortografia ordinária. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-004",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Finalidade",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema registro simultâneo da fala, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "B": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons.",
+        "C": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "D": "A finalidade central é registrar simultaneamente discursos, debates, aulas, entrevistas e eventos em velocidade próxima à fala.",
+        "E": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A finalidade central é registrar simultaneamente discursos, debates, aulas, entrevistas e eventos em velocidade próxima à fala. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-005",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Regras",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema regras preestabelecidas deve ser compreendido como:",
+      "alternativas": {
+        "A": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "B": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão.",
+        "C": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "D": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "E": "A rapidez taquigráfica depende de sinais convencionais e regras preestabelecidas, e não de improvisação gráfica sem critério."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A rapidez taquigráfica depende de sinais convencionais e regras preestabelecidas, e não de improvisação gráfica sem critério. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-006",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Comparação",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "A respeito do tema diferença para a escrita comum, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A escrita comum privilegia letras e grafia normativa; a taquigrafia privilegia sons, síntese e recuperação posterior do conteúdo.",
+        "B": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "C": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "D": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "E": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A escrita comum privilegia letras e grafia normativa; a taquigrafia privilegia sons, síntese e recuperação posterior do conteúdo. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-007",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Fonema",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema relação som-sinal indica que:",
+      "alternativas": {
+        "A": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "B": "A relação som-sinal é o eixo do sistema: cada sinal deve remeter ao som que o taquígrafo ouviu no discurso.",
+        "C": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem.",
+        "D": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "E": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A relação som-sinal é o eixo do sistema: cada sinal deve remeter ao som que o taquígrafo ouviu no discurso. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-008",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Uso profissional",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Em uma prova objetiva sobre Definição de taquigrafia, quando o foco é discursos e sessões, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "B": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas.",
+        "C": "Em ambientes parlamentares e institucionais, a taquigrafia permite documentar manifestações orais com agilidade e responsabilidade.",
+        "D": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "E": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Em ambientes parlamentares e institucionais, a taquigrafia permite documentar manifestações orais com agilidade e responsabilidade. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-009",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Síntese",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Em relação ao tema escrita sintética, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "B": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons.",
+        "C": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "D": "A taquigrafia é uma escrita sintética porque concentra em poucos sinais aquilo que a escrita comum exigiria muitas letras para registrar.",
+        "E": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A taquigrafia é uma escrita sintética porque concentra em poucos sinais aquilo que a escrita comum exigiria muitas letras para registrar. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-010",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Prática",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "No estudo de Definição de taquigrafia, a compreensão do tema leitura posterior exige reconhecer que:",
+      "alternativas": {
+        "A": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "B": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão.",
+        "C": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "D": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "E": "Um registro taquigráfico só é funcional se puder ser traduzido ou lido posteriormente com coerência e fidelidade ao que foi dito."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Um registro taquigráfico só é funcional se puder ser traduzido ou lido posteriormente com coerência e fidelidade ao que foi dito. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-011",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Idioma",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema fonemas da língua. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Como cada idioma possui seu próprio conjunto de fonemas, os sistemas de taquigrafia precisam adequar sinais aos sons da língua usada.",
+        "B": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "C": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "D": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "E": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Como cada idioma possui seu próprio conjunto de fonemas, os sistemas de taquigrafia precisam adequar sinais aos sons da língua usada. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-012",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Utilidade",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema aulas e eventos, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "B": "A técnica é útil em aulas, reuniões, palestras e eventos porque permite captar falas contínuas sem depender apenas da memória.",
+        "C": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem.",
+        "D": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "E": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A técnica é útil em aulas, reuniões, palestras e eventos porque permite captar falas contínuas sem depender apenas da memória. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-013",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Documento",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema fé pública deve ser compreendido como:",
+      "alternativas": {
+        "A": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "B": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas.",
+        "C": "No uso parlamentar, a atuação do taquígrafo juramentado pode conferir valor documental ao registro produzido e revisado.",
+        "D": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "E": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. No uso parlamentar, a atuação do taquígrafo juramentado pode conferir valor documental ao registro produzido e revisado. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-014",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Técnica",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "A respeito do tema registro e transcrição, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "B": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons.",
+        "C": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "D": "Taquigrafar e transcrever são etapas distintas: primeiro capta-se a fala por sinais; depois reconstrói-se o texto em escrita comum.",
+        "E": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Taquigrafar e transcrever são etapas distintas: primeiro capta-se a fala por sinais; depois reconstrói-se o texto em escrita comum. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-015",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Atenção",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema escuta qualificada indica que:",
+      "alternativas": {
+        "A": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "B": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão.",
+        "C": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "D": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "E": "A boa taquigrafia exige escuta qualificada, pois a escolha do sinal depende do som percebido e do contexto do discurso."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A boa taquigrafia exige escuta qualificada, pois a escolha do sinal depende do som percebido e do contexto do discurso. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-016",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Velocidade",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Em uma prova objetiva sobre Definição de taquigrafia, quando o foco é rapidez com legibilidade, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Velocidade só é vantagem quando acompanhada de legibilidade, padronização e capacidade de tradução fiel.",
+        "B": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "C": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "D": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "E": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Velocidade só é vantagem quando acompanhada de legibilidade, padronização e capacidade de tradução fiel. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-017",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Objeto",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Em relação ao tema fala pronunciada, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "B": "O objeto imediato da taquigrafia é a fala pronunciada, motivo pelo qual a técnica se orienta pelo que se ouve.",
+        "C": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem.",
+        "D": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "E": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O objeto imediato da taquigrafia é a fala pronunciada, motivo pelo qual a técnica se orienta pelo que se ouve. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-018",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Memória",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "No estudo de Definição de taquigrafia, a compreensão do tema disciplina intelectual exige reconhecer que:",
+      "alternativas": {
+        "A": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "B": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas.",
+        "C": "O estudo da taquigrafia também exercita memória, atenção, coordenação e rapidez de raciocínio, como ressalta o material de referência.",
+        "D": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "E": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O estudo da taquigrafia também exercita memória, atenção, coordenação e rapidez de raciocínio, como ressalta o material de referência. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-019",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Abrangência",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema uso por qualquer pessoa. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "B": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons.",
+        "C": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "D": "A técnica pode ser aprendida por diferentes pessoas, desde que haja estudo sistemático dos sinais e prática contínua.",
+        "E": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A técnica pode ser aprendida por diferentes pessoas, desde que haja estudo sistemático dos sinais e prática contínua. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-020",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Registro",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema não é resumo livre, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "B": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão.",
+        "C": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "D": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "E": "O registro taquigráfico não é um resumo livre: seu propósito é conservar o conteúdo falado com o máximo de fidelidade possível."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O registro taquigráfico não é um resumo livre: seu propósito é conservar o conteúdo falado com o máximo de fidelidade possível. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-021",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Ortografia",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema superação das dificuldades ortográficas deve ser compreendido como:",
+      "alternativas": {
+        "A": "Ao focar sons, a taquigrafia reduz dificuldades próprias da grafia comum, como letras diferentes para sons semelhantes.",
+        "B": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "C": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "D": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "E": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Ao focar sons, a taquigrafia reduz dificuldades próprias da grafia comum, como letras diferentes para sons semelhantes. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-022",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Sinal",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "A respeito do tema taquigrama, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "B": "O taquigrama é o sinal ou conjunto de sinais usado para representar sons, sílabas ou palavras no sistema estudado.",
+        "C": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem.",
+        "D": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "E": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O taquigrama é o sinal ou conjunto de sinais usado para representar sons, sílabas ou palavras no sistema estudado. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-023",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Método",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema sistema organizado indica que:",
+      "alternativas": {
+        "A": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "B": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas.",
+        "C": "A taquigrafia funciona como sistema organizado de escrita especial, e não como conjunto casual de abreviações pessoais.",
+        "D": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "E": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A taquigrafia funciona como sistema organizado de escrita especial, e não como conjunto casual de abreviações pessoais. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-024",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Transcrição",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Em uma prova objetiva sobre Definição de taquigrafia, quando o foco é texto final revisado, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "B": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons.",
+        "C": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "D": "A transcrição converte os sinais em texto comum, momento em que se aplicam gramática, pontuação, acentuação e clareza editorial.",
+        "E": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A transcrição converte os sinais em texto comum, momento em que se aplicam gramática, pontuação, acentuação e clareza editorial. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-025",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Aplicação",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Em relação ao tema contextos de fala rápida, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "B": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão.",
+        "C": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "D": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "E": "A técnica se justifica especialmente quando a velocidade da fala torna insuficiente a anotação comum palavra por palavra."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A técnica se justifica especialmente quando a velocidade da fala torna insuficiente a anotação comum palavra por palavra. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-026",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Fidelidade",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "No estudo de Definição de taquigrafia, a compreensão do tema conteúdo falado exige reconhecer que:",
+      "alternativas": {
+        "A": "A fidelidade do registro depende da combinação entre sinais corretos, contexto compreendido e revisão cuidadosa.",
+        "B": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "C": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "D": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "E": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A fidelidade do registro depende da combinação entre sinais corretos, contexto compreendido e revisão cuidadosa. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-027",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Profissão",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema trabalho especializado. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A finalidade principal da taquigrafia é substituir a revisão textual por sinais permanentes que nunca precisam ser transcritos.",
+        "B": "O taquígrafo profissional precisa unir domínio técnico dos sinais, ouvido treinado e responsabilidade no tratamento do texto.",
+        "C": "Os sinais taquigráficos são escolhidos livremente pelo redator, sem regras estáveis de aprendizagem.",
+        "D": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "E": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O taquígrafo profissional precisa unir domínio técnico dos sinais, ouvido treinado e responsabilidade no tratamento do texto. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-028",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Sistema",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema economia gráfica, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A escrita taquigráfica serve apenas para anotações pessoais lentas, sem utilidade em discursos ou sessões públicas.",
+        "B": "A taquigrafia elimina a necessidade de escuta atenta, pois basta copiar a aparência das palavras impressas.",
+        "C": "A economia gráfica é uma característica essencial: menos traços e sinais padronizados permitem acompanhar discursos extensos.",
+        "D": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "E": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A economia gráfica é uma característica essencial: menos traços e sinais padronizados permitem acompanhar discursos extensos. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-029",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Aprendizagem",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema treino contínuo deve ser compreendido como:",
+      "alternativas": {
+        "A": "O registro taquigráfico dispensa qualquer preocupação com fidelidade documental ou reconstrução posterior do texto.",
+        "B": "A escrita abreviada da taquigrafia depende principalmente de abreviar letras finais, e não de representar sons.",
+        "C": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "D": "A definição operacional da taquigrafia inclui prática: sem treino, a escrita abreviada não alcança velocidade nem automatização.",
+        "E": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A definição operacional da taquigrafia inclui prática: sem treino, a escrita abreviada não alcança velocidade nem automatização. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "definicao-de-taquigrafia-030",
+      "assunto": "Definição de taquigrafia",
+      "subtema": "Limite",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "A respeito do tema não dispensa compreensão, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A taquigrafia é um método de datilografia acelerada e não uma forma de escrita manual ou simbólica.",
+        "B": "A utilidade da taquigrafia termina no momento do registro, sem relação com memória, concentração ou revisão.",
+        "C": "A taquigrafia é apenas uma caligrafia ornamentada, sem relação direta com a velocidade da fala.",
+        "D": "O sistema taquigráfico reproduz a ortografia comum letra por letra, mantendo todas as dificuldades gráficas da língua.",
+        "E": "Mesmo rápida, a taquigrafia não dispensa compreensão do discurso, pois contexto e sentido ajudam na tradução fiel dos sinais."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Mesmo rápida, a taquigrafia não dispensa compreensão do discurso, pois contexto e sentido ajudam na tradução fiel dos sinais. As demais alternativas confundem taquigrafia com ortografia comum, cópia literal, sistema decorativo ou transcrição sem técnica. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}

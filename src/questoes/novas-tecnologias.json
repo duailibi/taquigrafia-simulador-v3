@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "novas-tecnologias",
+    "titulo": "Novas Tecnologias",
+    "grupo": "Taquigrafia e tecnologia",
+    "descricao": "Questões sobre áudio, vídeo, reconhecimento de voz, transcrição automática, revisão humana e limites da automação.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "novas-tecnologias-001",
+      "assunto": "Novas tecnologias",
+      "subtema": "Gravação",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Em relação ao tema taquígrafo e gravador se completam, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "B": "O PDF afirma que taquígrafo e gravador se completam no plano prático, aumentando eficiência e exatidão.",
+        "C": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições.",
+        "D": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "E": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O PDF afirma que taquígrafo e gravador se completam no plano prático, aumentando eficiência e exatidão. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-002",
+      "assunto": "Novas tecnologias",
+      "subtema": "Fórmula combinada",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "No estudo de Novas tecnologias, a compreensão do tema orador ao vivo, taquígrafo e gravação exige reconhecer que:",
+      "alternativas": {
+        "A": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "B": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas.",
+        "C": "A combinação de orador ao vivo, taquígrafo ao vivo e gravação é apresentada como forma de alta fidelidade.",
+        "D": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "E": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A combinação de orador ao vivo, taquígrafo ao vivo e gravação é apresentada como forma de alta fidelidade. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-003",
+      "assunto": "Novas tecnologias",
+      "subtema": "Computador",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema tecnologia como apoio. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "B": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial.",
+        "C": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "D": "O computador fecha o círculo de apoio tecnológico, mas a máquina complementa o trabalho humano.",
+        "E": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. O computador fecha o círculo de apoio tecnológico, mas a máquina complementa o trabalho humano. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-004",
+      "assunto": "Novas tecnologias",
+      "subtema": "Limite",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema máquina não substitui o homem, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "B": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência.",
+        "C": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "D": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "E": "O material afirma que a máquina não substitui o homem; ambos se completam de modo eficiente e exato."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O material afirma que a máquina não substitui o homem; ambos se completam de modo eficiente e exato. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-005",
+      "assunto": "Novas tecnologias",
+      "subtema": "Áudio",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema fonte complementar deve ser compreendido como:",
+      "alternativas": {
+        "A": "Áudio gravado é fonte complementar para conferir trechos, especialmente quando algo não foi entendido ao vivo.",
+        "B": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "C": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "D": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "E": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Áudio gravado é fonte complementar para conferir trechos, especialmente quando algo não foi entendido ao vivo. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-006",
+      "assunto": "Novas tecnologias",
+      "subtema": "Vídeo",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "A respeito do tema contexto do evento, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "B": "Vídeo pode ajudar a recuperar contexto, orador e sequência de acontecimentos durante a revisão.",
+        "C": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições.",
+        "D": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "E": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Vídeo pode ajudar a recuperar contexto, orador e sequência de acontecimentos durante a revisão. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-007",
+      "assunto": "Novas tecnologias",
+      "subtema": "Reconhecimento de voz",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema auxílio com limitações indica que:",
+      "alternativas": {
+        "A": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "B": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas.",
+        "C": "Reconhecimento de voz pode auxiliar, mas não é infalível e precisa de avaliação e revisão humana.",
+        "D": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "E": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Reconhecimento de voz pode auxiliar, mas não é infalível e precisa de avaliação e revisão humana. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-008",
+      "assunto": "Novas tecnologias",
+      "subtema": "WER",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Em uma prova objetiva sobre Novas tecnologias, quando o foco é medição de erro, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "B": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial.",
+        "C": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "D": "Em tecnologias de fala, a taxa de erro de palavras é uma métrica usada para avaliar a precisão de transcrições automáticas.",
+        "E": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Em tecnologias de fala, a taxa de erro de palavras é uma métrica usada para avaliar a precisão de transcrições automáticas. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-009",
+      "assunto": "Novas tecnologias",
+      "subtema": "Dados de teste",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "Em relação ao tema áudio representativo, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "B": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência.",
+        "C": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "D": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "E": "Avaliar um modelo de fala exige áudio e transcrições humanas representativas para comparar resultados."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Avaliar um modelo de fala exige áudio e transcrições humanas representativas para comparar resultados. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-010",
+      "assunto": "Novas tecnologias",
+      "subtema": "Ruído",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo de Novas tecnologias, a compreensão do tema ambiente parlamentar exige reconhecer que:",
+      "alternativas": {
+        "A": "Ruído, aparte, fala sobreposta e dicção ruim dificultam gravação e reconhecimento automático.",
+        "B": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "C": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "D": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "E": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Ruído, aparte, fala sobreposta e dicção ruim dificultam gravação e reconhecimento automático. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-011",
+      "assunto": "Novas tecnologias",
+      "subtema": "Dicção",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema ouvido treinado. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "B": "O PDF ressalta que o taquígrafo treinado pode interpretar sons mesmo quando a dicção do orador é ruim.",
+        "C": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições.",
+        "D": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "E": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O PDF ressalta que o taquígrafo treinado pode interpretar sons mesmo quando a dicção do orador é ruim. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-012",
+      "assunto": "Novas tecnologias",
+      "subtema": "Transparência",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema notas disponíveis na internet, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "B": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas.",
+        "C": "Fontes legislativas mostram que notas taquigráficas publicadas na internet apoiam transparência e consulta pública.",
+        "D": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "E": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Fontes legislativas mostram que notas taquigráficas publicadas na internet apoiam transparência e consulta pública. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-013",
+      "assunto": "Novas tecnologias",
+      "subtema": "Sincronização",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema áudio, vídeo e transcrição deve ser compreendido como:",
+      "alternativas": {
+        "A": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "B": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial.",
+        "C": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "D": "Portais multimídia podem sincronizar áudio, vídeo e notas, facilitando pesquisa e navegação do usuário.",
+        "E": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Portais multimídia podem sincronizar áudio, vídeo e notas, facilitando pesquisa e navegação do usuário. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-014",
+      "assunto": "Novas tecnologias",
+      "subtema": "Tempo real",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "A respeito do tema publicação rápida, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "B": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência.",
+        "C": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "D": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "E": "O Senado divulgou experiências de publicação quase em tempo real, em cerca de 30 a 40 minutos em contextos específicos."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O Senado divulgou experiências de publicação quase em tempo real, em cerca de 30 a 40 minutos em contextos específicos. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-015",
+      "assunto": "Novas tecnologias",
+      "subtema": "Revisão humana",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema texto oficial indica que:",
+      "alternativas": {
+        "A": "Mesmo com tecnologia, revisores organizam a fala para que o leitor compreenda sem descaracterizar o estilo do orador.",
+        "B": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "C": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "D": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "E": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Mesmo com tecnologia, revisores organizam a fala para que o leitor compreenda sem descaracterizar o estilo do orador. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-016",
+      "assunto": "Novas tecnologias",
+      "subtema": "Metadados",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "Em uma prova objetiva sobre Novas tecnologias, quando o foco é busca e indexação, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "B": "Sistemas digitais agregam metadados, busca por data, orador e assunto, ampliando o valor documental.",
+        "C": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições.",
+        "D": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "E": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Sistemas digitais agregam metadados, busca por data, orador e assunto, ampliando o valor documental. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-017",
+      "assunto": "Novas tecnologias",
+      "subtema": "Armazenamento",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Em relação ao tema acervo digital, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "B": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas.",
+        "C": "Acervos digitais de áudio, vídeo e texto dependem de armazenamento, catalogação, indexação e manutenção.",
+        "D": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "E": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Acervos digitais de áudio, vídeo e texto dependem de armazenamento, catalogação, indexação e manutenção. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-018",
+      "assunto": "Novas tecnologias",
+      "subtema": "Fidedignidade",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "No estudo de Novas tecnologias, a compreensão do tema responsabilidade documental exige reconhecer que:",
+      "alternativas": {
+        "A": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "B": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial.",
+        "C": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "D": "Quando o objetivo é fidedignidade, a pergunta técnica não é só o que é prático, mas o que é mais confiável.",
+        "E": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Quando o objetivo é fidedignidade, a pergunta técnica não é só o que é prático, mas o que é mais confiável. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-019",
+      "assunto": "Novas tecnologias",
+      "subtema": "Falha técnica",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema risco da gravação isolada. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "B": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência.",
+        "C": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "D": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "E": "Só gravação pode falhar por áudio ruim, dicção ruim ou problema mecânico, risco destacado no PDF."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Só gravação pode falhar por áudio ruim, dicção ruim ou problema mecânico, risco destacado no PDF. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-020",
+      "assunto": "Novas tecnologias",
+      "subtema": "Só taquígrafo",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema desgaste sem gravação, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "Só taquígrafo, sem gravação, também tem desvantagens por esforço, tensão e dificuldade diante de fala rápida.",
+        "B": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "C": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "D": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "E": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Só taquígrafo, sem gravação, também tem desvantagens por esforço, tensão e dificuldade diante de fala rápida. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-021",
+      "assunto": "Novas tecnologias",
+      "subtema": "Integração",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema melhor fórmula deve ser compreendido como:",
+      "alternativas": {
+        "A": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "B": "A integração entre presença ao vivo, notas e gravação oferece fontes cruzadas para reconstituição do discurso.",
+        "C": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições.",
+        "D": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "E": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A integração entre presença ao vivo, notas e gravação oferece fontes cruzadas para reconstituição do discurso. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-022",
+      "assunto": "Novas tecnologias",
+      "subtema": "Automação",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "A respeito do tema não publicar sem controle, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "B": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas.",
+        "C": "Transcrição automática sem revisão pode produzir erros em nomes, termos técnicos e falas sobrepostas.",
+        "D": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "E": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Transcrição automática sem revisão pode produzir erros em nomes, termos técnicos e falas sobrepostas. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-023",
+      "assunto": "Novas tecnologias",
+      "subtema": "Acessibilidade",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema acesso posterior indica que:",
+      "alternativas": {
+        "A": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "B": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial.",
+        "C": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "D": "Tecnologia amplia acesso posterior a sessões para estudantes, pesquisadores, imprensa e público em geral.",
+        "E": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Tecnologia amplia acesso posterior a sessões para estudantes, pesquisadores, imprensa e público em geral. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-024",
+      "assunto": "Novas tecnologias",
+      "subtema": "Pesquisa",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "Em uma prova objetiva sobre Novas tecnologias, quando o foco é consulta rápida, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "B": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência.",
+        "C": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "D": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "E": "Transcrições digitais facilitam consultas rápidas e estudos, especialmente quando indexadas."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Transcrições digitais facilitam consultas rápidas e estudos, especialmente quando indexadas. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-025",
+      "assunto": "Novas tecnologias",
+      "subtema": "Segurança",
+      "nivel": "básico",
+      "tipo": "comparativo",
+      "enunciado": "Em relação ao tema integridade do acervo, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Sistemas oficiais precisam preservar integridade, disponibilidade e confiabilidade dos registros.",
+        "B": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "C": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "D": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "E": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Sistemas oficiais precisam preservar integridade, disponibilidade e confiabilidade dos registros. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-026",
+      "assunto": "Novas tecnologias",
+      "subtema": "Profissional",
+      "nivel": "intermediário",
+      "tipo": "conceitual",
+      "enunciado": "No estudo de Novas tecnologias, a compreensão do tema taquígrafo moderno exige reconhecer que:",
+      "alternativas": {
+        "A": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "B": "O taquígrafo moderno pode usar tecnologia como aliada indispensável, sem abandonar técnica de escuta e transcrição.",
+        "C": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições.",
+        "D": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "E": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O taquígrafo moderno pode usar tecnologia como aliada indispensável, sem abandonar técnica de escuta e transcrição. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-027",
+      "assunto": "Novas tecnologias",
+      "subtema": "Prodasen e sistemas",
+      "nivel": "avançado",
+      "tipo": "histórico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema infraestrutura digital. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A automação elimina a necessidade de medir erro ou comparar com transcrição humana.",
+        "B": "Tecnologia e taquigrafia são incompatíveis por natureza e não podem atuar juntas.",
+        "C": "Experiências legislativas mostram participação de equipes de tecnologia para sustentar portais e acervos multimídia.",
+        "D": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "E": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Experiências legislativas mostram participação de equipes de tecnologia para sustentar portais e acervos multimídia. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-028",
+      "assunto": "Novas tecnologias",
+      "subtema": "Reconhecimento vocal",
+      "nivel": "básico",
+      "tipo": "interpretativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema auxílio não substitutivo, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "Sistemas digitais dispensam metadados, revisão, indexação e armazenamento confiável.",
+        "B": "A transcrição automática deve ser publicada sem conferência quando o assunto é oficial.",
+        "C": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "D": "Fonte do Senado registra que reconhecimento vocal auxilia, mas não substitui completamente o ofício em contexto parlamentar.",
+        "E": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Fonte do Senado registra que reconhecimento vocal auxilia, mas não substitui completamente o ofício em contexto parlamentar. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-029",
+      "assunto": "Novas tecnologias",
+      "subtema": "Qualidade",
+      "nivel": "intermediário",
+      "tipo": "aplicado",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema melhorar a taquigrafia deve ser compreendido como:",
+      "alternativas": {
+        "A": "Gravadores simples garantem fidelidade total mesmo quando há falha mecânica ou dicção ruim.",
+        "B": "A única função da tecnologia é acelerar a digitação, sem impacto em acesso, busca ou transparência.",
+        "C": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "D": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "E": "A tecnologia veio dar melhor qualidade ao trabalho taquigráfico, não extinguir necessariamente a profissão."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A tecnologia veio dar melhor qualidade ao trabalho taquigráfico, não extinguir necessariamente a profissão. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "novas-tecnologias-030",
+      "assunto": "Novas tecnologias",
+      "subtema": "Limite ético",
+      "nivel": "avançado",
+      "tipo": "terminológico",
+      "enunciado": "A respeito do tema não alterar conteúdo, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Tecnologia deve apoiar fidelidade, clareza e acesso; não autoriza alterar o conteúdo substancial do discurso.",
+        "B": "O uso de tecnologia autoriza alterar o conteúdo do discurso para melhorar fluidez.",
+        "C": "A gravação digital torna inútil qualquer atuação de taquígrafos e revisores.",
+        "D": "Reconhecimento de voz é sempre perfeito, mesmo com ruído, sobreposição de fala e nomes próprios.",
+        "E": "Áudio e vídeo impedem a consulta pública, pois não podem ser associados a transcrições."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Tecnologia deve apoiar fidelidade, clareza e acesso; não autoriza alterar o conteúdo substancial do discurso. As demais alternativas atribuem à tecnologia substituição total, infalibilidade ou dispensa de revisão, contrariando as fontes usadas. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "regras-basicas",
+    "titulo": "Regras Básicas",
+    "grupo": "Métodos e técnicas",
+    "descricao": "Questões sobre simplificação, padronização, economia de traços, legibilidade, material e prática.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "regras-basicas-001",
+      "assunto": "Regras básicas",
+      "subtema": "Material",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Em relação ao tema material pronto e reserva, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "B": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo.",
+        "C": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "D": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "E": "Antes de começar, o taquígrafo deve manter material pronto e reserva, como lápis, papel e bloco."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Antes de começar, o taquígrafo deve manter material pronto e reserva, como lápis, papel e bloco. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-002",
+      "assunto": "Regras básicas",
+      "subtema": "Folha",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No estudo de Regras básicas, a compreensão do tema mão que não escreve exige reconhecer que:",
+      "alternativas": {
+        "A": "Ao passar a folha, recomenda-se usar a mão que não está taquigrafando para manter o lápis deslizando.",
+        "B": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "C": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "D": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "E": "O material de reserva é irrelevante em situações de registro contínuo."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Ao passar a folha, recomenda-se usar a mão que não está taquigrafando para manter o lápis deslizando. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-003",
+      "assunto": "Regras básicas",
+      "subtema": "Linha",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema linha de escrita. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "B": "Manter uma linha de escrita e direção definida dos traços evita desorganização e perda de legibilidade.",
+        "C": "O material de reserva é irrelevante em situações de registro contínuo.",
+        "D": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "E": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Manter uma linha de escrita e direção definida dos traços evita desorganização e perda de legibilidade. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-004",
+      "assunto": "Regras básicas",
+      "subtema": "Tamanho",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema sinais do mesmo tamanho, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "B": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade.",
+        "C": "Os taquigramas devem conservar tamanho regular para reduzir ambiguidades na leitura posterior.",
+        "D": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "E": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Os taquigramas devem conservar tamanho regular para reduzir ambiguidades na leitura posterior. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-005",
+      "assunto": "Regras básicas",
+      "subtema": "Ligação",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema sinais interligados deve ser compreendido como:",
+      "alternativas": {
+        "A": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "B": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro.",
+        "C": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "D": "A interligação adequada dos sinais ajuda a formar palavras e sequências sem que o registro se fragmente.",
+        "E": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A interligação adequada dos sinais ajuda a formar palavras e sequências sem que o registro se fragmente. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-006",
+      "assunto": "Regras básicas",
+      "subtema": "Abreviação",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "A respeito do tema sinais abreviados frequentes, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "B": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo.",
+        "C": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "D": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "E": "Fixar sinais abreviados para palavras, frases ou expressões frequentes reduz grafia e aumenta velocidade."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Fixar sinais abreviados para palavras, frases ou expressões frequentes reduz grafia e aumenta velocidade. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-007",
+      "assunto": "Regras básicas",
+      "subtema": "Vogal medial",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema não taquigrafar vogal medial indica que:",
+      "alternativas": {
+        "A": "O material traz como regra básica que não se taquigrafa vogal medial, em favor da economia do sistema.",
+        "B": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "C": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "D": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "E": "O material de reserva é irrelevante em situações de registro contínuo."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O material traz como regra básica que não se taquigrafa vogal medial, em favor da economia do sistema. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-008",
+      "assunto": "Regras básicas",
+      "subtema": "Coordenação",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Em uma prova objetiva sobre Regras básicas, quando o foco é olhar, escutar e fazer, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "B": "Olhar, escutar e fazer devem atuar juntos para produzir melhor resultado durante a tomada.",
+        "C": "O material de reserva é irrelevante em situações de registro contínuo.",
+        "D": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "E": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Olhar, escutar e fazer devem atuar juntos para produzir melhor resultado durante a tomada. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-009",
+      "assunto": "Regras básicas",
+      "subtema": "Estudo",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Em relação ao tema estudo intensivo dos sinais, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "B": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade.",
+        "C": "Sinais convencionais precisam ser estudados até que sejam executados com espontaneidade e fluência.",
+        "D": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "E": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Sinais convencionais precisam ser estudados até que sejam executados com espontaneidade e fluência. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-010",
+      "assunto": "Regras básicas",
+      "subtema": "Contexto",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "No estudo de Regras básicas, a compreensão do tema praticar em contextos exige reconhecer que:",
+      "alternativas": {
+        "A": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "B": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro.",
+        "C": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "D": "Praticar sinais convencionais em contextos é método natural e produtivo para consolidar a aprendizagem.",
+        "E": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Praticar sinais convencionais em contextos é método natural e produtivo para consolidar a aprendizagem. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-011",
+      "assunto": "Regras básicas",
+      "subtema": "Variações",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema métodos de prática. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "B": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo.",
+        "C": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "D": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "E": "Experimentar variações de prática mantém o aluno atento e envolvido no processo de aprendizagem."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Experimentar variações de prática mantém o aluno atento e envolvido no processo de aprendizagem. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-012",
+      "assunto": "Regras básicas",
+      "subtema": "Relaxamento",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema relaxamento muscular, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O relaxamento ao segurar a caneta é vital, pois tensão excessiva prejudica o traçado rápido.",
+        "B": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "C": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "D": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "E": "O material de reserva é irrelevante em situações de registro contínuo."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O relaxamento ao segurar a caneta é vital, pois tensão excessiva prejudica o traçado rápido. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-013",
+      "assunto": "Regras básicas",
+      "subtema": "Velocidade",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema 80, 100 ou mais palavras por minuto deve ser compreendido como:",
+      "alternativas": {
+        "A": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "B": "Mesmo em velocidades elevadas, o cuidado com relaxamento e técnica continua necessário.",
+        "C": "O material de reserva é irrelevante em situações de registro contínuo.",
+        "D": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "E": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Mesmo em velocidades elevadas, o cuidado com relaxamento e técnica continua necessário. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-014",
+      "assunto": "Regras básicas",
+      "subtema": "Estilo",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "A respeito do tema sinais menores, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "B": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade.",
+        "C": "Sinais menores e bem controlados podem favorecer velocidade porque reduzem movimento e troca de folhas.",
+        "D": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "E": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Sinais menores e bem controlados podem favorecer velocidade porque reduzem movimento e troca de folhas. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-015",
+      "assunto": "Regras básicas",
+      "subtema": "Página",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema mais sinais por linha indica que:",
+      "alternativas": {
+        "A": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "B": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro.",
+        "C": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "D": "Taquígrafos velozes tendem a concentrar mais sinais por linha, evitando estilo excessivamente expandido.",
+        "E": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Taquígrafos velozes tendem a concentrar mais sinais por linha, evitando estilo excessivamente expandido. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-016",
+      "assunto": "Regras básicas",
+      "subtema": "Medição",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Em uma prova objetiva sobre Regras básicas, quando o foco é capacidade de traduzir, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "B": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo.",
+        "C": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "D": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "E": "A habilidade de taquigrafar só pode ser medida de modo útil pela capacidade de traduzir os sinais produzidos."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A habilidade de taquigrafar só pode ser medida de modo útil pela capacidade de traduzir os sinais produzidos. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-017",
+      "assunto": "Regras básicas",
+      "subtema": "Legibilidade",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "Em relação ao tema velocidade com leitura, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Uma regra prática é não sacrificar leitura posterior em nome de velocidade aparente.",
+        "B": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "C": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "D": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "E": "O material de reserva é irrelevante em situações de registro contínuo."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Uma regra prática é não sacrificar leitura posterior em nome de velocidade aparente. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-018",
+      "assunto": "Regras básicas",
+      "subtema": "Padronização",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "No estudo de Regras básicas, a compreensão do tema coerência dos sinais exige reconhecer que:",
+      "alternativas": {
+        "A": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "B": "Padronização de traço, tamanho e direção permite que sinais semelhantes não sejam confundidos.",
+        "C": "O material de reserva é irrelevante em situações de registro contínuo.",
+        "D": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "E": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Padronização de traço, tamanho e direção permite que sinais semelhantes não sejam confundidos. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-019",
+      "assunto": "Regras básicas",
+      "subtema": "Economia",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema redução máxima da grafia. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "B": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade.",
+        "C": "As regras buscam reduzir a grafia de palavras e expressões sem romper a compreensão.",
+        "D": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "E": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. As regras buscam reduzir a grafia de palavras e expressões sem romper a compreensão. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-020",
+      "assunto": "Regras básicas",
+      "subtema": "Prevenção",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema evitar interrupções, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "B": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro.",
+        "C": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "D": "Ter material e técnica preparados evita interrupções em discursos contínuos, nos quais a fala não espera o redator.",
+        "E": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Ter material e técnica preparados evita interrupções em discursos contínuos, nos quais a fala não espera o redator. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-021",
+      "assunto": "Regras básicas",
+      "subtema": "Fluência",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema sem hesitação deve ser compreendido como:",
+      "alternativas": {
+        "A": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "B": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo.",
+        "C": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "D": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "E": "O objetivo do treino é que sinais convencionais surjam de modo fluente, sem hesitação consciente a cada traço."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O objetivo do treino é que sinais convencionais surjam de modo fluente, sem hesitação consciente a cada traço. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-022",
+      "assunto": "Regras básicas",
+      "subtema": "Audição",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "A respeito do tema escutar com atenção, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A regra de escutar é essencial porque a escrita fonética depende do som efetivamente pronunciado.",
+        "B": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "C": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "D": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "E": "O material de reserva é irrelevante em situações de registro contínuo."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A regra de escutar é essencial porque a escrita fonética depende do som efetivamente pronunciado. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-023",
+      "assunto": "Regras básicas",
+      "subtema": "Traçado",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema direção dos traços indica que:",
+      "alternativas": {
+        "A": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "B": "Direção consistente dos traços favorece rapidez, uniformidade e reconhecimento visual.",
+        "C": "O material de reserva é irrelevante em situações de registro contínuo.",
+        "D": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "E": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Direção consistente dos traços favorece rapidez, uniformidade e reconhecimento visual. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-024",
+      "assunto": "Regras básicas",
+      "subtema": "Materialidade",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Em uma prova objetiva sobre Regras básicas, quando o foco é papel e lápis, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "B": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade.",
+        "C": "Ainda que haja tecnologia, a regra básica do método manual pressupõe suporte e instrumento confiáveis.",
+        "D": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "E": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Ainda que haja tecnologia, a regra básica do método manual pressupõe suporte e instrumento confiáveis. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-025",
+      "assunto": "Regras básicas",
+      "subtema": "Disciplina",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Em relação ao tema regras preestabelecidas, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "B": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro.",
+        "C": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "D": "A disciplina técnica diferencia a taquigrafia de abreviações improvisadas e instáveis.",
+        "E": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A disciplina técnica diferencia a taquigrafia de abreviações improvisadas e instáveis. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-026",
+      "assunto": "Regras básicas",
+      "subtema": "Prática",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No estudo de Regras básicas, a compreensão do tema aprendizagem contínua exige reconhecer que:",
+      "alternativas": {
+        "A": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "B": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo.",
+        "C": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "D": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "E": "A prática deve continuar após o aprendizado inicial, porque velocidade e precisão dependem de repetição."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A prática deve continuar após o aprendizado inicial, porque velocidade e precisão dependem de repetição. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-027",
+      "assunto": "Regras básicas",
+      "subtema": "Controle",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema evitar movimentos excessivos. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Movimentos excessivos da mão reduzem rendimento e dificultam alcançar alta velocidade.",
+        "B": "A tensão muscular da mão e do antebraço melhora o traçado em altas velocidades.",
+        "C": "A capacidade de traduzir sinais não interfere na avaliação da habilidade taquigráfica.",
+        "D": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "E": "O material de reserva é irrelevante em situações de registro contínuo."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Movimentos excessivos da mão reduzem rendimento e dificultam alcançar alta velocidade. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-028",
+      "assunto": "Regras básicas",
+      "subtema": "Tradução",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema produto final verificável, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "As vogais mediais devem ser sempre escritas integralmente para preservar a ortografia comum.",
+        "B": "O bom cumprimento das regras se verifica quando o taquígrafo consegue traduzir o que registrou.",
+        "C": "O material de reserva é irrelevante em situações de registro contínuo.",
+        "D": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "E": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O bom cumprimento das regras se verifica quando o taquígrafo consegue traduzir o que registrou. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-029",
+      "assunto": "Regras básicas",
+      "subtema": "Expressões",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema abreviar expressões recorrentes deve ser compreendido como:",
+      "alternativas": {
+        "A": "A regra principal é variar livremente o tamanho dos sinais para cada palavra, sem padrão de leitura.",
+        "B": "O taquígrafo deve esperar o fim da fala para começar a escrever, evitando simultaneidade.",
+        "C": "Expressões recorrentes devem receber tratamento abreviado para economizar tempo em contextos previsíveis.",
+        "D": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "E": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Expressões recorrentes devem receber tratamento abreviado para economizar tempo em contextos previsíveis. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "regras-basicas-030",
+      "assunto": "Regras básicas",
+      "subtema": "Conjunto",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "A respeito do tema técnica integrada, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A prática dos sinais convencionais é dispensável quando o estudante já conhece a teoria.",
+        "B": "Quanto maior e mais expandido o sinal, maior será sempre a velocidade do registro.",
+        "C": "A mão que escreve deve interromper o traçado sempre que a folha for passada.",
+        "D": "As regras básicas formam conjunto integrado: material, postura, traço, audição, memorização e tradução trabalham em conjunto.",
+        "E": "Sinais abreviados frequentes devem ser evitados para manter o texto mais longo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. As regras básicas formam conjunto integrado: material, postura, traço, audição, memorização e tradução trabalham em conjunto. As demais alternativas contrariam a disciplina do método, desprezam legibilidade, relaxamento, material pronto ou padronização dos sinais. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}

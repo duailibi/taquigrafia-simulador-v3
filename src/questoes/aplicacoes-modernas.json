@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "aplicacoes-modernas",
+    "titulo": "Aplicações Modernas",
+    "grupo": "Taquigrafia e tecnologia",
+    "descricao": "Questões sobre parlamentos, tribunais, audiências, entrevistas, reuniões, acessibilidade, atas e transcrições.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "aplicacoes-modernas-001",
+      "assunto": "Aplicações modernas",
+      "subtema": "Parlamentos",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Em relação ao tema registro de sessões, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "B": "Acessibilidade e transparência são incompatíveis com transcrições textuais.",
+        "C": "Parlamentos usam taquigrafia para registrar discursos, debates, apartes e decisões em sessões e comissões.",
+        "D": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "E": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Parlamentos usam taquigrafia para registrar discursos, debates, apartes e decisões em sessões e comissões. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-002",
+      "assunto": "Aplicações modernas",
+      "subtema": "Tribunais",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "No estudo de Aplicações modernas, a compreensão do tema registro de audiências exige reconhecer que:",
+      "alternativas": {
+        "A": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "B": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo.",
+        "C": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "D": "Em tribunais e audiências, técnicas de registro rápido ajudam a documentar falas com precisão e responsabilidade.",
+        "E": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Em tribunais e audiências, técnicas de registro rápido ajudam a documentar falas com precisão e responsabilidade. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-003",
+      "assunto": "Aplicações modernas",
+      "subtema": "Audiências públicas",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema participação social. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "B": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo.",
+        "C": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "D": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "E": "Audiências públicas se beneficiam de transcrições porque preservam contribuições de participantes e autoridades."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Audiências públicas se beneficiam de transcrições porque preservam contribuições de participantes e autoridades. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-004",
+      "assunto": "Aplicações modernas",
+      "subtema": "Entrevistas",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema captação de fala, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "Em entrevistas, a taquigrafia pode apoiar registro fiel de respostas sem depender exclusivamente de gravação.",
+        "B": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "C": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "D": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "E": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Em entrevistas, a taquigrafia pode apoiar registro fiel de respostas sem depender exclusivamente de gravação. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-005",
+      "assunto": "Aplicações modernas",
+      "subtema": "Reuniões",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema memória institucional deve ser compreendido como:",
+      "alternativas": {
+        "A": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "B": "Reuniões técnicas ou administrativas podem usar registro rápido para formar memória institucional verificável.",
+        "C": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala.",
+        "D": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "E": "Acessibilidade e transparência são incompatíveis com transcrições textuais."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Reuniões técnicas ou administrativas podem usar registro rápido para formar memória institucional verificável. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-006",
+      "assunto": "Aplicações modernas",
+      "subtema": "Palestras",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "A respeito do tema conteúdo contínuo, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "B": "Acessibilidade e transparência são incompatíveis com transcrições textuais.",
+        "C": "Palestras e aulas têm fala contínua, contexto em que a técnica ajuda a acompanhar ideias sem perder sequência.",
+        "D": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "E": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Palestras e aulas têm fala contínua, contexto em que a técnica ajuda a acompanhar ideias sem perder sequência. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-007",
+      "assunto": "Aplicações modernas",
+      "subtema": "Eventos",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema documentação de eventos indica que:",
+      "alternativas": {
+        "A": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "B": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo.",
+        "C": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "D": "Eventos públicos ou acadêmicos podem gerar transcrições úteis para divulgação, arquivo e consulta.",
+        "E": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Eventos públicos ou acadêmicos podem gerar transcrições úteis para divulgação, arquivo e consulta. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-008",
+      "assunto": "Aplicações modernas",
+      "subtema": "Acessibilidade",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Em uma prova objetiva sobre Aplicações modernas, quando o foco é texto para quem não acompanha áudio, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "B": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo.",
+        "C": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "D": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "E": "Transcrições ampliam acesso de pessoas que não podem acompanhar áudio ou vídeo no momento da fala."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Transcrições ampliam acesso de pessoas que não podem acompanhar áudio ou vídeo no momento da fala. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-009",
+      "assunto": "Aplicações modernas",
+      "subtema": "Transparência",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Em relação ao tema controle social, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Notas disponibilizadas ao público fortalecem transparência, permitindo consulta ao que foi efetivamente debatido.",
+        "B": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "C": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "D": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "E": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Notas disponibilizadas ao público fortalecem transparência, permitindo consulta ao que foi efetivamente debatido. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-010",
+      "assunto": "Aplicações modernas",
+      "subtema": "Registro histórico",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "No estudo de Aplicações modernas, a compreensão do tema preservação da palavra exige reconhecer que:",
+      "alternativas": {
+        "A": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "B": "A taquigrafia preserva a palavra oral como fonte histórica, especialmente em instituições legislativas.",
+        "C": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala.",
+        "D": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "E": "Acessibilidade e transparência são incompatíveis com transcrições textuais."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A taquigrafia preserva a palavra oral como fonte histórica, especialmente em instituições legislativas. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-011",
+      "assunto": "Aplicações modernas",
+      "subtema": "Atas",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema base para atas. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "B": "Acessibilidade e transparência são incompatíveis com transcrições textuais.",
+        "C": "Registros taquigráficos podem subsidiar atas, relatórios e redações finais de reuniões.",
+        "D": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "E": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Registros taquigráficos podem subsidiar atas, relatórios e redações finais de reuniões. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-012",
+      "assunto": "Aplicações modernas",
+      "subtema": "Imprensa",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema fonte rápida, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "B": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo.",
+        "C": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "D": "No Senado, notas taquigráficas são apontadas como fonte rápida para imprensa brasileira e estrangeira.",
+        "E": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. No Senado, notas taquigráficas são apontadas como fonte rápida para imprensa brasileira e estrangeira. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-013",
+      "assunto": "Aplicações modernas",
+      "subtema": "Pesquisa",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema consulta por pesquisadores deve ser compreendido como:",
+      "alternativas": {
+        "A": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "B": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo.",
+        "C": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "D": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "E": "Pesquisadores recorrem a notas e transcrições para estudar debates, decisões e períodos históricos."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Pesquisadores recorrem a notas e transcrições para estudar debates, decisões e períodos históricos. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-014",
+      "assunto": "Aplicações modernas",
+      "subtema": "Diário oficial",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "A respeito do tema publicação institucional, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Registros de discursos podem subsidiar publicações oficiais, como diários legislativos.",
+        "B": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "C": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "D": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "E": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Registros de discursos podem subsidiar publicações oficiais, como diários legislativos. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-015",
+      "assunto": "Aplicações modernas",
+      "subtema": "Banco de dados",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema histórico de debates indica que:",
+      "alternativas": {
+        "A": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "B": "A Câmara mantém histórico de debates com indexação para pesquisa por orador, assunto ou palavra.",
+        "C": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala.",
+        "D": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "E": "Acessibilidade e transparência são incompatíveis com transcrições textuais."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A Câmara mantém histórico de debates com indexação para pesquisa por orador, assunto ou palavra. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-016",
+      "assunto": "Aplicações modernas",
+      "subtema": "Revisores",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Em uma prova objetiva sobre Aplicações modernas, quando o foco é organização do texto, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "B": "Acessibilidade e transparência são incompatíveis com transcrições textuais.",
+        "C": "Revisores transformam fala oral muitas vezes truncada em texto compreensível, respeitando o estilo do orador.",
+        "D": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "E": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Revisores transformam fala oral muitas vezes truncada em texto compreensível, respeitando o estilo do orador. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-017",
+      "assunto": "Aplicações modernas",
+      "subtema": "Fidelidade",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Em relação ao tema não é reescrita livre, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "B": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo.",
+        "C": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "D": "Aplicação moderna não autoriza reescrever livremente: o objetivo é clareza com fidelidade ao conteúdo.",
+        "E": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Aplicação moderna não autoriza reescrever livremente: o objetivo é clareza com fidelidade ao conteúdo. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-018",
+      "assunto": "Aplicações modernas",
+      "subtema": "Multimídia",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "No estudo de Aplicações modernas, a compreensão do tema áudio, vídeo e texto exige reconhecer que:",
+      "alternativas": {
+        "A": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "B": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo.",
+        "C": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "D": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "E": "Sistemas modernos podem integrar notas, áudio e vídeo para consulta sincronizada."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Sistemas modernos podem integrar notas, áudio e vídeo para consulta sincronizada. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-019",
+      "assunto": "Aplicações modernas",
+      "subtema": "Celular",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema acesso em múltiplos dispositivos. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Portais digitais permitem acessar acervos em computador, tablet ou celular.",
+        "B": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "C": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "D": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "E": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Portais digitais permitem acessar acervos em computador, tablet ou celular. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-020",
+      "assunto": "Aplicações modernas",
+      "subtema": "Busca",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema pesquisa por metadados, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "B": "Aplicações modernas agregam busca por data, orador e assunto, aumentando utilidade da transcrição.",
+        "C": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala.",
+        "D": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "E": "Acessibilidade e transparência são incompatíveis com transcrições textuais."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Aplicações modernas agregam busca por data, orador e assunto, aumentando utilidade da transcrição. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-021",
+      "assunto": "Aplicações modernas",
+      "subtema": "Fé pública",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema valor documental deve ser compreendido como:",
+      "alternativas": {
+        "A": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "B": "Acessibilidade e transparência são incompatíveis com transcrições textuais.",
+        "C": "No contexto parlamentar, o taquígrafo juramentado e a revisão institucional reforçam valor documental do registro.",
+        "D": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "E": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. No contexto parlamentar, o taquígrafo juramentado e a revisão institucional reforçam valor documental do registro. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-022",
+      "assunto": "Aplicações modernas",
+      "subtema": "Aulas",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "A respeito do tema apoio ao estudo, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "B": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo.",
+        "C": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "D": "Em aulas, o registro rápido pode ajudar estudantes e instituições a documentar explicações densas.",
+        "E": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Em aulas, o registro rápido pode ajudar estudantes e instituições a documentar explicações densas. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-023",
+      "assunto": "Aplicações modernas",
+      "subtema": "Treinamento",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema simulados e prática indica que:",
+      "alternativas": {
+        "A": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "B": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo.",
+        "C": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "D": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "E": "Simuladores de estudo aplicam princípios de taquigrafia para treinar conceitos, sinais, sons e revisão."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Simuladores de estudo aplicam princípios de taquigrafia para treinar conceitos, sinais, sons e revisão. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-024",
+      "assunto": "Aplicações modernas",
+      "subtema": "Inclusão",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "Em uma prova objetiva sobre Aplicações modernas, quando o foco é legendas e transcrições, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Transcrições podem apoiar legendagem, acessibilidade comunicacional e consulta textual de conteúdos falados.",
+        "B": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "C": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "D": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "E": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Transcrições podem apoiar legendagem, acessibilidade comunicacional e consulta textual de conteúdos falados. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-025",
+      "assunto": "Aplicações modernas",
+      "subtema": "Conferências",
+      "nivel": "básico",
+      "tipo": "conceitual",
+      "enunciado": "Em relação ao tema debates multilaterais, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "B": "Conferências e reuniões com muitos oradores exigem registro organizado para memória posterior.",
+        "C": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala.",
+        "D": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "E": "Acessibilidade e transparência são incompatíveis com transcrições textuais."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Conferências e reuniões com muitos oradores exigem registro organizado para memória posterior. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-026",
+      "assunto": "Aplicações modernas",
+      "subtema": "Responsabilidade",
+      "nivel": "intermediário",
+      "tipo": "histórico",
+      "enunciado": "No estudo de Aplicações modernas, a compreensão do tema texto que não aceita erros exige reconhecer que:",
+      "alternativas": {
+        "A": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "B": "Acessibilidade e transparência são incompatíveis com transcrições textuais.",
+        "C": "Fontes do Senado destacam que o texto de registro exige atenção porque não aceita erros em contexto oficial.",
+        "D": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "E": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Fontes do Senado destacam que o texto de registro exige atenção porque não aceita erros em contexto oficial. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-027",
+      "assunto": "Aplicações modernas",
+      "subtema": "Complementaridade",
+      "nivel": "avançado",
+      "tipo": "interpretativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema taquigrafia e gravação. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Atas e registros históricos não exigem fidelidade ao que foi dito.",
+        "B": "A revisão de notas modernas deve apagar o estilo do orador e reescrever livremente o conteúdo.",
+        "C": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "D": "A aplicação moderna mais robusta combina taquigrafia, gravação, revisão e tecnologia digital.",
+        "E": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A aplicação moderna mais robusta combina taquigrafia, gravação, revisão e tecnologia digital. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-028",
+      "assunto": "Aplicações modernas",
+      "subtema": "Limites",
+      "nivel": "básico",
+      "tipo": "aplicado",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema fala ruim e ruído, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "Aplicações modernas dispensam busca, indexação e consulta pública.",
+        "B": "A taquigrafia não pode coexistir com gravação digital, áudio ou vídeo.",
+        "C": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "D": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "E": "Mesmo em aplicações modernas, dicção ruim, ruído e fala sobreposta continuam exigindo julgamento humano."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Mesmo em aplicações modernas, dicção ruim, ruído e fala sobreposta continuam exigindo julgamento humano. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-029",
+      "assunto": "Aplicações modernas",
+      "subtema": "Arquivo",
+      "nivel": "intermediário",
+      "tipo": "terminológico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema preservação de acervos deve ser compreendido como:",
+      "alternativas": {
+        "A": "Arquivos legislativos preservam acervos de debates e documentos, dando continuidade histórica à função taquigráfica.",
+        "B": "O registro de reuniões só tem valor se for produzido dias depois, sem apoio em notas.",
+        "C": "A documentação oral não serve para imprensa, pesquisa ou memória institucional.",
+        "D": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "E": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Arquivos legislativos preservam acervos de debates e documentos, dando continuidade histórica à função taquigráfica. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "aplicacoes-modernas-030",
+      "assunto": "Aplicações modernas",
+      "subtema": "Síntese",
+      "nivel": "avançado",
+      "tipo": "comparativo",
+      "enunciado": "A respeito do tema da fala ao documento, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A taquigrafia moderna só se aplica a bilhetes pessoais e não tem função institucional.",
+        "B": "A aplicação moderna da taquigrafia é transformar fala efêmera em documento acessível, pesquisável e confiável.",
+        "C": "Parlamentos e tribunais não se beneficiam de registros rápidos de fala.",
+        "D": "Entrevistas, audiências e palestras devem depender apenas da memória dos participantes.",
+        "E": "Acessibilidade e transparência são incompatíveis com transcrições textuais."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A aplicação moderna da taquigrafia é transformar fala efêmera em documento acessível, pesquisável e confiável. As demais alternativas restringem indevidamente a técnica, negam seu valor documental ou confundem aplicação moderna com abandono da revisão. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}

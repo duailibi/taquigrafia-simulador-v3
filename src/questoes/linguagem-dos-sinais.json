@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "linguagem-dos-sinais",
+    "titulo": "Linguagem dos Sinais",
+    "grupo": "Conceitos básicos",
+    "descricao": "Questões sobre símbolos, fonemas, combinação de sinais e tradução dos taquigramas.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "linguagem-dos-sinais-001",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Símbolos",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Em relação ao tema símbolos que representam fonemas, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "B": "A linguagem dos sinais usa símbolos convencionais para representar fonemas, isto é, sons percebidos na fala.",
+        "C": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais.",
+        "D": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "E": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A linguagem dos sinais usa símbolos convencionais para representar fonemas, isto é, sons percebidos na fala. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-002",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Sinais simples",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo de Linguagem dos sinais, a compreensão do tema simplicidade dos sinais exige reconhecer que:",
+      "alternativas": {
+        "A": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "B": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente.",
+        "C": "Sinais simples favorecem rapidez, memorização e execução fluente durante o registro de um discurso.",
+        "D": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "E": "Os sinais representam pontuação e acentuação antes de representarem sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Sinais simples favorecem rapidez, memorização e execução fluente durante o registro de um discurso. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-003",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Combinação",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema junção de fonemas. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "B": "Os sinais representam pontuação e acentuação antes de representarem sons.",
+        "C": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "D": "Depois de conhecer os sinais básicos, o estudante aprende a combiná-los para formar palavras e sequências sonoras.",
+        "E": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Depois de conhecer os sinais básicos, o estudante aprende a combiná-los para formar palavras e sequências sonoras. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-004",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Tradução",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema versão para o português, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "B": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes.",
+        "C": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "D": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "E": "A etapa final é traduzir os taquigramas para a escrita comum, aplicando grafia correta, gramática e clareza."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A etapa final é traduzir os taquigramas para a escrita comum, aplicando grafia correta, gramática e clareza. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-005",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Som e grafia",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema diferença entre grafia e som deve ser compreendido como:",
+      "alternativas": {
+        "A": "Na tomada taquigráfica, importa captar o som correto; a grafia normativa é recuperada na transcrição.",
+        "B": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "C": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "D": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "E": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Na tomada taquigráfica, importa captar o som correto; a grafia normativa é recuperada na transcrição. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-006",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Tabela",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "A respeito do tema memorização dos símbolos, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "B": "Conhecer a tabela de sinais frequentes é o primeiro passo para escrever e ler taquigramas de modo confiável.",
+        "C": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais.",
+        "D": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "E": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Conhecer a tabela de sinais frequentes é o primeiro passo para escrever e ler taquigramas de modo confiável. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-007",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Vogais",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema indicação de vogais indica que:",
+      "alternativas": {
+        "A": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "B": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente.",
+        "C": "No método Taylor estudado, há tratamento específico para vogais, inclusive alfabetos com e sem vogais no início da palavra.",
+        "D": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "E": "Os sinais representam pontuação e acentuação antes de representarem sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. No método Taylor estudado, há tratamento específico para vogais, inclusive alfabetos com e sem vogais no início da palavra. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-008",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Fonemas equivalentes",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "Em uma prova objetiva sobre Linguagem dos sinais, quando o foco é sons iguais com grafias diferentes, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "B": "Os sinais representam pontuação e acentuação antes de representarem sons.",
+        "C": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "D": "Quando grafias diferentes produzem o mesmo som, a linguagem taquigráfica tende a privilegiar o fonema comum.",
+        "E": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Quando grafias diferentes produzem o mesmo som, a linguagem taquigráfica tende a privilegiar o fonema comum. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-009",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Registro",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Em relação ao tema registro rápido de diálogos, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "B": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes.",
+        "C": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "D": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "E": "Os sinais permitem registrar diálogos com rapidez porque substituem sequências longas de letras por formas sintéticas."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Os sinais permitem registrar diálogos com rapidez porque substituem sequências longas de letras por formas sintéticas. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-010",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Leitura",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "No estudo de Linguagem dos sinais, a compreensão do tema leitura posterior dos sinais exige reconhecer que:",
+      "alternativas": {
+        "A": "A linguagem dos sinais só cumpre sua função se o próprio taquígrafo puder reconhecer e traduzir os sinais depois.",
+        "B": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "C": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "D": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "E": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A linguagem dos sinais só cumpre sua função se o próprio taquígrafo puder reconhecer e traduzir os sinais depois. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-011",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Convencionalidade",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema sinais convencionais. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "B": "A convencionalidade dos sinais torna possível estudar, praticar e conferir coerência à escrita taquigráfica.",
+        "C": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais.",
+        "D": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "E": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A convencionalidade dos sinais torna possível estudar, praticar e conferir coerência à escrita taquigráfica. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-012",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Contexto",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema papel do contexto, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "B": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente.",
+        "C": "O contexto ajuda a escolher a palavra correta na tradução, especialmente quando sons semelhantes admitem grafias distintas.",
+        "D": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "E": "Os sinais representam pontuação e acentuação antes de representarem sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O contexto ajuda a escolher a palavra correta na tradução, especialmente quando sons semelhantes admitem grafias distintas. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-013",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Economia",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema economia de traços deve ser compreendido como:",
+      "alternativas": {
+        "A": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "B": "Os sinais representam pontuação e acentuação antes de representarem sons.",
+        "C": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "D": "A linguagem dos sinais busca economia de traços para reduzir esforço motor e aumentar a velocidade.",
+        "E": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A linguagem dos sinais busca economia de traços para reduzir esforço motor e aumentar a velocidade. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-014",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Coerência",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "A respeito do tema sistema organizado, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "B": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes.",
+        "C": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "D": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "E": "Os sinais formam um sistema organizado; por isso, uma mudança arbitrária prejudica leitura e aprendizado."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Os sinais formam um sistema organizado; por isso, uma mudança arbitrária prejudica leitura e aprendizado. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-015",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Sinal e sílaba",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema valor silábico indica que:",
+      "alternativas": {
+        "A": "No material do método Taylor, cada um dos sinais básicos pode corresponder a uma sílaba ou família silábica.",
+        "B": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "C": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "D": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "E": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. No material do método Taylor, cada um dos sinais básicos pode corresponder a uma sílaba ou família silábica. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-016",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Som ouvido",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Em uma prova objetiva sobre Linguagem dos sinais, quando o foco é primazia da audição, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "B": "O sinal deve responder ao som ouvido, porque a taquigrafia é uma escrita fonética.",
+        "C": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais.",
+        "D": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "E": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. O sinal deve responder ao som ouvido, porque a taquigrafia é uma escrita fonética. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-017",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Transcrição",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Em relação ao tema seleção da grafia correta, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "B": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente.",
+        "C": "Na tradução, o taquígrafo escolhe a grafia comum adequada para o som registrado nos sinais.",
+        "D": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "E": "Os sinais representam pontuação e acentuação antes de representarem sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Na tradução, o taquígrafo escolhe a grafia comum adequada para o som registrado nos sinais. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-018",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Treino",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "No estudo de Linguagem dos sinais, a compreensão do tema automatização dos sinais exige reconhecer que:",
+      "alternativas": {
+        "A": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "B": "Os sinais representam pontuação e acentuação antes de representarem sons.",
+        "C": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "D": "A repetição dos sinais transforma reconhecimento e traçado em processos mais automáticos e seguros.",
+        "E": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A repetição dos sinais transforma reconhecimento e traçado em processos mais automáticos e seguros. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-019",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Legibilidade",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema clareza do taquigrama. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "B": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes.",
+        "C": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "D": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "E": "Mesmo abreviado, o sinal precisa manter forma suficiente para ser reconhecido no momento da leitura."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Mesmo abreviado, o sinal precisa manter forma suficiente para ser reconhecido no momento da leitura. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-020",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Padrão",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema padronização dos traços, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "Padronizar direção, tamanho e ligação dos sinais reduz ambiguidades entre taquigramas semelhantes.",
+        "B": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "C": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "D": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "E": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Padronizar direção, tamanho e ligação dos sinais reduz ambiguidades entre taquigramas semelhantes. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-021",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Palavra",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema formação de palavras deve ser compreendido como:",
+      "alternativas": {
+        "A": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "B": "Palavras são formadas pela sequência lógica de sinais sonoros, e não pela cópia visual das letras da palavra comum.",
+        "C": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais.",
+        "D": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "E": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Palavras são formadas pela sequência lógica de sinais sonoros, e não pela cópia visual das letras da palavra comum. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-022",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Idioma",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "A respeito do tema dependência do sistema fonológico, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "B": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente.",
+        "C": "Como a linguagem dos sinais se baseia em sons, ela precisa considerar o sistema fonológico da língua usada.",
+        "D": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "E": "Os sinais representam pontuação e acentuação antes de representarem sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Como a linguagem dos sinais se baseia em sons, ela precisa considerar o sistema fonológico da língua usada. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-023",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Síntese",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema representação abreviada indica que:",
+      "alternativas": {
+        "A": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "B": "Os sinais representam pontuação e acentuação antes de representarem sons.",
+        "C": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "D": "A linguagem dos sinais permite condensar sílabas e sons em formas gráficas de execução rápida.",
+        "E": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A linguagem dos sinais permite condensar sílabas e sons em formas gráficas de execução rápida. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-024",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Atenção",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Em uma prova objetiva sobre Linguagem dos sinais, quando o foco é escuta e escrita simultâneas, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "B": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes.",
+        "C": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "D": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "E": "Durante a tomada, o taquígrafo escuta, interpreta sons e escreve quase simultaneamente."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Durante a tomada, o taquígrafo escuta, interpreta sons e escreve quase simultaneamente. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-025",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Aprendizagem",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Em relação ao tema ordem didática, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A aprendizagem começa pelos símbolos comuns, passa pela combinação e chega à tradução de palavras e frases.",
+        "B": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "C": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "D": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "E": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A aprendizagem começa pelos símbolos comuns, passa pela combinação e chega à tradução de palavras e frases. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-026",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Erro comum",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo de Linguagem dos sinais, a compreensão do tema não confundir sinal com letra exige reconhecer que:",
+      "alternativas": {
+        "A": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "B": "Um erro conceitual é tratar o sinal como letra comum estilizada; no sistema, ele representa unidade sonora.",
+        "C": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais.",
+        "D": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "E": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Um erro conceitual é tratar o sinal como letra comum estilizada; no sistema, ele representa unidade sonora. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-027",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Aplicação",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema fala contínua. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O uso de sinais elimina a necessidade de tradução para a escrita comum.",
+        "B": "A forma gráfica do sinal deve seguir a grafia oficial da palavra, ainda que o som seja diferente.",
+        "C": "Em fala contínua, a linguagem dos sinais evita que o redator se perca tentando registrar cada letra pronunciada.",
+        "D": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "E": "Os sinais representam pontuação e acentuação antes de representarem sons."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Em fala contínua, a linguagem dos sinais evita que o redator se perca tentando registrar cada letra pronunciada. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-028",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Gramática",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema gramática na revisão, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A tabela de sinais é dispensável, pois a taquigrafia se aprende apenas por intuição auditiva.",
+        "B": "Os sinais representam pontuação e acentuação antes de representarem sons.",
+        "C": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "D": "A gramática não desaparece; ela é aplicada especialmente na etapa de transcrição para o português escrito.",
+        "E": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A gramática não desaparece; ela é aplicada especialmente na etapa de transcrição para o português escrito. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-029",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Memória visual",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema reconhecimento gráfico deve ser compreendido como:",
+      "alternativas": {
+        "A": "A combinação de sinais não interfere na leitura posterior do taquigrama.",
+        "B": "A linguagem dos sinais é idêntica em todos os idiomas, independentemente dos fonemas existentes.",
+        "C": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "D": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "E": "A memória visual dos sinais é tão importante quanto a audição, porque permite leitura rápida dos taquigramas."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A memória visual dos sinais é tão importante quanto a audição, porque permite leitura rápida dos taquigramas. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "linguagem-dos-sinais-030",
+      "assunto": "Linguagem dos sinais",
+      "subtema": "Fidelidade",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "A respeito do tema sinal como apoio documental, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Sinais corretamente empregados servem de base para reconstruir a fala com maior fidelidade documental.",
+        "B": "A finalidade dos sinais é tornar o texto ilegível, não registrar a fala com rapidez.",
+        "C": "Os sinais são desenhos livres, escolhidos a cada fala sem necessidade de memorização.",
+        "D": "A linguagem dos sinais taquigráficos copia integralmente o alfabeto comum, apenas com letras menores.",
+        "E": "Cada sinal vale sempre uma palavra inteira, sem possibilidade de combinação com outros sinais."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Sinais corretamente empregados servem de base para reconstruir a fala com maior fidelidade documental. As demais alternativas reduzem os sinais a desenhos livres, letras comuns ou marcas sem relação estável com fonemas e tradução. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}
