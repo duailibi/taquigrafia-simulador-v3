@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "id": "acentuacao",
+    "titulo": "Acentuação",
+    "grupo": "Elementos técnicos",
+    "descricao": "Questões sobre acentuação no texto final, recuperação da grafia comum e distinção de sentidos.",
+    "quantidade": 30,
+    "fonte_principal": "taquigrafia.pdf",
+    "fontes_complementares": [
+      "https://www2.camara.leg.br/atividade-legislativa/plenario/discursos/o-registro-dos-discursos",
+      "https://www12.senado.leg.br/noticias/materias/2016/05/02/transcricao-dos-debates-da-comissao-do-impeachment-e-disponibilizada-em-tempo-real",
+      "https://www12.senado.leg.br/noticias/materias/2016/08/09/portal-multimidia-estreia-transicoes-sincronizadas-com-audio-e-video",
+      "https://www.britannica.com/topic/Tironian-notes",
+      "https://script.byu.edu/english-handwriting/shorthand/eighteenth-century-shorthand",
+      "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data"
+    ]
+  },
+  "questoes": [
+    {
+      "id": "acentuacao-001",
+      "assunto": "Acentuação",
+      "subtema": "Regra do método",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Em relação ao tema sem acentuação na tomada, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A acentuação substitui a revisão de pontuação e de coerência.",
+        "B": "Toda palavra pronunciada com intensidade deve receber acento gráfico no texto final.",
+        "C": "O PDF informa que não existe acentuação na hora de taquigrafar; os acentos entram na transcrição.",
+        "D": "A ausência de acentuação nunca causa ambiguidade em português.",
+        "E": "A acentuação deve ser marcada integralmente durante a tomada taquigráfica."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O PDF informa que não existe acentuação na hora de taquigrafar; os acentos entram na transcrição. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-002",
+      "assunto": "Acentuação",
+      "subtema": "Transcrição",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo de Acentuação, a compreensão do tema uso das regras de acentuação exige reconhecer que:",
+      "alternativas": {
+        "A": "A ausência de acentuação nunca causa ambiguidade em português.",
+        "B": "A acentuação deve ser marcada integralmente durante a tomada taquigráfica.",
+        "C": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "D": "Ao transcrever os taquigramas para a escrita comum, aplicam-se devidamente as regras de acentuação.",
+        "E": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Ao transcrever os taquigramas para a escrita comum, aplicam-se devidamente as regras de acentuação. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-003",
+      "assunto": "Acentuação",
+      "subtema": "Norma",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema norma culta no texto final. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "B": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos.",
+        "C": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "D": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "E": "A nota revisada deve observar a norma escrita, inclusive acentuação, quando o produto é texto formal."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A nota revisada deve observar a norma escrita, inclusive acentuação, quando o produto é texto formal. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-004",
+      "assunto": "Acentuação",
+      "subtema": "Som e grafia",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema registro fonético versus grafia, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A tomada registra sons; a acentuação pertence à etapa de recuperação da grafia comum.",
+        "B": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "C": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "D": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "E": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. A tomada registra sons; a acentuação pertence à etapa de recuperação da grafia comum. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-005",
+      "assunto": "Acentuação",
+      "subtema": "Sentido",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema distinção de sentidos deve ser compreendido como:",
+      "alternativas": {
+        "A": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "B": "Acentos podem distinguir sentidos e classes de palavras, por isso são importantes na redação final.",
+        "C": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída.",
+        "D": "A acentuação substitui a revisão de pontuação e de coerência.",
+        "E": "Toda palavra pronunciada com intensidade deve receber acento gráfico no texto final."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Acentos podem distinguir sentidos e classes de palavras, por isso são importantes na redação final. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-006",
+      "assunto": "Acentuação",
+      "subtema": "Clareza",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "A respeito do tema clareza para o leitor, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A acentuação substitui a revisão de pontuação e de coerência.",
+        "B": "Toda palavra pronunciada com intensidade deve receber acento gráfico no texto final.",
+        "C": "A acentuação correta facilita leitura e evita ambiguidades em textos consultados posteriormente.",
+        "D": "A ausência de acentuação nunca causa ambiguidade em português.",
+        "E": "A acentuação deve ser marcada integralmente durante a tomada taquigráfica."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A acentuação correta facilita leitura e evita ambiguidades em textos consultados posteriormente. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-007",
+      "assunto": "Acentuação",
+      "subtema": "Revisão",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema papel da revisão indica que:",
+      "alternativas": {
+        "A": "A ausência de acentuação nunca causa ambiguidade em português.",
+        "B": "A acentuação deve ser marcada integralmente durante a tomada taquigráfica.",
+        "C": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "D": "A revisão decide a forma gráfica adequada com base no contexto e nas regras do português.",
+        "E": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A revisão decide a forma gráfica adequada com base no contexto e nas regras do português. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-008",
+      "assunto": "Acentuação",
+      "subtema": "Fala",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "Em uma prova objetiva sobre Acentuação, quando o foco é intensidade não é acento gráfico, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "B": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos.",
+        "C": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "D": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "E": "Nem toda ênfase oral gera acento gráfico; a acentuação depende da norma da palavra reconstruída."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Nem toda ênfase oral gera acento gráfico; a acentuação depende da norma da palavra reconstruída. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-009",
+      "assunto": "Acentuação",
+      "subtema": "Palavra",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Em relação ao tema escolha lexical, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O taquígrafo precisa identificar a palavra correta para aplicar acentuação compatível no texto final.",
+        "B": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "C": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "D": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "E": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. O taquígrafo precisa identificar a palavra correta para aplicar acentuação compatível no texto final. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-010",
+      "assunto": "Acentuação",
+      "subtema": "Ambiguidade",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "No estudo de Acentuação, a compreensão do tema formas semelhantes exige reconhecer que:",
+      "alternativas": {
+        "A": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "B": "Formas semelhantes podem exigir acentuação para evitar leitura equivocada pelo usuário do documento.",
+        "C": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída.",
+        "D": "A acentuação substitui a revisão de pontuação e de coerência.",
+        "E": "Toda palavra pronunciada com intensidade deve receber acento gráfico no texto final."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Formas semelhantes podem exigir acentuação para evitar leitura equivocada pelo usuário do documento. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-011",
+      "assunto": "Acentuação",
+      "subtema": "Temporalidade",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema momento correto. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A acentuação substitui a revisão de pontuação e de coerência.",
+        "B": "Toda palavra pronunciada com intensidade deve receber acento gráfico no texto final.",
+        "C": "O momento correto para acentuar é a transcrição, porque durante a tomada a prioridade é velocidade e som.",
+        "D": "A ausência de acentuação nunca causa ambiguidade em português.",
+        "E": "A acentuação deve ser marcada integralmente durante a tomada taquigráfica."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. O momento correto para acentuar é a transcrição, porque durante a tomada a prioridade é velocidade e som. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-012",
+      "assunto": "Acentuação",
+      "subtema": "Ortografia",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema recuperação ortográfica, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A ausência de acentuação nunca causa ambiguidade em português.",
+        "B": "A acentuação deve ser marcada integralmente durante a tomada taquigráfica.",
+        "C": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "D": "A acentuação integra a recuperação ortográfica que transforma sinal fonético em palavra escrita.",
+        "E": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A acentuação integra a recuperação ortográfica que transforma sinal fonético em palavra escrita. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-013",
+      "assunto": "Acentuação",
+      "subtema": "Exatidão",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema fidelidade e norma deve ser compreendido como:",
+      "alternativas": {
+        "A": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "B": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos.",
+        "C": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "D": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "E": "Fidelidade ao discurso não exclui correção ortográfica; o texto final deve ser fiel e legível."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Fidelidade ao discurso não exclui correção ortográfica; o texto final deve ser fiel e legível. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-014",
+      "assunto": "Acentuação",
+      "subtema": "Treino",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "A respeito do tema conhecimento linguístico, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "Além dos sinais, o taquígrafo precisa domínio linguístico para transcrever com acentuação adequada.",
+        "B": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "C": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "D": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "E": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Além dos sinais, o taquígrafo precisa domínio linguístico para transcrever com acentuação adequada. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-015",
+      "assunto": "Acentuação",
+      "subtema": "Tecnologia",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema correção automática limitada indica que:",
+      "alternativas": {
+        "A": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "B": "Corretores automáticos podem ajudar, mas a acentuação depende de contexto que exige revisão humana.",
+        "C": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída.",
+        "D": "A acentuação substitui a revisão de pontuação e de coerência.",
+        "E": "Toda palavra pronunciada com intensidade deve receber acento gráfico no texto final."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Corretores automáticos podem ajudar, mas a acentuação depende de contexto que exige revisão humana. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-016",
+      "assunto": "Acentuação",
+      "subtema": "Português",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Na transcrição final de uma nota taquigráfica, ao conferir a palavra \"política\", a classificação e a justificativa corretas são:",
+      "alternativas": {
+        "A": "\"política\" é paroxítona terminada em \"a\" e recebe acento por essa terminação.",
+        "B": "\"política\" é oxítona terminada em \"a\" e recebe acento por terminar em vogal.",
+        "C": "\"política\" é proparoxítona, pois a sílaba tônica é \"lí\", e toda proparoxítona é acentuada.",
+        "D": "\"política\" não deveria receber acento gráfico na transcrição, pois a taquigrafia registra sons.",
+        "E": "\"política\" recebe acento apenas quando usada em contexto parlamentar."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. A palavra \"política\" é proparoxítona, porque a sílaba tônica é a antepenúltima: po-lí-ti-ca. Pela regra geral do português, todas as proparoxítonas são acentuadas. A alternativa A erra ao classificá-la como paroxítona; B erra ao tratá-la como oxítona; D confunde o registro fonético da tomada com a forma ortográfica revisada; E inventa uma condição inexistente, pois o acento decorre da norma da língua, não do tema do discurso."
+    },
+    {
+      "id": "acentuacao-017",
+      "assunto": "Acentuação",
+      "subtema": "Releitura",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Em relação ao tema conferência do texto, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A ausência de acentuação nunca causa ambiguidade em português.",
+        "B": "A acentuação deve ser marcada integralmente durante a tomada taquigráfica.",
+        "C": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "D": "A releitura do texto transcrito permite verificar se os acentos preservam sentido e correção.",
+        "E": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. A releitura do texto transcrito permite verificar se os acentos preservam sentido e correção. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-018",
+      "assunto": "Acentuação",
+      "subtema": "Homônimos",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "No estudo de Acentuação, a compreensão do tema diferença entre palavras exige reconhecer que:",
+      "alternativas": {
+        "A": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "B": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos.",
+        "C": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "D": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "E": "Em palavras semelhantes, acento gráfico pode ser decisivo para distinguir função e significado."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. Em palavras semelhantes, acento gráfico pode ser decisivo para distinguir função e significado. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-019",
+      "assunto": "Acentuação",
+      "subtema": "Documento",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema qualidade documental. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "Documento sem acentuação adequada perde qualidade formal e pode dificultar pesquisa e citação.",
+        "B": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "C": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "D": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "E": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Documento sem acentuação adequada perde qualidade formal e pode dificultar pesquisa e citação. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-020",
+      "assunto": "Acentuação",
+      "subtema": "Método",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema separação de etapas, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "B": "Separar tomada e acentuação evita sobrecarregar a escrita rápida com detalhes gráficos da língua comum.",
+        "C": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída.",
+        "D": "A acentuação substitui a revisão de pontuação e de coerência.",
+        "E": "Toda palavra pronunciada com intensidade deve receber acento gráfico no texto final."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Separar tomada e acentuação evita sobrecarregar a escrita rápida com detalhes gráficos da língua comum. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-021",
+      "assunto": "Acentuação",
+      "subtema": "Leitor",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema acesso posterior deve ser compreendido como:",
+      "alternativas": {
+        "A": "A acentuação substitui a revisão de pontuação e de coerência.",
+        "B": "Toda palavra pronunciada com intensidade deve receber acento gráfico no texto final.",
+        "C": "Quem lê a nota final não lê taquigramas; lê português escrito, que exige acentuação quando cabível.",
+        "D": "A ausência de acentuação nunca causa ambiguidade em português.",
+        "E": "A acentuação deve ser marcada integralmente durante a tomada taquigráfica."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Quem lê a nota final não lê taquigramas; lê português escrito, que exige acentuação quando cabível. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-022",
+      "assunto": "Acentuação",
+      "subtema": "Coerência",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "A respeito do tema acentuação e coesão, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A ausência de acentuação nunca causa ambiguidade em português.",
+        "B": "A acentuação deve ser marcada integralmente durante a tomada taquigráfica.",
+        "C": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "D": "Acentuação correta compõe a coerência textual ao lado de pontuação, concordância e escolha vocabular.",
+        "E": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Acentuação correta compõe a coerência textual ao lado de pontuação, concordância e escolha vocabular. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-023",
+      "assunto": "Acentuação",
+      "subtema": "Erro",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "Ao comparar a escrita comum com a escrita taquigráfica, o tema risco de palavra incorreta indica que:",
+      "alternativas": {
+        "A": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "B": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos.",
+        "C": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "D": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "E": "A ausência de acento pode levar o leitor a identificar palavra diferente da pretendida pelo contexto."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. A ausência de acento pode levar o leitor a identificar palavra diferente da pretendida pelo contexto. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-024",
+      "assunto": "Acentuação",
+      "subtema": "Responsabilidade",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "Em uma prova objetiva sobre Acentuação, quando o foco é transcrição responsável, seria correta a alternativa que afirmasse:",
+      "alternativas": {
+        "A": "Transcrever responsavelmente inclui conferir acentos, especialmente em nomes, termos técnicos e formas verbais.",
+        "B": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "C": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "D": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "E": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Transcrever responsavelmente inclui conferir acentos, especialmente em nomes, termos técnicos e formas verbais. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-025",
+      "assunto": "Acentuação",
+      "subtema": "Fala regional",
+      "nivel": "básico",
+      "tipo": "histórico",
+      "enunciado": "Em relação ao tema pronúncia e norma, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "B": "Variações de pronúncia não autorizam abandonar a acentuação normativa no texto final.",
+        "C": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída.",
+        "D": "A acentuação substitui a revisão de pontuação e de coerência.",
+        "E": "Toda palavra pronunciada com intensidade deve receber acento gráfico no texto final."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. Variações de pronúncia não autorizam abandonar a acentuação normativa no texto final. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-026",
+      "assunto": "Acentuação",
+      "subtema": "Finalidade",
+      "nivel": "intermediário",
+      "tipo": "interpretativo",
+      "enunciado": "No estudo de Acentuação, a compreensão do tema texto público exige reconhecer que:",
+      "alternativas": {
+        "A": "A acentuação substitui a revisão de pontuação e de coerência.",
+        "B": "Toda palavra pronunciada com intensidade deve receber acento gráfico no texto final.",
+        "C": "Em contextos parlamentares, o texto pode ser público e pesquisável; por isso a acentuação deve ser cuidada.",
+        "D": "A ausência de acentuação nunca causa ambiguidade em português.",
+        "E": "A acentuação deve ser marcada integralmente durante a tomada taquigráfica."
+      },
+      "gabarito": "C",
+      "explicacao": "A alternativa correta é C. Em contextos parlamentares, o texto pode ser público e pesquisável; por isso a acentuação deve ser cuidada. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-027",
+      "assunto": "Acentuação",
+      "subtema": "Limite",
+      "nivel": "avançado",
+      "tipo": "aplicado",
+      "enunciado": "Considere uma situação de registro ou transcrição relacionada ao tema não acentuar taquigrama. A conduta tecnicamente adequada corresponde a:",
+      "alternativas": {
+        "A": "A ausência de acentuação nunca causa ambiguidade em português.",
+        "B": "A acentuação deve ser marcada integralmente durante a tomada taquigráfica.",
+        "C": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "D": "Acentuar o taquigrama durante a tomada contrariaria a regra de economia e velocidade do método.",
+        "E": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos."
+      },
+      "gabarito": "D",
+      "explicacao": "A alternativa correta é D. Acentuar o taquigrama durante a tomada contrariaria a regra de economia e velocidade do método. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-028",
+      "assunto": "Acentuação",
+      "subtema": "Gramática",
+      "nivel": "básico",
+      "tipo": "terminológico",
+      "enunciado": "Para resolver corretamente uma questão sobre o tema gramática na transcrição, deve-se adotar a seguinte ideia:",
+      "alternativas": {
+        "A": "O texto final não precisa de acentos, porque a taquigrafia é fonética.",
+        "B": "Acentos gráficos servem apenas para decorar o texto, sem distinguir sentidos.",
+        "C": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "D": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "E": "O PDF ressalta que as regras gramaticais são usadas quando os taquigramas passam à escrita comum."
+      },
+      "gabarito": "E",
+      "explicacao": "A alternativa correta é E. O PDF ressalta que as regras gramaticais são usadas quando os taquigramas passam à escrita comum. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-029",
+      "assunto": "Acentuação",
+      "subtema": "Prática",
+      "nivel": "intermediário",
+      "tipo": "comparativo",
+      "enunciado": "No contexto da taquigrafia parlamentar e do método Taylor, o tema exercício de revisão deve ser compreendido como:",
+      "alternativas": {
+        "A": "Exercícios de transcrição devem incluir acentuação para aproximar o treino do produto profissional.",
+        "B": "Na transcrição, a grafia comum deve ser evitada para conservar todos os sinais originais.",
+        "C": "A norma culta não se aplica a notas taquigráficas revisadas.",
+        "D": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "E": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída."
+      },
+      "gabarito": "A",
+      "explicacao": "A alternativa correta é A. Exercícios de transcrição devem incluir acentuação para aproximar o treino do produto profissional. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    },
+    {
+      "id": "acentuacao-030",
+      "assunto": "Acentuação",
+      "subtema": "Síntese",
+      "nivel": "avançado",
+      "tipo": "conceitual",
+      "enunciado": "A respeito do tema da síntese ao texto completo, a afirmação compatível com os fundamentos da taquigrafia é:",
+      "alternativas": {
+        "A": "A diferença entre registro fonético e texto final impede qualquer uso de acentuação.",
+        "B": "A acentuação marca a passagem da síntese fonética para um texto completo e normativamente apresentável.",
+        "C": "O acento deve ser escolhido de acordo com a aparência do taquigrama, não com a palavra reconstruída.",
+        "D": "A acentuação substitui a revisão de pontuação e de coerência.",
+        "E": "Toda palavra pronunciada com intensidade deve receber acento gráfico no texto final."
+      },
+      "gabarito": "B",
+      "explicacao": "A alternativa correta é B. A acentuação marca a passagem da síntese fonética para um texto completo e normativamente apresentável. As demais alternativas confundem registro fonético com grafia final ou dispensam a norma culta na transcrição. Esse ponto se conecta ao conteúdo de A Taquigrafia e seus Fundamentos, que trata a taquigrafia como técnica fonética, sistemática e voltada à reconstrução fiel da fala."
+    }
+  ]
+}
