@@ -528,6 +528,33 @@ function renderViewBody(view) {
   }
 }
 
+function refreshHomeContent({ preserveScroll = true, activeView } = {}) {
+  const target = document.getElementById("view-root");
+  if (!target) {
+    navigateTo(activeView || "home");
+    return;
+  }
+  const scroller = document.getElementById("main-scroll");
+  const currentScroll = scroller ? scroller.scrollTop : window.scrollY;
+  const nextActiveView = activeView || (((NAV_TO_VIEW[state.currentView] || state.currentView) === "home") ? state.currentView : "home");
+
+  state.currentView = nextActiveView;
+  updateActiveNavState(nextActiveView);
+  updateHeaderCrumb(nextActiveView);
+  target.innerHTML = renderHomeView();
+
+  requestAnimationFrame(() => {
+    wireViewEvents("home");
+    if (!preserveScroll) return;
+    if (scroller) scroller.scrollTop = currentScroll;
+    else window.scrollTo({ top: currentScroll, behavior: "auto" });
+  });
+}
+
+function refreshTrainingConfig() {
+  refreshHomeContent({ preserveScroll: true, activeView: "training" });
+}
+
 function navigateToAnchor(view, anchorId, opts = {}) {
   state.pendingAnchor = { id: anchorId, open: !!opts.open, activeView: opts.activeView || view };
   if (state.currentView !== view) {
@@ -963,25 +990,35 @@ function renderReviewMode() { navigateTo("review"); }
 function renderTrainingConfig(found, canStart) {
   const wrongCount = Object.keys(loadWrongAnswers()).length;
   const reviewMode = state.filters.mode === "erros";
-  const total = reviewMode ? wrongCount : found;
+  const available = reviewMode ? wrongCount : found;
   return `
     <div class="mode-grid">
       ${modeButton("geral", "Simulado geral", "Todas as questões, com quantidade definida.")}
       ${modeButton("personalizado", "Treino personalizado", "Escolha grupos, assuntos e subtemas.")}
       ${modeButton("erros", "Revisão de erros", "Refaça questões que você errou.")}
     </div>
-    ${reviewMode ? renderReviewSummary(wrongCount) : renderFilterControls(found)}
+    ${renderTrainingAvailabilitySummary(available, reviewMode)}
+    ${reviewMode ? renderReviewModeOptions(wrongCount) : renderFilterControls(found)}
     <div class="training-footer training-start-row">
-      <div class="count-pill training-result-box ${total ? "" : "is-empty"}" aria-live="polite">
-        ${icon(total ? "check" : "alert")}
-        <strong>${total}</strong>
-        <span>${reviewMode ? "questões erradas para revisar." : "questões encontradas com os filtros atuais."}</span>
-      </div>
       <button class="btn btn-primary btn-lg start-training-button primary-button" type="button" onclick="startQuiz()" ${canStart ? "" : "disabled"}>
         ${icon("play")}<span>Iniciar treino</span>
       </button>
     </div>
     ${renderStudyTips()}
+  `;
+}
+
+function renderTrainingAvailabilitySummary(total, reviewMode) {
+  const selected = total ? Math.min(Math.max(1, Number(state.filters.quantity) || 1), total) : 0;
+  const text = reviewMode
+    ? `questões erradas salvas. Você pode escolher até ${selected} para revisar.`
+    : `questões encontradas com os filtros atuais. Treino configurado com ${selected}.`;
+  return `
+    <div class="count-pill training-count-summary ${total ? "" : "is-empty"}" aria-live="polite">
+      ${icon(total ? "check" : "alert")}
+      <strong>${total}</strong>
+      <span>${total ? text : reviewMode ? "Nenhuma questão errada salva para revisar." : "Nenhuma questão encontrada com os filtros atuais."}</span>
+    </div>
   `;
 }
 
@@ -1084,23 +1121,47 @@ function renderFilterControls(found) {
       ${renderSubthemePreview(availableSubthemes)}
     </div>
     <div class="settings-row training-options-row">
-      <div class="field quantity-control">
-        <label class="field-label" for="quantity">Quantidade de questões</label>
-        <div class="stepper">
-          <button type="button" onclick="adjustQuantity(-1)" aria-label="Diminuir">−</button>
-          <input id="quantity" type="number" min="1" max="${max}" value="${quantity}" onchange="setQuantity(this.value)">
-          <button type="button" onclick="adjustQuantity(1)" aria-label="Aumentar">+</button>
-        </div>
-      </div>
-      <div class="toggle-row shuffle-option-card">
-        <div class="toggle-copy">
-          <strong>Embaralhar questões</strong>
-          <span>Exibe as questões em ordem aleatória.</span>
-        </div>
-        <button class="switch ${state.filters.shuffleQuestions ? "is-on" : ""}" type="button" role="switch" aria-checked="${state.filters.shuffleQuestions}" aria-label="Embaralhar questões" onclick="setShuffleQuestions(${!state.filters.shuffleQuestions})"></button>
-      </div>
+      ${renderQuantityControl(max, quantity, "Quantidade de questões")}
+      ${renderShuffleControl()}
     </div>
     ${found && state.filters.quantity > found ? `<div class="warning-box" style="margin-top:12px">A quantidade foi limitada ao total encontrado pelos filtros.</div>` : ""}
+  `;
+}
+
+function renderReviewModeOptions(wrongCount) {
+  const max = Math.max(1, wrongCount);
+  const quantity = wrongCount ? Math.min(state.filters.quantity || 1, wrongCount) : 0;
+  return `
+    ${renderReviewSummary(wrongCount)}
+    <div class="settings-row training-options-row review-options-row">
+      ${renderQuantityControl(max, quantity, "Quantidade para revisar", wrongCount === 0)}
+      ${renderShuffleControl(wrongCount === 0)}
+    </div>
+  `;
+}
+
+function renderQuantityControl(max, quantity, label, disabled = false) {
+  return `
+    <div class="field quantity-control">
+      <label class="field-label" for="quantity">${escapeHtml(label)}</label>
+      <div class="stepper ${disabled ? "is-disabled" : ""}">
+        <button type="button" onclick="adjustQuantity(-1)" aria-label="Diminuir" ${disabled ? "disabled" : ""}>−</button>
+        <input id="quantity" type="number" min="1" max="${max}" value="${quantity}" onchange="setQuantity(this.value)" ${disabled ? "disabled" : ""}>
+        <button type="button" onclick="adjustQuantity(1)" aria-label="Aumentar" ${disabled ? "disabled" : ""}>+</button>
+      </div>
+    </div>
+  `;
+}
+
+function renderShuffleControl(disabled = false) {
+  return `
+    <div class="toggle-row shuffle-option-card ${disabled ? "is-disabled" : ""}">
+      <div class="toggle-copy">
+        <strong>Embaralhar questões</strong>
+        <span>Exibe as questões em ordem aleatória.</span>
+      </div>
+      <button class="switch ${state.filters.shuffleQuestions ? "is-on" : ""}" type="button" role="switch" aria-checked="${state.filters.shuffleQuestions}" aria-label="Embaralhar questões" onclick="setShuffleQuestions(${!state.filters.shuffleQuestions})" ${disabled ? "disabled" : ""}></button>
+    </div>
   `;
 }
 
@@ -1205,11 +1266,15 @@ function checkChip(value, count, type) {
 
 function adjustQuantity(delta) {
   const available = getFilteredQuestions({ applyQuantity: false }).length;
+  if (!available) {
+    refreshTrainingConfig();
+    return;
+  }
   const max = Math.max(1, available);
   const next = Math.max(1, Math.min(max, (Number(state.filters.quantity) || 1) + delta));
   state.filters.quantity = next;
   saveLastConfig();
-  renderHome();
+  refreshTrainingConfig();
 }
 
 /* ---------- Subtemas: preview + modal ---------- */
@@ -1336,7 +1401,7 @@ function closeSubthemeModal() {
   document.removeEventListener("keydown", handleSubthemeModalKey);
   saveLastConfig();
   clampQuantityToAvailable();
-  renderHome();
+  refreshTrainingConfig();
 }
 
 function filterSubthemes(query) {
@@ -1399,16 +1464,17 @@ function toggleFilter(type, value) {
   }
 
   if (state.filters.mode === "erros") {
-    renderReviewMode();
+    if (state.currentView === "review") renderReviewMode();
+    else refreshTrainingConfig();
     return;
   }
-  renderHome();
+  refreshTrainingConfig();
 }
 
 function toggleGroupExpansion(groupName) {
   if (state.expandedGroups.has(groupName)) state.expandedGroups.delete(groupName);
   else state.expandedGroups.add(groupName);
-  renderHome();
+  refreshHomeContent({ preserveScroll: true });
 }
 
 function setMode(mode) {
@@ -1422,7 +1488,17 @@ function setMode(mode) {
   clampQuantityToAvailable();
   saveLastConfig();
   state.notice = "";
-  renderHome();
+  showTrainingModeHint(mode);
+  refreshTrainingConfig();
+}
+
+function showTrainingModeHint(mode) {
+  const labels = {
+    geral: "Simulado geral",
+    personalizado: "Treino personalizado",
+    erros: "Revisão de erros"
+  };
+  showToast(`${labels[mode] || "Modo"} selecionado. Role um pouco para ajustar a quantidade antes de iniciar.`, "info", 2600);
 }
 
 function setQuantity(value) {
@@ -1430,13 +1506,13 @@ function setQuantity(value) {
   const next = Math.max(1, Math.floor(Number(value) || 1));
   state.filters.quantity = available ? Math.min(next, available) : next;
   saveLastConfig();
-  renderHome();
+  refreshTrainingConfig();
 }
 
 function setShuffleQuestions(value) {
   state.filters.shuffleQuestions = Boolean(value);
   saveLastConfig();
-  renderHome();
+  refreshTrainingConfig();
 }
 
 function selectAllContent() {
@@ -1446,7 +1522,7 @@ function selectAllContent() {
   state.filters.selectedSubthemes = [];
   clampQuantityToAvailable();
   saveLastConfig();
-  renderHome();
+  refreshHomeContent({ preserveScroll: true });
 }
 
 function clearContentSelection() {
@@ -1456,7 +1532,7 @@ function clearContentSelection() {
   if (state.filters.mode === "personalizado") state.filters.mode = "geral";
   clampQuantityToAvailable();
   saveLastConfig();
-  renderHome();
+  refreshHomeContent({ preserveScroll: true });
 }
 
 function quickGeneral() {
@@ -1516,7 +1592,7 @@ function getFilteredQuestions({ applyQuantity = true } = {}) {
   }
 
   if (state.filters.shuffleQuestions) questions = shuffleArray(questions);
-  if (applyQuantity && state.filters.mode !== "erros") {
+  if (applyQuantity) {
     questions = questions.slice(0, Math.min(state.filters.quantity, questions.length));
   }
   return questions;
@@ -1549,7 +1625,8 @@ function startQuiz() {
     state.notice = state.filters.mode === "erros"
       ? "Não há questões erradas salvas para revisar."
       : "Nenhuma questão encontrada com os filtros atuais.";
-    renderHome();
+    if (state.currentView === "review") renderReviewMode();
+    else refreshTrainingConfig();
     return;
   }
 
