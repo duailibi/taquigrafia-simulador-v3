@@ -640,6 +640,21 @@ a { color: var(--primary); }
 }
 .count-pill .icon { width: 20px; height: 20px; }
 
+.training-count-summary {
+  width: 100%;
+  margin-top: 14px;
+}
+.training-count-summary span {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+}
+
+.stepper.is-disabled,
+.toggle-row.is-disabled {
+  opacity: 0.68;
+}
+
 .training-footer {
   display: grid;
   gap: 12px;
